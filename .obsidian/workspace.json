@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Meta/Directives.md",
+                "file": "Directives.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,7 @@
   },
   "active": "32a7653bcddb2292",
   "lastOpenFiles": [
+    "001-Meta/Directives.md",
     "Directives.md",
     "000-Inbox/Git-2.54.0-64-bit.exe",
     "000-Inbox/Git-2.54.0-64-bit.exe.crdownload",

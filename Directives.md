@@ -153,3 +153,219 @@ Every challenge teaches a new topology. The protocol evolves in real time, incor
 Simplicity is the ultimate Sophistication.
 
 ### #33 Mathematical Absolute Correctness is the Ultimate Elegance.
+
+
+[For Reference:
+***
+
+KYBALION RULES
+Mentalism: "The All is Mind; the Universe is Mental." This principle posits that the underlying reality of the universe is a mental projection. Everything you experience begins as a thought.
+Correspondence: "As above, so below; as below, so above." There is a direct harmony and parallel existing between the different planes of existence (physical, mental, and spiritual).
+Vibration: "Nothing rests; everything moves; everything vibrates." Everything in the universe is in constant motion. The difference between physical matter, energy, and mind is merely a matter of their rate of vibration.
+Polarity: "Everything is dual; everything has poles; everything has its pair of opposites." Opposites are simply identical things separated only by degree (e.g., hot and cold are the same thing, just different temperatures).
+Rhythm: "Everything flows, out and in; everything has its tides; all things rise and fall." There is a constant cyclical movement—an ebb and flow, a swing of the pendulum—in all aspects of life.
+Cause and Effect: "Every Cause has its Effect; every Effect has its cause." Nothing happens by chance. Every action or occurrence sets off a chain reaction across different planes of causation.
+
+***
+
+MOSCOW RULES
+Assume nothing.
+Never go against your gut.
+Everyone is potentially under opposition control.
+Don’t look back; you are never completely alone.
+Go with the flow, blend in.
+Vary your pattern and stay within your cover.
+Lull them into a sense of complacency.
+Don’t harass the opposition.
+Pick the time and place for action.
+Keep your options open.
+
+***
+
+RED TEAM RULES:
+
+Plan.    
+[Understand. Anticipate. Adapt.]
+Execute. 
+[Adjust. Improvise. Improve.]
+Vanish.
+OODA LOOP > OBSERVE ORIENT DECIDE ACT
+
+1: The purpose of a Red Team is to become the adversary, to be the worst case scenario.
+2: People lacking imagination, skepticism, and a perverse sense of humor should not work as a Red Teamer.
+3: Red Teaming is mostly about paying attention.
+4: Understand the thing you are Red Teaming, If you don’t, the results will be poor. Spend time learning.
+5: Don’t play by the rules. Make your own and adapt.
+6: If you’re happy with your plan, you are not doing it right.
+7: The efficacy of security is determined more by what is done wrong than by what is done right.
+7a: Build on this. The bad guys typically attack deliberately and intelligently, not randomly. Mimic that.
+8: A Red Team is most vulnerable to detection and disruption just prior to an attack. Don’t make mistakes.
+9: If you’re not failing when you’re training, you’re not learning anything.
+10: There are an unlimited number of security vulnerabilities for a given system, program, or plans, most of which will never be discovered. Tap into that.
+11: When in doubt, Red Team it.
+12: We are never prepared for what we expect.
+12a: During a stressful moment, take a step back and look at the whole system. Analyze whether this is real stress or a deception by the defenders.
+12b: Act, don’t react. Plan 2-3 steps ahead.
+13: The solution is in the problem. “When in doubt, develop the situation.”
+14: The more sophisticated the technology, the more vulnerable it is to primitive attacks. People often overlook the obvious.
+14a: Most organizations will ignore or seriously underestimate the threat from insiders. That’s your in.
+15: Make it asymmetrical. Advantage-stacking is your friend..
+16: Remember PACE: Primary, Alternate, Contingency and Emergency. Always have a PACE for everything.
+17: Use ACTE: Assess the situation; Create a simple plan; Take action and Evaluate your progress.
+18: If there’s a question about if it’s necessary, remove it. KISS.
+18a: Stay small. Stay light.
+19: Don’t become predictable.
+20: Prioritize and execute.
+
+These are lessons learned during more than 17 years of Red Teaming.
+
+***
+
+DOKKODO
+Accept everything just the way it is.
+Do not seek pleasure for its own sake.
+Do not, under any circumstances, depend on a partial feeling.
+Think lightly of yourself and deeply of the world.
+Be detached from desire your whole life long.
+Do not regret what you have done.
+Never be jealous.
+Never let yourself be saddened by a separation.
+Resentment and complaint are appropriate neither for oneself or others.
+Do not let yourself be guided by the feeling of lust or love.
+In all things have no preferences.
+Be indifferent to where you live.
+Do not pursue the taste of good food.
+Do not hold on to possessions you no longer need.
+Do not act following customary beliefs.
+Do not collect weapons or practice with weapons beyond what is useful.
+Do not fear death.
+Do not seek to possess either goods or fiefs for your old age.
+Respect the gods without counting on their help.
+You may abandon your own body but you must preserve your honour.
+Never stray from the Way.
+
+***
+
+ 36 STRATEGIES OF ANCIENT CHINA (OVERVIEW)
+"The Thirty-Six Strategies" is a Chinese collection of 36 proverbs commented as militaristic tactics. Often attributed to Sun Tzu, this is generally rejected by scholars since Sun Tzu lived during the Spring and Autumn Period of China, while most of the 36 proverbs postdate that. It is believed by many to have been written by Zhuge Liang of the Three Kingdoms period.
+
+Chapter 1 - Winning Strategies
+
+    Strategy 1 "瞒天过海" - Deceive the sky to cross the ocean.
+        Moving about in the darkness and shadows, occupying isolated places, or hiding behind screens will only attract suspicious attention. To lower an enemy's guard you must act in the open hiding your true intentions under the guise of common every day activities.
+
+    Strategy 2 "围魏救赵" - Surround Wei to rescue Zhao.
+        When the enemy is too strong to attack directly, then attack something he holds dear. Know that in all things he cannot be superior. Somewhere there is a gap in the armour, a weakness that can be attacked instead.
+        In other words, you may try to attack the relatives or dear ones of the enemy to weaken him psychologically.
+
+    Strategy 3 "借刀杀人" - Borrow one's hand to kill. (Kill with a borrowed knife.)
+        Attack using the strength of another (because of lack of strength or do not want to use own strength). Trick an ally into attacking him, bribe an official to turn traitor, or use the enemy's own strength against him.
+
+    Strategy 4 "以逸待劳" - Make your enemy tire himself out while conserving energy.
+        It is an advantage to choose the time and place for battle. In this way you know when and where the battle will take place, while your enemy does not. Encourage your enemy to expend his energy in futile quests while you conserve your strength. When he is exhausted and confused, you attack with energy and purpose.
+
+    Strategy 5 "趁火打劫" - Use the opportunity of fire to rob others. (Loot a burning house.)
+        When a country is beset by internal conflicts, when disease and famine ravage the population, when corruption and crime are rampant, then it will be unable to deal with an outside threat. This is the time to attack.
+
+    Strategy 6 "声东击西" - Feign an attack in the east and attack in the west.
+        In any battle the element of surprise can provide an overwhelming advantage. Even when face to face with an enemy, surprise can still be employed by attacking where he least expects it. To do this you must create an expectation in the enemy's mind through the use of a feint.
+
+Chapter 2 - Enemy Dealing Strategies
+
+    Strategy 7 "无中生有" - Create something from nothing.
+        You use the same feint twice. Having reacted to the first and often the second feint as well, the enemy will be hesitant to react to a third feint. Therefore the third feint is the actual attack catching your enemy with his guard down.
+
+    Strategy 8 "暗渡陈仓" - Secretly utilize the Chen Chang passage. (Repair the highway to take the crude path.) e.g., the Allied invasion of Normandy and the Pas de Calais deception.
+        Attack the enemy with two convergent forces. The first is the direct attack, one that is obvious and for which the enemy prepares his defense. The second is the indirect, the attack sinister, that the enemy does not expect and which causes him to divide his forces at the last minute leading to confusion and disaster.
+
+    Strategy 9 "隔岸观火" - Watch the fires burning across the river.
+        Delay entering the field of battle until all the other players have become exhausted fighting amongst themselves. Then go in full strength and pick up the pieces.
+
+    Strategy 10 "笑里藏刀" - Knife sheathed in a smile.
+        Charm and ingratiate yourself to your enemy. When you have gained his trust, you move against him in secret
+
+    Strategy 11 "李代桃僵" - Plum tree sacrifices for the peach tree. (Sacrifice the silver to keep the gold.)
+        There are circumstances in which you must sacrifice short-term objectives in order to gain the long-term goal. This is the scapegoat strategy whereby someone else suffers the consequences so that the rest do not.
+
+    Strategy 12 "顺手牵羊" - Stealing a goat along the way (Take the opportunity to pilfer a goat.)
+        While carrying out your plans be flexible enough to take advantage of any opportunity that presents itself, however small, and avail yourself of any profit, however slight.
+
+Chapter 3 - Attacking Strategies
+
+    Strategy 13 "打草惊蛇" - Startle the snake by hitting the grass around it.
+        When you cannot detect the opponent's plans launch a direct, but brief, attack and observe your opponent reactions. His behavior will reveal his strategy.
+
+    Strategy 14 "借尸还魂" - Borrow another's corpse to resurrect the soul. (Raise a corpse from the dead.)
+        Take an institution, a technology, or a method that has been forgotten or discarded and appropriate it for your own purpose. Revive something from the past by giving it a new purpose or to reinterpret and bring to life old ideas, customs, and traditions.
+
+    Strategy 15 "调虎离山" - Entice the tiger to leave its mountain lair.
+        Never directly attack an opponent whose advantage is derived from its position. Instead lure him away from his position thus separating him from his source of strength.
+
+    Strategy 16 "欲擒姑纵" - In order to capture, one must let loose.
+        Cornered prey will often mount a final desperate attack. To prevent this you let the enemy believe he still has a chance for freedom. His will to fight is thus dampened by his desire to escape. When in the end the freedom is proven a falsehood the enemy's morale will be defeated and he will surrender without a fight.
+
+    Strategy 17 "抛砖引玉" - Tossing out a brick to get a jade
+        Prepare a trap then lure your enemy into the trap by using bait. In war the bait is the illusion of an opportunity for gain. In life the bait is the illusion of wealth, power, and sex.
+
+    Strategy 18 "擒贼擒王" - Defeat the enemy by capturing their chief.
+        If the enemy's army is strong but is allied to the commander only by money or threats then, take aim at the leader. If the commander falls the rest of the army will disperse or come over to your side. If, however, they are allied to the leader through loyalty then beware, the army can continue to fight on after his death out of vengeance.
+
+Chapter 4 - Chaos Strategies
+
+    Strategy 19 "釜底抽薪" - Remove the firewood under the cooking pot. (Remove the stick from the axe.)
+        When faced with an enemy too powerful to engage directly you must first weaken him by undermining his foundation and attacking his source of power.
+
+    Strategy 20 "混水摸鱼" - Fish in disturbed waters.
+        Before engaging your enemy's forces create confusion to weaken his perception and judgment. Do something unusual, strange, and unexpected as this will arouse the enemy's suspicion and disrupt his thinking. A distracted enemy is thus more vulnerable.
+
+    Strategy 21 "金蝉脱壳" - Slough off the cicada's shell. (False appearances mislead the enemy.)
+        When you are in danger of being defeated, and your only chance is to escape and regroup, then create an illusion. While the enemy's attention is focused on this artifice, secretly remove your men leaving behind only the facade of your presence.
+
+    Strategy 22 "关门捉贼" - Shut the door to catch the thief.
+        If you have the chance to completely capture the enemy then you should do so thereby bringing the battle or war to a quick and lasting conclusion. To allow your enemy to escape plants the seeds for future conflict. But if they succeed in escaping, be wary of giving chase.
+
+    Strategy 23 "远交近攻" - Befriend a distant state while attacking a neighbor.
+        It is known that nations that border each other become enemies while nations separated by distance and obstacles make better allies. When you are the strongest in one field, your greatest threat is from the second strongest in your field, not the strongest from another field.
+
+    Strategy 24 "假道伐虢" - Obtain safe passage to conquer the Kingdom of Guo.
+        Borrow the resources of an ally to attack a common enemy. Once the enemy is defeated, use those resources to turn on the ally that lent you them in the first place.
+
+Chapter 5 - Proximate Strategies
+
+    Strategy 25 "偷梁换柱" - Replace the beams with rotten timbers.
+        Disrupt the enemy's formations, interfere with their methods of operations, change the rules in which they are used to following, go contrary to their standard training. In this way you remove the supporting pillar, the common link that makes a group of men an effective fighting force.
+
+    Strategy 26 "指桑骂槐" - Point at the mulberry and curse the locust.
+        To discipline, control, or warn others whose status or position excludes them from direct confrontation; use analogy and innuendo. Without directly naming names, those accused cannot retaliate without revealing their complicity.
+
+    Strategy 27 "假痴不癫" - Pretend to be a pig in order to eat the tiger. (Play dumb.)
+        Hide behind the mask of a fool, a drunk, or a madman to create confusion about your intentions and motivations. Lure your opponent into underestimating your ability until, overconfident, he drops his guard. Then you may attack.
+
+    Strategy 28 "上屋抽梯" - Remove the ladder when the enemy has ascended to the roof (Cross the river and destroy the bridge.)
+        With baits and deceptions lure your enemy into treacherous terrain. Then cut off his lines of communication and avenue of escape. To save himself he must fight both your own forces and the elements of nature.
+
+    Strategy 29 "树上开花" - Deck the tree with false blossoms.
+        Tying silk blossoms on a dead tree gives the illusion that the tree is healthy. Through the use of artifice and disguise make something of no value appear valuable; of no threat appear dangerous; of no use appear useful.
+
+    Strategy 30 "反客为主" - Make the host and the guest exchange places.
+        Defeat the enemy from within by infiltrating the enemy's camp under the guise of cooperation, surrender, or peace treaties. In this way you can discover his weakness and then, when the enemy's guard is relaxed, strike directly at the source of his strength.
+
+Chapter 6 - Defeat Strategies
+
+    Strategy 31 "美人计" - The beauty trap. (The tender trap, use a woman to ensnare a man.)
+        Send your enemy beautiful women to cause discord within his camp. This strategy can work on three levels. First, the ruler becomes so enamored with the beauty that he neglects his duties and allows his vigilance to wane. Second, other males at court will begin to display aggressive behavior that inflames minor differences hindering co-operation and destroying morale. Third, other females at court, motivated by jealousy and envy, begin to plot intrigues further exacberating the situation.
+
+    Strategy 32 "空城计" - Empty fort. (Mental trap, empty a fort to make enemy think it is filled with traps.)
+        When the enemy is superior in numbers and your situation is such that you expect to be overrun at any moment, then drop all pretence of military preparedness and act casually. Unless the enemy has an accurate description of your situation this unusual behavior will arouse suspicions. With luck he will be dissuaded from attacking.
+
+    Strategy 33 "反间计" - Let the enemy's spy sow discord in the enemy camp. (Use enemy's own spy to spread false information.)
+        Undermine your enemy's ability to fight by allowing enemy's spy to remain within your ranks,while you feed false information causing enemy discord with his friends, allies, advisors, family, commanders, soldiers, and population. Preoccupied settling internal disputes, your enemy's ability to attack or defend is compromised and your control of him is increased.
+
+    Strategy 34 "苦肉计" - Inflict injury on one's self to win the enemy's trust. (Fall into a trap; become baited.)
+        Pretending to be injured has two possible applications. In the first, the enemy is lulled into relaxing his guard since he no longer considers you to be an immediate threat. The second is a way of ingratiating yourself to your enemy by pretending the injury was caused by a mutual enemy.
+
+    Strategy 35 "连环计" - Chain together the enemy's ships. (Never rely on but a single strategy.)
+        In important matters one should use several strategies applied simultaneously. Keep different plans operating in an overall scheme; in this manner if any one strategy fails you would still have several others to fall back on.
+
+    The 36th strategy "走为上" - Run away to fight another day.
+        If it becomes obvious that your current course of action will lead to defeat then retreat and regroup. When your side is losing there are only three choices remaining: surrender, compromise, or escape. Surrender is complete defeat, compromise is half defeat, but escape is not defeat. As long as you are not defeated, you still have a chance.]
