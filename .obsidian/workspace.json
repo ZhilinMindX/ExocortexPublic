@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9220d6ff8e2d753e",
+        "id": "874ac6501a335e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "32a7653bcddb2292",
+            "id": "35d42ae8b67946ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "000-Dashboard"
+              "title": "New tab"
             }
           }
         ]
@@ -184,27 +180,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "32a7653bcddb2292",
+  "active": "130eef6429e42d14",
   "lastOpenFiles": [
+    "000-Inbox/Kybalion.md",
+    "000-Inbox/Dokkodo.md",
+    "000-Inbox/36Strategies.md",
+    "001-Meta/36Strategies.md",
     "Directives.md",
+    "001-Meta/RedTeamRules.md",
+    "001-Meta/MoscowRules.md",
+    "001-Meta/Kybalion.md",
+    "001-Meta/Dokkodo.md",
+    "000-Inbox/Directives.md",
+    "000-Inbox/Directives.md.crdownload",
+    "000-Inbox/5744ce0b-a945-4407-9f26-75025372faba.tmp",
+    "000-Inbox/36Strategies.md.crdownload",
+    "000-Inbox/e3033584-99cd-4e5c-9cdc-955dc6f77e23.tmp",
+    "000-Inbox/Dokkodo.md.crdownload",
+    "000-Inbox/611c7dc7-a88c-438e-930d-304dddaa0d52.tmp",
+    "000-Inbox/RedTeamRules.md",
+    "000-Inbox/RedTeamRules.md.crdownload",
+    "000-Inbox/547e0ede-d84c-4c8d-8b19-189e6d924d6b.tmp",
+    "000-Inbox/MoscowRules.md",
+    "000-Inbox/MoscowRules.md.crdownload",
+    "000-Inbox/74db256e-0317-4469-bd03-df382eef2d99.tmp",
     "000-Dashboard.md",
     "001-Meta/Directives.md",
-    "000-Inbox/Git-2.54.0-64-bit.exe",
-    "000-Inbox/Git-2.54.0-64-bit.exe.crdownload",
-    "000-Inbox/68489bfe-6dc6-40fc-a698-5bd99690e923.tmp",
     "005-Courses/Hal 9000.png",
     "004-Archive/Hal 9000.png",
     "003-Research/Hal 9000.png",
     "002-Projects/Hal 9000.png",
     "001-Meta/Hal 9000.png",
     "000-Inbox/Hal 9000.png",
-    "Welcome.md",
-    "999-Templates",
-    "005-Courses",
-    "004-Archive",
-    "003-Research",
-    "002-Projects",
-    "001-Meta",
-    "000-Inbox"
+    "Welcome.md"
   ]
 }
