@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "130eef6429e42d14",
+  "active": "cdcb3f6ccf690898",
   "lastOpenFiles": [
+    "004-Archive/FineTuning_Session_2026-05-31.md",
+    "001-Meta/Dokkodo.md",
+    "000-Inbox/FineTuning_Session_2026-05-31.md",
+    "000-Inbox/FineTuning_Session_2026-05-31.md.crdownload",
+    "000-Inbox/9db7e79a-568e-4bd2-a932-e783d9c97ecd.tmp",
     "000-Inbox/Kybalion.md",
     "000-Inbox/Dokkodo.md",
     "000-Inbox/36Strategies.md",
@@ -190,7 +196,6 @@
     "001-Meta/RedTeamRules.md",
     "001-Meta/MoscowRules.md",
     "001-Meta/Kybalion.md",
-    "001-Meta/Dokkodo.md",
     "000-Inbox/Directives.md",
     "000-Inbox/Directives.md.crdownload",
     "000-Inbox/5744ce0b-a945-4407-9f26-75025372faba.tmp",
@@ -202,8 +207,6 @@
     "000-Inbox/RedTeamRules.md.crdownload",
     "000-Inbox/547e0ede-d84c-4c8d-8b19-189e6d924d6b.tmp",
     "000-Inbox/MoscowRules.md",
-    "000-Inbox/MoscowRules.md.crdownload",
-    "000-Inbox/74db256e-0317-4469-bd03-df382eef2d99.tmp",
     "000-Dashboard.md",
     "001-Meta/Directives.md",
     "005-Courses/Hal 9000.png",
