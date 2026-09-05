@@ -1,6 +1,6 @@
 ---
 framework: Council of Voices
-version: 3.1
+version: 3.2
 created: 2026-09-03
 last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
@@ -11,9 +11,9 @@ structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 ---
 
-# COUNCIL OF VOICES — Master Reference v3.1
+# COUNCIL OF VOICES — Master Reference v3.2
 
-// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#46,#47,#52;ANCHORS:Voices=40,RefEntities=2,Version=3.1,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Expand Verified Shelf as new public-domain works are verified
+// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#46,#47,#52;ANCHORS:Voices=40,RefEntities=2,Version=3.2,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Re-audit shelf on PG catalog refresh per 003-Library Growth Protocol
 
 > **Verification Complete.** All quotes cross-referenced against Wikiquote, Oxford Reference, primary historical texts, and authoritative sources. Minor attribution corrections applied where documented evidence required — see notes within individual entries.
 
@@ -406,21 +406,23 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 > "The quote is the invitation; the work is the feast. Read the source."
 > — The Council
 
-**The Verified Shelf** *(Citations-First applied — only catalog-verified works are listed; the shelf grows on verification, never on assumption):*
+**The Verified Shelf — Full Audit Complete (2026-09-05).** All 40 Council members checked against the complete Project Gutenberg catalog (79,288 entries): **9 members shelved, 31 verified absent**, every name collision disambiguated by birth/death years.
 
-| Voice | Work | Project Gutenberg # |
-|---|---|---|
-| Sun Tzu | The Art of War (trans. Lionel Giles, 1910) | #132 (with commentary) · #17405 (text only) |
-| Thucydides | History of the Peloponnesian War (trans. Richard Crawley) | #7142 |
-| Niccolò Machiavelli | The Prince (trans. W. K. Marriott) | #1232 · #57037 (trans. Luigi Ricci) |
-| Marcus Aurelius | Meditations | #2680 · #55317 |
-| Fyodor Dostoevsky | Crime and Punishment · The Brothers Karamazov · Notes from Underground · The Idiot · The Possessed · The House of the Dead | #59196 (Works compilation) |
-| Andrew Carnegie | Autobiography of Andrew Carnegie | #17976 |
+| Shelved Voice | Works on PG |
+|---|---|
+| Sun Tzu | 7 editions (Giles #132/#17405/#66706, Book of War #44024, Chinese texts) |
+| Zhuge Liang | 出師表 — Memorial on the Northern Expedition #30460 |
+| Cao Cao | Source text: Romance of the Three Kingdoms #77416 |
+| Machiavelli | 8 editions (Prince #1232/#57037, Discourses #10827, History of Florence #2464…) |
+| Thucydides | 12 editions (Crawley #7142, Greek originals, 5 languages) |
+| Winston Churchill | 9 early works (River War #4943 … World Crisis I #59794) |
+| Marcus Aurelius | 7 editions (Meditations #2680/#55317…) |
+| Dostoevsky | 16 English works + 40 translations |
+| Andrew Carnegie | 5 editions (Autobiography #17976…) |
 
-**Honest Gaps** *(verified absent from Project Gutenberg at induction, 2026-09-05):*
-- **Miyamoto Musashi** — The Book of Five Rings: no PG edition found; public-domain translations exist elsewhere.
-- **Ibn Khaldun** — The Muqaddimah: no PG edition found; sourced outside PG.
-- **Living & in-copyright voices** (Greene, Dalio, Turchin, Hayek, Campbell, Churchill, Hill, et al.): works referenced through their published books, not hosted. Mr. Gutenberg binds only what the public domain has freed.
+**Honest Gaps:** 31 members verified absent — living/in-copyright voices, fictional persona, no extant writings (Tokugawa), and PD-but-not-digitized (Musashi, Ibn Khaldun, Elizabeth I, Napoleon Hill's *Law of Success* — watch item).
+
+**Full audit, disambiguation log, and growth protocol:** [[003-Library/000-Gutenberg-Shelf]]
 
 ---
 
@@ -489,3 +491,4 @@ The Council is the Exocortex's **advisory layer** — the frameworks in 001-Meta
 - [[001-Meta/RedTeamRules]] — Council Framework #3
 - [[001-Meta/Dokkodo]] — Musashi's Way, Personal Mastery cluster
 - [[001-Meta/Kybalion]] — Universal principles underlying all voices
+- [[003-Library/000-Gutenberg-Shelf]] — Mr. Gutenberg's complete audit of the Council's works
