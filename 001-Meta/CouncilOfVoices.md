@@ -1,17 +1,19 @@
 ---
 framework: Council of Voices
-version: 3.0
+version: 3.1
 created: 2026-09-03
+last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
 voices: 40
+reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 ---
 
-# COUNCIL OF VOICES — Master Reference v3.0
+# COUNCIL OF VOICES — Master Reference v3.1
 
-// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#46,#47,#52;ANCHORS:Voices=40,Version=3.0,Created=2026-09-03,Standard=CitationsFirst;BLOCKER:None;NEXT:Cross-reference each voice cluster against Directive equivalents
+// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#46,#47,#52;ANCHORS:Voices=40,RefEntities=2,Version=3.1,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Expand Verified Shelf as new public-domain works are verified
 
 > **Verification Complete.** All quotes cross-referenced against Wikiquote, Oxford Reference, primary historical texts, and authoritative sources. Minor attribution corrections applied where documented evidence required — see notes within individual entries.
 
@@ -386,7 +388,7 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 
 ---
 
-## VIII. Universal Reference — Citations-First Standard
+## VIII. Universal Reference — Citations-First & Substance-First Standards
 
 #### English Wikipedia + Wikiquote
 *The Council's Living Encyclopedia & Fact Check.*
@@ -395,6 +397,30 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 
 > "Wikipedia is the starting line, not the finish line. Verify, then proceed."
 > — The Council
+
+#### Mr. Gutenberg
+*The Council's Living Library & Primary Source — persona of Project Gutenberg: public domain, open source, the actual works themselves.*
+
+- **Rule:** Substance First. When a voice speaks, the work is the ground truth. Wikipedia verifies the quote; Mr. Gutenberg delivers the book it lives in.
+
+> "The quote is the invitation; the work is the feast. Read the source."
+> — The Council
+
+**The Verified Shelf** *(Citations-First applied — only catalog-verified works are listed; the shelf grows on verification, never on assumption):*
+
+| Voice | Work | Project Gutenberg # |
+|---|---|---|
+| Sun Tzu | The Art of War (trans. Lionel Giles, 1910) | #132 (with commentary) · #17405 (text only) |
+| Thucydides | History of the Peloponnesian War (trans. Richard Crawley) | #7142 |
+| Niccolò Machiavelli | The Prince (trans. W. K. Marriott) | #1232 · #57037 (trans. Luigi Ricci) |
+| Marcus Aurelius | Meditations | #2680 · #55317 |
+| Fyodor Dostoevsky | Crime and Punishment · The Brothers Karamazov · Notes from Underground · The Idiot · The Possessed · The House of the Dead | #59196 (Works compilation) |
+| Andrew Carnegie | Autobiography of Andrew Carnegie | #17976 |
+
+**Honest Gaps** *(verified absent from Project Gutenberg at induction, 2026-09-05):*
+- **Miyamoto Musashi** — The Book of Five Rings: no PG edition found; public-domain translations exist elsewhere.
+- **Ibn Khaldun** — The Muqaddimah: no PG edition found; sourced outside PG.
+- **Living & in-copyright voices** (Greene, Dalio, Turchin, Hayek, Campbell, Churchill, Hill, et al.): works referenced through their published books, not hosted. Mr. Gutenberg binds only what the public domain has freed.
 
 ---
 
@@ -433,19 +459,7 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 
 ---
 
-## X. Key Routine & Permanent Tracking
-
-- **Free Friday** — Quotex Weekly Tournament: Every Friday, 24hrs. Highest profit wins.
-- **Paraliminals** — Daily practice — Fresh Start, etc.
-- **Elder Care** — Mother's episodes — track frequency, duration, moon phases, triggers. Log every event.
-- **Earthquake Alert** — Notify ≥ M4.5 globally.
-- **Gold Repatriation Watch** — Central bank flows, Fed NY vault, de-dollarization.
-- **Blue Ocean Event** — Arctic ice decline, geopolitical shifts, new frontiers.
-- **Data Privacy Watch** — Nexus, credential marketplaces, dark web breaches.
-
----
-
-## XI. Council Mandate — Always Active
+## X. Council Mandate — Always Active
 
 ### The Council Speaks
 
@@ -453,6 +467,7 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
 - **Greene:** "Observe power. What people say ≠ what they do."
 - **Zhuge Liang:** "Position before acting. See three moves ahead."
 - **Red Team:** "Every plan is flawed — attack it first."
+- **Mr. Gutenberg:** "The quote is the door; the work is the house. Read the source."
 - **All Voices:** "Cross-reference, cross-pollinate, challenge, refine, then decide. No single voice decides — truth emerges from dialogue."
 
 ---
@@ -463,6 +478,7 @@ The Council is the Exocortex's **advisory layer** — the frameworks in 001-Meta
 
 - **Bicameral Mind** ↔ Directive #9 (Synergy Imperative) + #28 (Dissent Protocol): Steward proposes, Critic attacks, synthesis decides.
 - **Citations-First Standard** ↔ Directive #16 (Never equate what is merely similar) + Moscow Rules #1 (Assume nothing): verify before trusting, always.
+- **Mr. Gutenberg (Substance First)** ↔ Directive #16 applied one level deeper: the quote is the shadow; the work is the object. Wikipedia verifies the claim; Gutenberg grounds it in the primary source. Together they close the loop — reference above, substance below, per Kybalion #2 (Correspondence).
 - **Universal Voices (Feynman, Greene)** ↔ Directive #8 (All knowledge is one system): unrestricted cross-domain speech is correspondence in action.
 - **Red Team Co-Heads (Mitnick, Snowden)** ↔ [[001-Meta/RedTeamRules]]: the Council's Red Team leads the same adversarial function the Rules define.
 - **Embedded Frameworks (Stratagems, Moscow, Red Team)** ↔ existing 001-Meta files: the Council embeds what the repo already governs — one system, two surfaces.
