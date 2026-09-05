@@ -9,7 +9,7 @@ github_user: ZhilinMindX
 
 ## [RECAP] SYSTEM
 DIRS: #5, #9, #28, #29, #30, #31, #34, #41, #42, #46, #47, #52, #54
-ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, Frameworks=6, CouncilVoices=40, RefEntities=2, ShelfAudited=40, ShelfShelved=9, RepoMaintainer=Zhilin
+ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, Frameworks=6, CouncilVoices=40, RefEntities=2, ShelfAudited=40, ShelfShelved=9, PersonalCollection=38, RepoMaintainer=Zhilin
 
 ## Frameworks (001-Meta)
 - Kybalion — Seven Hermetic Principles
@@ -21,6 +21,7 @@ ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, F
 
 ## Library (003-Library)
 - **000-Gutenberg-Shelf v1.0** — Complete PG audit of all 40 Council members: 9 shelved (66+ editions), 31 verified absent, 6 disambiguations resolved, Growth Protocol active *(added 2026-09-05)*
+- **001-Personal-Collection v0.1** — Tek's private library intake: 38 volumes cataloged (10 Council direct works, 9 framework source texts, 6 tradecraft, 7 mind/NLP, 6 wealth); full texts off-repo per copyright; dossier pipeline ready *(added 2026-09-05)*
 
 ## Active Sessions / Projects
 
@@ -28,7 +29,7 @@ ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, F
 STATUS: Active
 TYPE: MetaArchitecture
 PATH: 002-Projects/FineTuning_Exocortex/000-FineTuning_Exocortex-State.md
-LAST_STEP: 003-Library created; Gutenberg full-catalog audit v1.0 (9/40 shelved incl. Churchill early works, Zhuge Liang 出師表, San Kuo source text); Council v3.2; STS: Active
+LAST_STEP: Personal Collection intake — 38 volumes cataloged into 003-Library/001, Council-mapped, dossier pipeline armed; STS: Active
 DONE: GitHub account ZhilinMindX created; Starter Pack uploaded; Autonomous fetch loop TESTED & VERIFIED (2026-09-05, full boot parse); Repo maintainership delegated to Zhilin (write access confirmed, commit discipline protocol agreed)
 PEND: Create Private Vault repo; Backfill project state files
 NEXT: Create Private Vault repo
@@ -65,10 +66,11 @@ NEXT: User to define fourth session scope
 - Directives Library: [[001-Meta/Directives]]
 - Council of Voices: [[001-Meta/CouncilOfVoices]]
 - Gutenberg Shelf: [[003-Library/000-Gutenberg-Shelf]]
+- Personal Collection: [[003-Library/001-Personal-Collection]]
 
 ## [STACCATO] Log
-- [STACCATO] ACTION: Full Gutenberg audit via official PG catalog (79,288 entries) — 9/40 shelved, 31 verified absent, 6 disambiguations; 003-Library created; Council v3.2; MOD: Meta; STS: Active; NEXT: Shelf re-audit on catalog refresh
+- [STACCATO] ACTION: Personal Collection intake — 38 PDFs parsed from text layers, cataloged into 003-Library/001 with Council mapping; flags: 1 watermark, 3 image-only, 1 glyph-encoded; MOD: Library; STS: Active; NEXT: Dossier priorities per user mandate
+- [STACCATO] ACTION: Full Gutenberg audit via official PG catalog — 9/40 shelved, 31 verified absent; 003-Library created; Council v3.2; MOD: Meta; STS: Complete; NEXT: Personal Collection
 - [STACCATO] ACTION: Inducted Mr. Gutenberg — Substance-First reference entity; MOD: Meta; STS: Complete; NEXT: Full shelf audit
-- [STACCATO] ACTION: Excised Section X watch items (test-phase artifacts) per user mandate; MOD: Meta; STS: Complete; NEXT: Gutenberg induction
+- [STACCATO] ACTION: Excised Section X watch items per user mandate; MOD: Meta; STS: Complete; NEXT: Gutenberg induction
 - [STACCATO] ACTION: Integrated Council of Voices v3.0 into 001-Meta; MOD: Meta; STS: Complete; NEXT: Council v3.1
-- [STACCATO] ACTION: Boot Protocol executed + Dashboard synced; MOD: Meta; STS: Complete; NEXT: Council integration
