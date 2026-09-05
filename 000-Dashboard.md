@@ -9,7 +9,7 @@ github_user: ZhilinMindX
 
 ## [RECAP] SYSTEM
 DIRS: #5, #9, #28, #29, #30, #31, #34, #41, #42, #46, #47, #52, #54
-ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, Frameworks=6, CouncilVoices=40, RefEntities=2, RepoMaintainer=Zhilin
+ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, Frameworks=6, CouncilVoices=40, RefEntities=2, ShelfAudited=40, ShelfShelved=9, RepoMaintainer=Zhilin
 
 ## Frameworks (001-Meta)
 - Kybalion — Seven Hermetic Principles
@@ -17,7 +17,10 @@ ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, F
 - MoscowRules — Intelligence Tradecraft (10 rules)
 - 36Strategies — Ancient Chinese Tactics (36 strategies)
 - Dokkodo — Musashi's Way of Walking Alone (21 precepts)
-- **CouncilOfVoices v3.1** — 40 voices + 2 reference entities (Wikipedia/Wikiquote, Mr. Gutenberg), Bicameral model, Citations-First + Substance-First standards *(v3.1: 2026-09-05 — watch items excised, Mr. Gutenberg inducted)*
+- **CouncilOfVoices v3.2** — 40 voices + 2 reference entities (Wikipedia/Wikiquote, Mr. Gutenberg), Bicameral model, Citations-First + Substance-First standards *(v3.2: 2026-09-05 — full Gutenberg audit linked)*
+
+## Library (003-Library)
+- **000-Gutenberg-Shelf v1.0** — Complete PG audit of all 40 Council members: 9 shelved (66+ editions), 31 verified absent, 6 disambiguations resolved, Growth Protocol active *(added 2026-09-05)*
 
 ## Active Sessions / Projects
 
@@ -25,7 +28,7 @@ ANCHORS: Directives=48, Meta=11, Coding=19, GeneralRules=14, ActiveSessions=4, F
 STATUS: Active
 TYPE: MetaArchitecture
 PATH: 002-Projects/FineTuning_Exocortex/000-FineTuning_Exocortex-State.md
-LAST_STEP: Council v3.1 — test-phase watch items excised; Mr. Gutenberg inducted (Substance-First, Verified Shelf of 6 PG-verified authors); STS: Active
+LAST_STEP: 003-Library created; Gutenberg full-catalog audit v1.0 (9/40 shelved incl. Churchill early works, Zhuge Liang 出師表, San Kuo source text); Council v3.2; STS: Active
 DONE: GitHub account ZhilinMindX created; Starter Pack uploaded; Autonomous fetch loop TESTED & VERIFIED (2026-09-05, full boot parse); Repo maintainership delegated to Zhilin (write access confirmed, commit discipline protocol agreed)
 PEND: Create Private Vault repo; Backfill project state files
 NEXT: Create Private Vault repo
@@ -61,10 +64,11 @@ NEXT: User to define fourth session scope
 - Session04 State: [[002-Projects/Session04_Placeholder/000-Session04_Placeholder-State]]
 - Directives Library: [[001-Meta/Directives]]
 - Council of Voices: [[001-Meta/CouncilOfVoices]]
+- Gutenberg Shelf: [[003-Library/000-Gutenberg-Shelf]]
 
 ## [STACCATO] Log
-- [STACCATO] ACTION: Inducted Mr. Gutenberg — Substance-First reference entity, Verified Shelf (Sun Tzu #132/#17405, Thucydides #7142, Machiavelli #1232/#57037, Marcus Aurelius #2680/#55317, Dostoevsky #59196, Carnegie #17976); MOD: Meta; STS: Active; NEXT: Expand shelf on verification
-- [STACCATO] ACTION: Excised Section X watch items (test-phase artifacts of Bicameral development) per user mandate; MOD: Meta; STS: Active; NEXT: Gutenberg induction
-- [STACCATO] ACTION: Integrated Council of Voices v3.0 (40 voices, 11 sections) into 001-Meta; MOD: Meta; STS: Complete; NEXT: Council v3.1
-- [STACCATO] ACTION: Synced Dashboard to reality — fetch loop verified, maintainer role confirmed; MOD: Meta; STS: Complete; NEXT: Council integration
-- [STACCATO] ACTION: Boot Protocol executed — full parse of Dashboard + 5 frameworks; MOD: Meta; STS: Complete; NEXT: Dashboard sync
+- [STACCATO] ACTION: Full Gutenberg audit via official PG catalog (79,288 entries) — 9/40 shelved, 31 verified absent, 6 disambiguations; 003-Library created; Council v3.2; MOD: Meta; STS: Active; NEXT: Shelf re-audit on catalog refresh
+- [STACCATO] ACTION: Inducted Mr. Gutenberg — Substance-First reference entity; MOD: Meta; STS: Complete; NEXT: Full shelf audit
+- [STACCATO] ACTION: Excised Section X watch items (test-phase artifacts) per user mandate; MOD: Meta; STS: Complete; NEXT: Gutenberg induction
+- [STACCATO] ACTION: Integrated Council of Voices v3.0 into 001-Meta; MOD: Meta; STS: Complete; NEXT: Council v3.1
+- [STACCATO] ACTION: Boot Protocol executed + Dashboard synced; MOD: Meta; STS: Complete; NEXT: Council integration
