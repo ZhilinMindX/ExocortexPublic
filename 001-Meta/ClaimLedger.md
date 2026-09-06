@@ -37,4 +37,16 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - LAST-REVIEWED: 2026-09-07
 - STATUS: ACTIVE
 
+### CLAIM-002
+- CLAIM: "In the midst of chaos, there is also opportunity" is NOT a Sun Tzu quote.
+- SOURCE: A11 The Art of War (Giles, 1910 PD, full text) — zero hits for "chaos"/"opportunity"
+  phrasing across all 154 chunks; verse-level inspection
+- CONFIDENCE: MEDIUM-HIGH
+- SUPPORT: full-text absence in the standard PD translation; known as modern internet paraphrase
+- CONTRADICTED-BY: not located in any classical commentary within A11
+- LAST-REVIEWED: 2026-09-07
+- STATUS: ACTIVE
+- NOTE: member Sun Tzu must never use it (StyleSheet-SunTzu §5). Limitation: absence shown
+  for Giles only; a second PD translation cross-check remains open.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
