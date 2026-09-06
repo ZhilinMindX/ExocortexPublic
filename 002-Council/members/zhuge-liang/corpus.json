@@ -1,0 +1,18 @@
+{
+  "books": [
+    "A13"
+  ],
+  "layers": {
+    "confirmed": [
+      "A13 Former CSB"
+    ],
+    "disputed": [
+      "A13 Later CSB"
+    ],
+    "doctrine-adjacent": [
+      "B2-B7"
+    ]
+  },
+  "chunks": 5,
+  "notes": "CLAIM-003, CLAIM-004; stratagem voice by attributed tradition (§6b)"
+}
