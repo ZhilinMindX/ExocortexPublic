@@ -49,4 +49,33 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - NOTE: member Sun Tzu must never use it (StyleSheet-SunTzu §5). Limitation: absence shown
   for Giles only; a second PD translation cross-check remains open.
 
+### CLAIM-003
+- CLAIM: The Thirty-Six Stratagems is NOT by Zhuge Liang (nor Sun Tzu) — an anonymous
+  compilation, likely late-Ming/early-Qing.
+- SOURCE: B4 Thirty-Six Stratagems: A Modern Interpretation, p.7 — 'neither are regarded
+  as the true author by most historians'; B7 p.6 — stratagem tradition draws on his
+  ACTIONS, compiled centuries later
+- CONFIDENCE: HIGH
+- SUPPORT: internal corpus (B4 p.7, B7 p.6); scholarly consensus (anachronistic
+  stratagem names reference events centuries after his death)
+- CONTRADICTED-BY: popular/traditional attribution only
+- LAST-REVIEWED: 2026-09-07
+- STATUS: ACTIVE
+- NOTE: Zhuge Liang persona may use stratagem doctrine flagged as later tradition;
+  never claims authorship (StyleSheet-ZhugeLiang §5)
+
+### CLAIM-004
+- CLAIM: The Later Chu Shi Biao (228 AD) is of disputed authorship — suspected
+  not written by Zhuge Liang.
+- SOURCE: A13 apparatus + external scholarship: Qing scholar Qian Dazhao's doubts;
+  the text mentions Zhao Yun's death though Sanguozhi records he died in 229
+- CONFIDENCE: MEDIUM-HIGH
+- SUPPORT: anachronism (Zhao Yun); tone differs sharply from the Former memorial;
+  absent from Zhuge Liang's collected writings, appears only via Zhang Yan's Mo Ji
+- CONTRADICTED-BY: traditional inclusion in his canon; Pei Songzhi transmitted it
+- LAST-REVIEWED: 2026-09-07
+- STATUS: ACTIVE
+- NOTE: quotes from the Later memorial carry the DISPUTED flag; downweight in any
+  future adapter training
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
