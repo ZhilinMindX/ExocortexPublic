@@ -1,0 +1,15 @@
+{
+  "books": [
+    "A14",
+    "A15",
+    "A16",
+    "A17"
+  ],
+  "layers": {
+    "confirmed": [
+      "A14-A17"
+    ]
+  },
+  "chunks": 1064,
+  "notes": "early voice only (1898-1909); wartime PM out of corpus; 1902 abridgement ruling; novelist homonym quarantined"
+}
