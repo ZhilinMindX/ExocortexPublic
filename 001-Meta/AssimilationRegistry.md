@@ -35,7 +35,8 @@ directive_refs: [9, 15, 16, 28, 46, 52]
 From ruflo: TrajectoryBank, BootAudit, Project-Schema (GOAP), CouncilVoting.
 From doppelganger field: this registry; claim-ledger + MOC + compounding-loop
 doctrine (Section IV pending implementation).
-From Uncensored-Local-Studio (chassis candidate): adopt workspace-swapping
+From hermes-agent: DeepStudy-HermesLoop (HARDLINE standards, curator lifecycle,
+book-to-skill). From Uncensored-Local-Studio (chassis candidate): adopt workspace-swapping
 (one engine hot at a time = VRAM/RAM doctrine) and sidecar-metadata provenance
 (every artifact carries its parameters). Reject: branding, image-gen scope.
 Noted 2026-09-07: no RAG/persona layer — it is a runtime, not a mind.
@@ -84,8 +85,10 @@ vault. Build when the Architect greenlights.
 
 ## VI. Standing Watchlist (recon continues)
 
-- hermes-agent: skill self-improvement loop — deepest convergence with our
-  Directive system; study their skill-creation-from-experience mechanic next.
+- hermes-agent: skill self-improvement loop — STUDIED 2026-09-07, see
+  [[DeepStudy-HermesLoop]]: assimilated HARDLINE authoring standards, curator
+  lifecycle (archive-not-delete), book-to-skill layout (grounding fast-layer).
+  Rejected: Honcho user-modeling, LLM consolidation forks (token cost).
 - agency-agents-zh: role-pack patterns for future Council expansion.
 - screenpipe: only if continuous-capture ever becomes in-scope.
 - agentskills.io ecosystem: our host environment itself uses skills; watch
