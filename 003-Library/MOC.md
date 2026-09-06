@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 0.5
+version: 0.6
 created: 2026-09-07
 ---
 
@@ -42,6 +42,10 @@ created: 2026-09-07
 - E1 Disciplined Trader (Douglas), E2 Zurich Axioms, E3 How to Get Lucky (Gunther) ->
   MoneyPlan project / Dalio axis | E4 Richest Man in Babylon (PD) | E5 Compound Effect |
   E6 Trump U Entrepreneurship
+
+### Council packages
+- Canonical member packages live at [[002-Council]]/members/{name}/ (voice/anchors/corpus/bans)
+- References layer (book-to-skill): references/B2-36-stratagems.md (pilot)
 
 ## Links
 - Registry: [[003-Library/001-Personal-Collection]]
