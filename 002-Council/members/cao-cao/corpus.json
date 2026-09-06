@@ -1,0 +1,15 @@
+{
+  "books": [
+    "A11-commentary"
+  ],
+  "layers": {
+    "confirmed": [
+      "A11 Ts'ao Kung notes"
+    ],
+    "doctrine-adjacent": [
+      "B2-B7"
+    ]
+  },
+  "chunks": 0,
+  "notes": "extract by commentator tag; CLAIM-005 rivalry theater; poems excluded (no PD translation)"
+}
