@@ -1,0 +1,12 @@
+{
+  "books": [
+    "A10"
+  ],
+  "layers": {
+    "confirmed": [
+      "A10"
+    ]
+  },
+  "chunks": 300,
+  "notes": "Oxford World's Classics edition; mistranslation fenced by CLAIM-001"
+}
