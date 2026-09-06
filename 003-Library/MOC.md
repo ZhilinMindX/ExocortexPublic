@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 0.1
+version: 0.2
 created: 2026-09-07
 ---
 
@@ -10,9 +10,11 @@ created: 2026-09-07
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (10)
+### A — Direct Council Works (12)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
+- A11 The Art of War (Giles, PD) -> Sun Tzu | A12 Meditations (PD) -> Marcus Aurelius
+  (A11/A12: PD Gutenberg intake 2026-09-07, 154+200 chunks; style sheets committed)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
