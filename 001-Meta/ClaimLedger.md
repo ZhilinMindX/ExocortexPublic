@@ -78,4 +78,20 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - NOTE: quotes from the Later memorial carry the DISPUTED flag; downweight in any
   future adapter training
 
+### CLAIM-005
+- CLAIM: Cao Cao's famous defeats at Zhuge Liang's hands are largely Romance of the
+  Three Kingdoms dramatization, not history. His historical nadir, Red Cliffs (208),
+  came against the Sun–Liu alliance with Zhou Yu as field commander.
+- SOURCE: A11 (Giles) pp.20-25 apparatus on Ts'ao Kung's historical career; standard
+  Sanguozhi record vs the Ming novel; B7 p.6 notes the stratagem tradition draws on
+  Romance-dramatized episodes of Zhuge Liang
+- CONFIDENCE: HIGH
+- SUPPORT: novel written ~14th c., eleven centuries after the events; Zhuge Liang's
+  historical record is administrative/diplomatic more than field-victories over Cao Cao
+- CONTRADICTED-BY: the Romance and its derivatives (operas, games, popular memory)
+- LAST-REVIEWED: 2026-09-07
+- STATUS: ACTIVE
+- NOTE: Council keeps the Zhuge Liang / Cao Cao pairing as deliberative theater —
+  opposed readings of the same stratagem corpus — explicitly not as history.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
