@@ -1,0 +1,15 @@
+{
+  "books": [
+    "A12"
+  ],
+  "layers": {
+    "confirmed": [
+      "A12 books I-XII"
+    ],
+    "editor-quoted": [
+      "A12 p.9"
+    ]
+  },
+  "chunks": 200,
+  "notes": "archaic PD translation; George Long edition candidate"
+}
