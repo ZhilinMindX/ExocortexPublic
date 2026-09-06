@@ -28,12 +28,17 @@ directive_refs: [9, 15, 16, 28, 46, 52]
 | jnMetaCode/agency-agents-zh | 267 ready expert-role definitions — persona-pack design patterns |
 | screenpipe/screenpipe | Local continuous context capture (24/7 memory substrate) |
 | ChainedTears/mlx-twin | Privacy-first local clone pipeline (Apple Silicon) — minimal reference |
+| techjarves/Uncensored-Local-Studio | Chassis candidate for local Council serving: portable llama.cpp/whisper.cpp/Kokoro runtime, HF-URL model manager, workspace VRAM-swapping, sidecar provenance JSON |
 
 ## II. Assimilated (already committed)
 
 From ruflo: TrajectoryBank, BootAudit, Project-Schema (GOAP), CouncilVoting.
 From doppelganger field: this registry; claim-ledger + MOC + compounding-loop
 doctrine (Section IV pending implementation).
+From Uncensored-Local-Studio (chassis candidate): adopt workspace-swapping
+(one engine hot at a time = VRAM/RAM doctrine) and sidecar-metadata provenance
+(every artifact carries its parameters). Reject: branding, image-gen scope.
+Noted 2026-09-07: no RAG/persona layer — it is a runtime, not a mind.
 
 ## III. THE DUAL DOCTRINE — Grounding x Persona Models
 
