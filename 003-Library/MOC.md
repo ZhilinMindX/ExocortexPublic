@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 0.8
+version: 0.9
 created: 2026-09-07
 ---
 
@@ -10,7 +10,7 @@ created: 2026-09-07
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (19)
+### A — Direct Council Works (20)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -22,6 +22,7 @@ created: 2026-09-07
   2026-09-07, 1064 chunks; style sheet committed)
 - A18 Go Rin No Sho (classical JP original, PD 1645), A19 Dokkodo -> Musashi
   (89 sections + Dokkodo, CJK; source koten.net scholarly transcription; no PD English exists — glosses ours; CLAIM-006)
+- A20 Letter to Vettori (10 Dec 1513, Italian, PD) -> Machiavelli (founding charter)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
