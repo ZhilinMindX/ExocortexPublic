@@ -131,3 +131,59 @@ Apply Red Team thinking to any system: trading strategies, personal security, bu
 - [[001-Meta/MoscowRules]] — Operational security foundation
 - [[001-Meta/36Strategies]] — Historical tactical parallels
 - [[001-Meta/Dokkodo]] — Personal discipline under pressure
+
+---
+
+# RED TEAM RULES v2 — STRUCTURED ANALYTIC GRAFT (2026-09-08)
+
+// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#9,#20,#28,#34;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
+
+Sources (all public domain, US Government works, 17 U.S.C. §105):
+- **A22** — Heuer, *Psychology of Intelligence Analysis* (CIA, 1999), 189 chunks.
+- **A23** — *A Tradecraft Primer: Structured Analytic Techniques* (CIA, 2009), 38 chunks.
+- **A24** — *The Red Team Handbook v9.0* (UFMCS/TRADOC G-2, 2019), 12 chunks + 48-technique catalog. Partial-text intake (army.mil DNS-blocked from sandbox); reconcile against full PDF when reachable. Approved for public release; distribution unlimited.
+
+## I. THE FOUR PRINCIPLES (UFMCS) — mapped to the Bicameral Mind
+
+1. **Self-Awareness and Reflection (SAR)** — Know your own failings, passions, and prejudices so you can separate them from what you see (Baruch, A24 p.7). → Corpus Callosum audit function.
+2. **Groupthink Mitigation (GTM) and Decision Support** — Unseen forces pressure agreement with the senior voice; actively solicit dissent without recrimination (A24 p.51). → CouncilVoting integrity.
+3. **Fostering Cultural Empathy (FCE)** — There is no "normal" position; defeat mirror imaging and ethnocentrism (A24 p.19). → Creativity & Imagination chamber.
+4. **Applied Critical Thinking (ACT)** — Deconstruct arguments, expose assumptions, generate and evaluate alternatives; make it reflexive under time pressure (A24 p.43). → Logic & Reason chamber.
+
+## II. STANDING PROTOCOLS (grafted)
+
+1. **Key Assumptions Check (A24 p.163; A23)** — MANDATORY before any Council verdict. Write the analytic line; delineate every premise, stated or unstated; challenge each: must it be true? valid under all conditions? confidence and why? what would undermine it? could it have been true once but false now? If it fails, how does the line change?
+2. **Analysis of Competing Hypotheses (A22)** — For every contested claim entering the ClaimLedger: enumerate ALL hypotheses, list evidence FOR and AGAINST each, and distinguish *unproven* from *disproved*. Unproven hypotheses stay alive until disproved. Absence of evidence is not evidence of absence of deception.
+3. **Premortem Analysis (A24 p.173)** — MANDATORY before any structural migration or irreversible commit (cf. Ouroboros). Assume the plan has failed; work backward to find which assumption or task killed it. Negates overconfidence, consensus pull, groupthink.
+4. **Devil's Advocacy rotation (A23; A24 p.142)** — Each session, one Council member is chartered to argue the strongest case AGAINST the prevailing line, regardless of its own vote. The role rotates; no member may hold it twice in a row.
+5. **Divergence–Convergence discipline (A24 p.144)** — Every deliberation runs both phases: diverge (generate alternatives — Yes-And, What-If, Outside-In) THEN converge (evaluate — ACH, Argument Deconstruction). An output that skipped divergence is HALF A MIND (Directive #9).
+6. **High Impact / Low Probability watch (A24 p.157)** — Log scenarios whose probability is low but impact is fatal. Review at every curator tick.
+7. **Indicators & Signposts (A24 p.160)** — For every standing assumption in active use, define in advance what observable change would invalidate it.
+
+## III. TECHNIQUE ARMORY (A24 Chapter 7, 48 techniques, page-cited)
+
+Full catalog ingested in A24 chunks. Standing short-list for Exocortex operations:
+- Argument Deconstruction (p.102) — every external doctrine assimilation.
+- Team A / Team B (p.199) — contested architecture decisions.
+- Alternative Futures (p.87) — roadmap planning.
+- Outside-In Thinking (p.171) — new-domain intake; generalize before specializing.
+- 5 Whys (p.81) — post-mortems and failure analysis.
+- Stakeholder Mapping (p.183) — bridge and integration design.
+- Deception Detection (p.140) — source authentication; pairs with Heuer's deception rule.
+- Problem Restatement (p.175) — first move when a task stalls.
+- Frame Audit (p.153) — periodic self-examination of the Council's own frames.
+- My 15% (p.168) — scope what we can actually change; act there.
+
+## IV. AMENDMENTS TO EXISTING RULES
+
+- Rule 6 ("If you're happy with your plan…") now carries the Premortem as its instrument.
+- Rule 11 ("When in doubt, Red Team it") now specifies: default instrument = Key Assumptions Check; escalate to ACH when hypotheses multiply.
+- Rule 12a (stress = possible deception) now carries Heuer's deception rule as its test.
+- The Rule-2 personnel standard (imagination, skepticism, perverse humor) is confirmed by UFMCS SAR: self-awareness is a trainable prerequisite, not a gift.
+
+## V. CLAIMS LEDGER CANDIDATES
+
+- Heuer's unproven-vs-disproved distinction is adopted as the standing evidentiary standard for all CLAIM entries (CLAIM-007 pending ratification).
+- "Red Teaming is risk management for the human brain" (A24 Preface) adopted as the framework's official definition.
+
+*Graft executed 2026-09-08. Techniques are synthesized, not reproduced; full texts remain in the private library, never in this repo.*
