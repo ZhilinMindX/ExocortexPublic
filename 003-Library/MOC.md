@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 0.6
+version: 0.7
 created: 2026-09-07
 ---
 
@@ -10,7 +10,7 @@ created: 2026-09-07
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (17)
+### A — Direct Council Works (19)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -20,6 +20,8 @@ created: 2026-09-07
 - A14 The River War (1902 ed.), A15 Malakand Field Force, A16 London to Ladysmith,
   A17 Liberalism and the Social Problem -> Churchill (early voice; PD intake
   2026-09-07, 1064 chunks; style sheet committed)
+- A18 Go Rin No Sho (classical JP original, PD 1645), A19 Dokkodo -> Musashi
+  (77+1 chunks, CJK chunking; no PD English exists — glosses ours; CLAIM-006)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
