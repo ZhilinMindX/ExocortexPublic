@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 0.9
+version: 1.0
 created: 2026-09-07
 ---
 
@@ -23,6 +23,7 @@ created: 2026-09-07
 - A18 Go Rin No Sho (classical JP original, PD 1645), A19 Dokkodo -> Musashi
   (89 sections + Dokkodo, CJK; source koten.net scholarly transcription; no PD English exists — glosses ours; CLAIM-006)
 - A20 Letter to Vettori (10 Dec 1513, Italian, PD) -> Machiavelli (founding charter)
+- A21 Cargo Cult Science (1974, Caltech-hosted) -> Feynman (CORPUS CALLOSUM SEAT)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
