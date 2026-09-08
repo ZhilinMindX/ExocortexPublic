@@ -1,7 +1,8 @@
 ---
 doc: Library Map of Content
-version: 1.0
+version: 1.1
 created: 2026-09-07
+updated: 2026-09-08
 ---
 
 # Library MOC — Map of Content
@@ -10,7 +11,7 @@ created: 2026-09-07
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (20)
+### A — Direct Council Works (24)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -24,6 +25,12 @@ created: 2026-09-07
   (89 sections + Dokkodo, CJK; source koten.net scholarly transcription; no PD English exists — glosses ours; CLAIM-006)
 - A20 Letter to Vettori (10 Dec 1513, Italian, PD) -> Machiavelli (founding charter)
 - A21 Cargo Cult Science (1974, Caltech-hosted) -> Feynman (CORPUS CALLOSUM SEAT)
+- A22 Psychology of Intelligence Analysis (Heuer, CIA 1999, PD/17USC105, 189 chunks) -> RED TEAM CLUSTER
+- A23 A Tradecraft Primer: Structured Analytic Techniques (CIA 2009, PD, 38 chunks) -> RED TEAM CLUSTER
+- A24 The Red Team Handbook v9.0 (UFMCS/TRADOC G-2 2019, PD, 12 chunks + 48-technique catalog;
+  partial-text intake, army.mil DNS-blocked, reconcile pending) -> RED TEAM CLUSTER
+  (A22-A24 seated at the CORPUS CALLOSUM as the Red Team Cluster, 2026-09-08;
+   grafted into 001-Meta/RedTeamRules.md v2)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
@@ -57,4 +64,4 @@ created: 2026-09-07
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 38 volumes, 5 groups, every book mapped to a member and a project.
+[RECAP] 52 volumes (24 A / 9 B / 6 C / 7 D / 6 E), 13,416 chunks, 5 groups, every book mapped to a member and a project.
