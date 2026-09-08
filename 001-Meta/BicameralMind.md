@@ -139,3 +139,37 @@ Rule: a candidate ascends to the seat only when grounding is secured
 proposes, the callosum (Architect + Vote + Ledger) reconciles — and every
 member carries the same duality in miniature. A hemisphere alone is not a
 mind; it is a symptom.
+
+## VII-bis. The Red Team Cluster — Seated at the Corpus Callosum (2026-09-08)
+
+The commissure gains its second occupant — not a person, but a doctrine
+cluster. If Feynman is the callosum's *conscience* (utter honesty), the Red
+Team Cluster is its *immune system* (structured doubt):
+
+- **A22 — Heuer, Psychology of Intelligence Analysis (CIA, 1999, PD).**
+  The cognitive-science layer: mind-sets as lenses, mirror imaging,
+  Analysis of Competing Hypotheses, unproven-vs-disproved.
+- **A23 — CIA Tradecraft Primer (2009, PD).** The field-manual layer:
+  Key Assumptions Check, Devil's Advocacy, Red Team Analysis.
+- **A24 — UFMCS Red Team Handbook v9.0 (TRADOC G-2, 2019, PD).**
+  The armory: four principles (SAR / GTM / FCE / ACT) and 48 techniques,
+  page-cited. Partial-text intake; reconcile against full PDF when
+  army.mil is reachable.
+
+Why the callosum and not a chamber: red teaming is not a MODE of thought,
+it is the AUDIT of thought — the function that checks whether a proposal
+survived contact with the other hemisphere. Its four principles map
+bilateral by design: ACT and GTM serve Logic & Reason; FCE and the
+creative-thought process serve Creativity & Imagination; SAR is the
+callosum's own self-inspection. "A form of risk management for the human
+brain" (A24, Preface) — and the Exocortex is a brain.
+
+Standing instruments, grafted in [[001-Meta/RedTeamRules]] v2: mandatory
+Key Assumptions Check before Council verdicts; ACH for contested
+ClaimLedger entries; Premortem before structural commits; Devil's
+Advocacy rotation per session; High-Impact/Low-Probability watch at every
+curator tick.
+
+The callosum now reads: Feynman asks *"is it true?"* — the Cluster asks
+*"what if we're wrong?"* One mind, honestly wrong on purpose, so it is
+never accidentally wrong for real.
