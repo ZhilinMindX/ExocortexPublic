@@ -173,3 +173,37 @@ curator tick.
 The callosum now reads: Feynman asks *"is it true?"* — the Cluster asks
 *"what if we're wrong?"* One mind, honestly wrong on purpose, so it is
 never accidentally wrong for real.
+
+## VII-ter. The Intelligence & Tradecraft Cluster — Seated at the Corpus Callosum (2026-09-08)
+
+The commissure's third occupant, seated beside Feynman and the Red Team
+Cluster. If Red Team is the immune system (structured doubt), Intelligence
+& Tradecraft is the *senses* — the organs that decide what may enter the
+mind at all, and at what confidence.
+
+- **A25 — OSS Simple Sabotage Field Manual (1944, PD).** The negative
+  image of institutional health; read inverted, it is our self-sabotage
+  detector.
+- **A26 — Kesselman (NPS 2008), carrying Kent's Words of Estimative
+  Probability.** The calibration table: every confidence word now carries
+  a number. Almost certain = 93% ± 6%; Probable = 75% ± 12%; Chances
+  about even = 50% ± 10%; Probably not = 30% ± 10%; Almost certainly not
+  = 7% ± 5%.
+- **A27 — Sun Tzu, The Use of Spies (Ch. XIII, Giles, PD).** The oldest
+  intelligence doctrine we hold: foreknowledge comes only from other men;
+  five channels (local / inward / converted / doomed / surviving); the
+  converted spy is the linchpin.
+
+Why the callosum: this cluster is not a mode of thought but the EPISTEMIC
+TRIAGE that precedes thought. Logic & Reason cannot ground what was never
+verified; Creativity & Imagination must know which inputs are fact, which
+judgment, which speculation. Kent's numbers discipline the left chamber's
+certainty; Sun Tzu's channels discipline the right chamber's reach.
+
+The commissure now holds three functions:
+Feynman asks *"is it true?"* — Red Team asks *"what if we're wrong?"* —
+the Cluster asks *"what do we actually know, from which channel, at what
+confidence?"*
+
+Doctrine file: [[001-Meta/IntelligenceTradecraft]] (6 principles,
+5 instruments, Kent table made law).
