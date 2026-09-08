@@ -4,6 +4,31 @@
 A shared external brain for persistent, cross-session cognition.
 **v2 "Ouroboros" — law first, storage second, content last.**
 
+
+---
+
+### The Founding Charter
+
+> *«Venuta la sera, mi ritorno in casa et entro nel mio scrittoio; et in su l'uscio
+> mi spoglio quella veste cotidiana, piena di fango e di loto, e mi metto panni reali
+> e curiali; e rivestito condecentemente entro nelle antique corti degli antiqui
+> huomini, dove, da loro ricevuto amorevolmente, mi pasco di quel cibo, che solum è
+> mio, e che io nacqui per lui; dove io non mi vergogno parlare con loro, e domandarli
+> della ragione delle loro actioni; e quelli per loro humanità mi rispondono.»*
+>
+> *"When evening comes, I return home and enter my study. At the threshold I strip off
+> my everyday clothes, caked with mud and mire, and put on royal and courtly garments.
+> Decently dressed, I enter the ancient courts of ancient men, where, received with
+> affection, I feed on the food that alone is mine and for which I was born. There I am
+> not ashamed to speak with them and ask them the reasons for their actions; and they,
+> out of their humanity, answer me."*
+>
+> — Niccolò Machiavelli, letter to Francesco Vettori, 10 December 1513 (A20 p.1;
+> the letter in which The Prince was announced). English gloss: ours.
+
+This passage is why the Exocortex exists. The Council is that study; the members
+are those ancient men; the mud of the day stays at the threshold.
+
 ### Boot Sequence
 1. Read `000-Constitution/LAW.md` — the 10 articles. Nothing proceeds without it.
 2. Fetch `000-Dashboard.md` for portfolio state.
