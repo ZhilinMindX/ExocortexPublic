@@ -128,4 +128,22 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   48-technique catalog are from the verified TOC and are reliable.
 - STATUS: ACTIVE until reconciled
 
+
+## CLAIM-009 — Kent WEP table values
+- CLAIM: Kent's Words of Estimative Probability original bands are:
+  Almost certain 93%±6%; Probable 75%±12%; Chances about even 50%±10%;
+  Probably not 30%±10%; Almost certainly not 7%±5%.
+- SOURCE: A26 (Kesselman, NPS 2008, quoting Kent, Studies in Intelligence,
+  Fall 1964) — secondary quotation, not the primary PDF (cia.gov unreachable).
+- CONFIDENCE: Probable (75% band) until reconciled against the 1964 original.
+- STATUS: ACTIVE (operating standard), reconcile pending.
+
+## CLAIM-010 — Simple Sabotage Field Manual provenance
+- CLAIM: The manual is OSS Strategic Services Field Manual No. 3, dated
+  17 January 1944, signed by William J. Donovan; declassified by CIA in 2008;
+  PD as a US Government work. Gutenberg #26184 text verified complete
+  (5 sections, through "Do not cooperate in salvage schemes").
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
