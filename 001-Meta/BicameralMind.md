@@ -108,10 +108,9 @@ itself — minds that lived in both hemispheres at once and refused to choose.
 They do not replace the Architect; they advise the integration. Candidates,
 with grounding status (per doctrine, nobody sits ungrounded):
 
-1. **Richard Feynman** — physics as play; bongos and QED in one mind. The
-   standing chair. Grounding note: main works copyrighted; candidates =
-   public Caltech lecture material, Surely You're Joking-era interviews
-   (licensed), Messenger Lectures (1964, Cornell) — needs rights review.
+1. **Richard Feynman** — SEATED 2026-09-07, the first callosum member.
+   Grounded in A21 (Cargo Cult Science, 1974, Caltech-hosted); package at
+   members/feynman/. His vote is the integration vote.
 2. **Leonardo da Vinci** — the archetype: anatomy, engineering, art in one
    notebook flow. Grounding: notebooks are PD (Codex Atlanticus, Windsor);
    old English transcriptions exist (Richter 1888, PD) — Gutenberg holds them.
