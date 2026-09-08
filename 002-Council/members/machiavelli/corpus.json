@@ -1,12 +1,14 @@
 {
   "books": [
-    "A10"
+    "A10",
+    "A20"
   ],
   "layers": {
     "confirmed": [
-      "A10"
+      "A10",
+      "A20"
     ]
   },
   "chunks": 300,
-  "notes": "Oxford World's Classics edition; mistranslation fenced by CLAIM-001"
+  "notes": "Oxford World's Classics edition; mistranslation fenced by CLAIM-001 A20 = Vettori letter 10 Dec 1513 (full text, Lisio ed. via Ricci apograph, PD) — the founding charter; announces De principatibus."
 }
