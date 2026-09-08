@@ -31,7 +31,7 @@ updated: 2026-09-08
   partial-text intake, army.mil DNS-blocked, reconcile pending) -> RED TEAM CLUSTER
   (A22-A24 seated at the CORPUS CALLOSUM as the Red Team Cluster, 2026-09-08;
    grafted into 001-Meta/RedTeamRules.md v2)
-- A25 Simple Sabotage Field Manual (OSS 1944, Gutenberg #26184, PD, 26 chunks) -> INTEL & TRADECRAFT
+- A25 Simple Sabotage Field Manual (OSS 1944, Gutenberg #26184, PD, 28 chunks, section-anchored pages) -> INTEL & TRADECRAFT
 - A26 Kesselman, Verbal Probability Expressions in NIEs (NPS 2008; carries Kent's
   Words of Estimative Probability full treatment, 72 chunks) -> INTEL & TRADECRAFT
 - A27 Sun Tzu Art of War Ch. XIII The Use of Spies (Giles 1910, PD, 13 chunks,
@@ -71,4 +71,4 @@ updated: 2026-09-08
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 55 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,527 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 55 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,529 chunks, 5 groups, every book mapped to a member and a project.
