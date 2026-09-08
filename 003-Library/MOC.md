@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 1.1
+version: 1.2
 created: 2026-09-07
 updated: 2026-09-08
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-08
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (24)
+### A — Direct Council Works (27)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -31,6 +31,13 @@ updated: 2026-09-08
   partial-text intake, army.mil DNS-blocked, reconcile pending) -> RED TEAM CLUSTER
   (A22-A24 seated at the CORPUS CALLOSUM as the Red Team Cluster, 2026-09-08;
    grafted into 001-Meta/RedTeamRules.md v2)
+- A25 Simple Sabotage Field Manual (OSS 1944, Gutenberg #26184, PD, 26 chunks) -> INTEL & TRADECRAFT
+- A26 Kesselman, Verbal Probability Expressions in NIEs (NPS 2008; carries Kent's
+  Words of Estimative Probability full treatment, 72 chunks) -> INTEL & TRADECRAFT
+- A27 Sun Tzu Art of War Ch. XIII The Use of Spies (Giles 1910, PD, 13 chunks,
+  standalone extraction from A11) -> INTEL & TRADECRAFT
+  (A25-A27 seated at the CORPUS CALLOSUM as the Intelligence & Tradecraft Cluster,
+   2026-09-08; grafted into 001-Meta/IntelligenceTradecraft.md)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
@@ -64,4 +71,4 @@ updated: 2026-09-08
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 52 volumes (24 A / 9 B / 6 C / 7 D / 6 E), 13,416 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 55 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,527 chunks, 5 groups, every book mapped to a member and a project.
