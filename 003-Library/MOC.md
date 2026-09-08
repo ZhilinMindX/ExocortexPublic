@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 0.7
+version: 0.8
 created: 2026-09-07
 ---
 
@@ -21,7 +21,7 @@ created: 2026-09-07
   A17 Liberalism and the Social Problem -> Churchill (early voice; PD intake
   2026-09-07, 1064 chunks; style sheet committed)
 - A18 Go Rin No Sho (classical JP original, PD 1645), A19 Dokkodo -> Musashi
-  (77+1 chunks, CJK chunking; no PD English exists — glosses ours; CLAIM-006)
+  (89 sections + Dokkodo, CJK; source koten.net scholarly transcription; no PD English exists — glosses ours; CLAIM-006)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
