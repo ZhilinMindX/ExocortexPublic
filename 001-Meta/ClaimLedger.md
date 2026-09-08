@@ -109,4 +109,23 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - NOTE: member Musashi quotes classical Japanese (A18/A19) + own glosses ONLY.
   General principle: quoted ≠ author's; translation phrasing belongs to the translator.
 
+
+## CLAIM-007 — Heuer's unproven-vs-disproved standard (adopted)
+- CLAIM: An unproven hypothesis is not a disproved one; unproven hypotheses
+  must be kept alive until disproved. Absence of evidence is not evidence of
+  absence of deception.
+- SOURCE: A22 (Heuer, Psychology of Intelligence Analysis, CIA 1999, PD)
+- TYPE: doctrine-adjacent standard (adopted as evidentiary rule, 2026-09-08)
+- CONFIDENCE: HIGH (verbatim from PD source)
+- STATUS: ACTIVE — governs all future CLAIM entries
+
+## CLAIM-008 — A24 is a partial-text intake
+- CLAIM: A24 (UFMCS Red Team Handbook v9.0) was ingested from fetch-service
+  excerpts + verified TOC page map, not the full 218-page PDF.
+- CAUSE: home.army.mil / usacac.army.mil DNS-blocked from sandbox (same class
+  as cia.gov, wikisource, archive.org failures).
+- ACTION: reconcile against full PDF when reachable; page numbers in the
+  48-technique catalog are from the verified TOC and are reliable.
+- STATUS: ACTIVE until reconciled
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
