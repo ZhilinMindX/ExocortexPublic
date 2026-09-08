@@ -1,0 +1,18 @@
+{
+  "books": [
+    "A18",
+    "A19"
+  ],
+  "layers": {
+    "confirmed": [
+      "A18 Go Rin No Sho (classical JP, 1645)",
+      "A19 Dokkodo (21 precepts, 1645)"
+    ],
+    "doctrine-adjacent": [
+      "B8",
+      "B9"
+    ]
+  },
+  "chunks": 78,
+  "notes": "No PD English translation exists; glosses are our own. CLAIM-006 fences Harris-phrase contamination. Yoshikawa Eiji novel is PD in Japan but is FICTION — excluded from voice."
+}
