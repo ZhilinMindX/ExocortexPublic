@@ -16,7 +16,7 @@ its own domain and FORCED to reconcile before action.
 
 ## I. The Two Chambers
 
-### LOGOS — the left chamber (analytical)
+### Logic & Reason — the left chamber (analytical)
 Calculation, cost, law, verification, sequence.
 Seated: **Sun Tzu** (measurement), **Cao Cao** (cost accounting),
 **Zhuge Liang** (institutions and uniform law), **Machiavelli** (power
@@ -24,7 +24,7 @@ analysis as it is, not as it should be).
 Instruments: ClaimLedger, BM25 grounding, page-cited anchors, the
 arithmetics of any plan.
 
-### EIDOS — the right chamber (creative)
+### Creativity & Imagination — the right chamber (creative)
 Pattern, image, narrative, the leap that proposes what logic cannot originate.
 Seated: **Musashi** (water-mind, pattern without formula), **Churchill**
 (narrative sweep, the fifty-year arc), **Marcus Aurelius** (the inner
@@ -49,15 +49,15 @@ instruments, already built:
    every beautiful claim must be falsifiable, sourced, and dated. CLAIM-001
    through CLAIM-006 are the callosum working.
 
-The rule of the commissure: **no EIDOS proposal ships without LOGOS
-grounding; no LOGOS plan ships without EIDOS red-teaming.** Each chamber
+The rule of the commissure: **no Creativity & Imagination proposal ships without Logic & Reason
+grounding; no Logic & Reason plan ships without Creativity & Imagination red-teaming.** Each chamber
 vetoes the other's failure mode.
 
 ## III. Session Flow (the duality in operation)
 
 ```
-1. PROPOSE (EIDOS leads)  — brainstorm, imagine, narrate the outcome
-2. GROUND (LOGOS leads)   — retrieve, cite, price, falsify
+1. PROPOSE (Creativity & Imagination leads)  — brainstorm, imagine, narrate the outcome
+2. GROUND (Logic & Reason leads)   — retrieve, cite, price, falsify
 3. CROSS  (callosum)      — [VOTE] with dissent-of-record
 4. COMMIT (Architect)     — one mind speaks again
 ```
@@ -72,8 +72,8 @@ package is itself bicameral.**
 
 | Package file | Hemisphere |
 |---|---|
-| `anchors.jsonl`, `corpus.json` | LOGOS — the verifiable, the countable |
-| `voice.md` | EIDOS — the persona, the leap of style |
+| `anchors.jsonl`, `corpus.json` | Logic & Reason — the verifiable, the countable |
+| `voice.md` | Creativity & Imagination — the persona, the leap of style |
 | `bans.md` | the shared inhibition — what neither chamber may do |
 
 This is why the Dual Doctrine (adapter = voice, RAG = truth) was never
@@ -101,7 +101,42 @@ modes, domain-appropriate leadership, mandatory reconciliation. If the
 neuroscience is revised, the architecture stands on the functional claim,
 not the anatomy.
 
-[RECAP] One mind, two chambers, one commissure. LOGOS grounds, EIDOS
+## VII. The Corpus Callosum Seat — Polymaths
+
+The commissure itself gets a seat: members whose genius was the CROSSING
+itself — minds that lived in both hemispheres at once and refused to choose.
+They do not replace the Architect; they advise the integration. Candidates,
+with grounding status (per doctrine, nobody sits ungrounded):
+
+1. **Richard Feynman** — physics as play; bongos and QED in one mind. The
+   standing chair. Grounding note: main works copyrighted; candidates =
+   public Caltech lecture material, Surely You're Joking-era interviews
+   (licensed), Messenger Lectures (1964, Cornell) — needs rights review.
+2. **Leonardo da Vinci** — the archetype: anatomy, engineering, art in one
+   notebook flow. Grounding: notebooks are PD (Codex Atlanticus, Windsor);
+   old English transcriptions exist (Richter 1888, PD) — Gutenberg holds them.
+3. **Benjamin Franklin** — printer, scientist, diplomat, satirist; the
+   pragmatic callosum. Grounding: Autobiography + Poor Richard — full PD,
+   Gutenberg.
+4. **Gottfried Wilhelm Leibniz** — calculus, law, philosophy, diplomacy,
+   binary arithmetic. Grounding: early translations PD (e.g. The Monadology,
+   1714, PD translations); full corpus vast.
+5. **Johann Wolfgang von Goethe** — Faust AND morphology of plants AND color
+   theory; poet-scientist. Grounding: PD translations abundant (Gutenberg).
+6. **John von Neumann** — computing, game theory, quantum formalism, and a
+   legendary wit; the modern mathematical callosum. Grounding: mostly
+   copyrighted — Theory of Games (1944) status needs review; use dossier +
+   PD papers where possible.
+7. **Hypatia of Alexandria** — mathematics, astronomy, philosophy; the seat
+   must not be all men. Grounding: no surviving direct corpus — voice would
+   be dossier-grounded only (flagged; weakest grounding, strongest symbol).
+8. **Buckminster Fuller** — geometry, design science, systems language.
+   Grounding: copyrighted; defer.
+
+Rule: a candidate ascends to the seat only when grounding is secured
+(member package built, anchors verified). Until then they are WATCHLIST.
+
+[RECAP] One mind, two chambers, one commissure. Logic & Reason grounds, Creativity & Imagination
 proposes, the callosum (Architect + Vote + Ledger) reconciles — and every
 member carries the same duality in miniature. A hemisphere alone is not a
 mind; it is a symptom.
