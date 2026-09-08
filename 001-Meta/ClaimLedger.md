@@ -94,4 +94,19 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - NOTE: Council keeps the Zhuge Liang / Cao Cao pairing as deliberative theater —
   opposed readings of the same stratagem corpus — explicitly not as history.
 
+### CLAIM-006
+- CLAIM: Most famous English "Musashi quotes" in circulation are Victor Harris's 1974
+  translation phrasing (The Book of Five Rings, Allison & Busby) — copyrighted, and not
+  verifiable against the classical Japanese original as HIS words.
+- SOURCE: corpus recon 2026-09-07 — Gutenberg: zero Musashi holdings; Aozora: zero
+  original works (only Yoshikawa's novel); all English translations (Harris, Cleary,
+  Wilson, Bennett, Tokitsu) in copyright
+- CONFIDENCE: HIGH
+- SUPPORT: the Adelaide/archive.org copies are Harris's text; translator died 2017
+- CONTRADICTED-BY: widespread unattributed quotation (usage, not rights)
+- LAST-REVIEWED: 2026-09-07
+- STATUS: ACTIVE
+- NOTE: member Musashi quotes classical Japanese (A18/A19) + own glosses ONLY.
+  General principle: quoted ≠ author's; translation phrasing belongs to the translator.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
