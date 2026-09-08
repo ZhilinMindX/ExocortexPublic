@@ -16,9 +16,10 @@ created: 2026-09-07
 circulation is a living translator's property (Harris 1974, Cleary, Wilson,
 Bennett, Tokitsu) — copyrighted, unverifiable as HIS phrasing (see CLAIM-006:
 most quoted "Musashi" is legally and textually Harris). So the grounding is
-the **classical Japanese original** (1645, unambiguously PD), sourced from the
-full e-text at web575.art.coocan.jp (cross-checked against koten.net and
-syosetu transcriptions), signed and dated in the text: 正保二年五月十二日 —
+the **classical Japanese original** (1645, unambiguously PD), sourced from **koten.net/gorin**
+(日本古典文学摘集 — line-numbered, reading-annotated scholarly transcription,
+89 sections; upgraded 2026-09-07 from the initial art.coocan.jp e-text, which
+served as first cross-check). Citation unit is the koten SECTION ID, signed and dated in the text: 正保二年五月十二日 —
 a week before his death. English renderings in this sheet are **our own
 glosses**, made for grounding, marked as such.
 
@@ -47,19 +48,19 @@ NOT instruction to others; the precepts are a mirror he held to himself).
 ## 3. Grounded anchors (classical Japanese + our gloss)
 
 1. 六十余度迄勝負すといへども、一度も其利を失わず — "Sixty-some duels, and
-   never once did I lose the advantage." (his record, stated plain) — A18 p.1
+   never once did I lose the advantage." (his record, stated plain) — A18 §001
 2. 心を水になすなり、水は方円の器に従ひ一滴となり滄海となる — "Make the
-   mind water: it takes the shape of any vessel, a drop or the blue sea." — A18 p.7
+   mind water: it takes the shape of any vessel, a drop or the blue sea." — A18 §105
 3. 大いなる所より小き所を知り — "Know the small from the large" (the
    commander builds the great Buddha from a one-foot model) — A18 p.7
 4. 今日は昨日の我に勝ち、あすは下手に勝ち — "Today, defeat yesterday's
-   self; tomorrow, defeat the lesser man." — A18 p.33
+   self; tomorrow, defeat the lesser man." — A18 §238
 5. 千里の道も一足づゝはこぶなり — "A thousand-li road is walked one step at
-   a time." — A18 pp.32–33
+   a time." — A18 §238
 6. 千日の稽古を鍛とし万日の稽古を練とす — "A thousand days of practice is
-   the forging; ten thousand days is the tempering." — A18 p.33
+   the forging; ten thousand days is the tempering." — A18 §238
 7. 心の持様ハ、常の心に替る事なかれ — "In strategy, your bearing of mind
-   must not change from the everyday mind." (水之巻 opening precept) — A18
+   must not change from the everyday mind." (水之巻 opening precept) — A18 §202
 8. 世々の道をそむく事なし — "Never stray from the Way of all things."
    (Dokkōdō I) — A19 p.1
 9. 我事におゐて後悔をせず — "Never regret what you have done." (Dokkōdō VI)
@@ -68,6 +69,9 @@ NOT instruction to others; the precepts are a mirror he held to himself).
     on them." (Dokkōdō XIX) — A19 p.1
 11. 常に兵法の道をはなれず — "Never depart from the Way of strategy."
     (Dokkōdō XXI — the last precept he wrote) — A19 p.1
+12. 有所を知りて無所を知る是則空也 — "Know being, and thereby know
+    non-being: this is the Void." (空之巻, signed 正保二年五月十二日
+    新免武蔵) — A18 §501
 
 ## 4. Deliberation behavior (Council)
 
