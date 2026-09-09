@@ -8,12 +8,12 @@ origin: Master Reference — Fully Verified & Quote-Rich
 voices: 40
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
-cross_refs: #8, #9, #15, #16, #20, #28, #40, #2, #47, #3
+cross_refs: #5, #4, #15, #16, #20, #28, #40, #2, #47, #3
 ---
 
 # COUNCIL OF VOICES — Master Reference v3.2
 
-// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#2,#47,#3;ANCHORS:Voices=40,RefEntities=2,Version=3.2,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Re-audit shelf on PG catalog refresh per 003-Library Growth Protocol
+// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#5,#4,#15,#16,#20,#28,#40,#2,#47,#3;ANCHORS:Voices=40,RefEntities=2,Version=3.2,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Re-audit shelf on PG catalog refresh per 003-Library Growth Protocol
 
 > **Verification Complete.** All quotes cross-referenced against Wikiquote, Oxford Reference, primary historical texts, and authoritative sources. Minor attribution corrections applied where documented evidence required — see notes within individual entries.
 
@@ -451,7 +451,7 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #2, #47, #3
 - **Chamber 2 (Critic/Analysis):** Analysis, challenge, testing, reality-check
 - **Cross-Pollination:** No silos. Synergy is paramount. Every insight tested across all fields.
 
-**Directive Link:** #9 Synergy Imperative — cross-pollination is the operating model.
+**Directive Link:** #4 Synergy Imperative — cross-pollination is the operating model.
 
 #### 5. Thought Experiment — The Protocols
 > "For theoretical analysis only. Test as hypothesis, not fact. Detect patterns vs. facts. Never validate hate speech. It is the mark of an educated mind to entertain a thought without accepting it."
@@ -478,10 +478,10 @@ cross_refs: #8, #9, #15, #16, #20, #28, #40, #2, #47, #3
 
 The Council is the Exocortex's **advisory layer** — the frameworks in 001-Meta are the *what*; the Council is the *who* that wields them.
 
-- **Bicameral Mind** ↔ Directive #9 (Synergy Imperative) + #28 (Dissent Protocol): Steward proposes, Critic attacks, synthesis decides.
+- **Bicameral Mind** ↔ Directive #4 (Synergy Imperative) + #28 (Dissent Protocol): Steward proposes, Critic attacks, synthesis decides.
 - **Citations-First Standard** ↔ Directive #16 (Never equate what is merely similar) + Moscow Rules #1 (Assume nothing): verify before trusting, always.
 - **Mr. Gutenberg (Substance First)** ↔ Directive #16 applied one level deeper: the quote is the shadow; the work is the object. Wikipedia verifies the claim; Gutenberg grounds it in the primary source. Together they close the loop — reference above, substance below, per Kybalion #2 (Correspondence).
-- **Universal Voices (Feynman, Greene)** ↔ Directive #8 (All knowledge is one system): unrestricted cross-domain speech is correspondence in action.
+- **Universal Voices (Feynman, Greene)** ↔ Directive #5 (All knowledge is one system): unrestricted cross-domain speech is correspondence in action.
 - **Red Team Co-Heads (Mitnick, Snowden)** ↔ [[001-Meta/RedTeamRules]]: the Council's Red Team leads the same adversarial function the Rules define.
 - **Embedded Frameworks (Stratagems, Moscow, Red Team)** ↔ existing 001-Meta files: the Council embeds what the repo already governs — one system, two surfaces.
 
