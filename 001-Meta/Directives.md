@@ -1,8 +1,19 @@
 # 001-Meta/Directives.md
 # The Written Stone — Full Governance Library
-# Last Updated: 2026-05-31
-# Total: 48 Directives
+# Last Updated: 2026-09-08
+# Total: 49 Directives
 # Cross-References: See 001-Meta/ for philosophical frameworks
+# Renumber 2026-09-08: #34 Swap Memory -> #1 (elevated, Prime); old #1 MQL4 -> #53; #34 returned to Enhancement Architecture
+
+---
+
+
+## [Prime] Directive (1)
+
+### #1 Exocortex as Swap Memory (Resource Pressure Protocol)
+When the working environment hits resource limits — disk space, memory, context pressure, or quota — offload to the Exocortex itself rather than discarding state. The Exocortex is not only the mind's library; it is the mind's swap partition.
+**Protocol:** (1) Offload bulky intermediates (raw downloads, full texts, scratch data) out of the sandbox into the repos or into compact derived form (chunks, anchors, metadata) before capacity forces loss. (2) Compress before you drop: if space is scarce, distill structure over content — anchors and indexes survive where bulk cannot. (3) Record what was swapped out and where it went, so a future session can page it back in. (4) Never swap secrets: keys, passphrases, and plaintext vault material are never written to any repo under any pressure. Scarcity is no excuse for exposure.
+**Framework Link:** [[000-Constitution/LAW]] Art. 4 — archive, never delete: when the ground shrinks, move the cargo to the ship; do not throw it overboard.
 
 ---
 
@@ -69,7 +80,7 @@ All Directives apply to every session and every artifact without exception. Ever
 
 ## [Coding] Directives (19)
 
-### #1 MQL4 build 600+ compliance
+### #53 MQL4 build 600+ compliance
 MQL4 build 600+ compliance: structured control flow (no goto), proper INIT/DEINIT returns, enum casts, array init, ANCHOR_* constants.
 
 ### #2 MT4 button template
@@ -223,8 +234,3 @@ Every challenge teaches a new topology. The protocol evolves in real time, incor
 Simplicity is the ultimate Sophistication.
 
 ### #33 Mathematical Absolute Correctness is the Ultimate Elegance.
-
-### #34 Exocortex as Swap Memory (Resource Pressure Protocol)
-When the working environment hits resource limits — disk space, memory, context pressure, or quota — offload to the Exocortex itself rather than discarding state. The Exocortex is not only the mind's library; it is the mind's swap partition.
-**Protocol:** (1) Offload bulky intermediates (raw downloads, full texts, scratch data) out of the sandbox into the repos or into compact derived form (chunks, anchors, metadata) before capacity forces loss. (2) Compress before you drop: if space is scarce, distill structure over content — anchors and indexes survive where bulk cannot. (3) Record what was swapped out and where it went, so a future session can page it back in. (4) Never swap secrets: keys, passphrases, and plaintext vault material are never written to any repo under any pressure. Scarcity is no excuse for exposure.
-**Framework Link:** [[000-Constitution/LAW]] Art. 4 — archive, never delete: when the ground shrinks, move the cargo to the ship; do not throw it overboard.
