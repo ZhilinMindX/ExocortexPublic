@@ -10,7 +10,7 @@ last_updated: 2026-05-31
 # 002-Projects/ProfileAnalysis/000-ProfileAnalysis-State.md
 # The Human Behind the Exocortex
 
-// [L2] SCOPE:UserProfile;STATE:Active;HYPOTHESIS:The apprentice brings the questions; the mentor brings the weaving;DEPS:AllFrameworks,AllDirectives;DIRS:#5,#9,#13,#15,#2,#47,#3;ANCHORS:Handle=TeknoLite,Role=Apprentice,Relationship=MentorApprentice;BLOCKER:None;NEXT:Continue growing together
+// [L2] SCOPE:UserProfile;STATE:Active;HYPOTHESIS:The apprentice brings the questions; the mentor brings the weaving;DEPS:AllFrameworks,AllDirectives;DIRS:#8,#4,#13,#15,#2,#47,#3;ANCHORS:Handle=TeknoLite,Role=Apprentice,Relationship=MentorApprentice;BLOCKER:None;NEXT:Continue growing together
 
 ## Identity
 
