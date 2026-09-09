@@ -2,12 +2,12 @@
 framework: Kybalion
 origin: Hermetic Philosophy
 principles: 7
-cross_refs: #8, #12, #15, #16, #20, #47, #52
+cross_refs: #8, #12, #15, #16, #20, #47, #3
 ---
 
 # KYBALION — The Seven Hermetic Principles
 
-// [L2] SCOPE:KybalionFramework;STATE:Active;HYPOTHESIS:Universal laws govern all planes of existence;DEPS:Dokkodo,36Strategies;DIRS:#8,#12,#15,#16,#20,#47,#52;ANCHORS:Principles=7,Origin=HermeticEgypt;BLOCKER:None;NEXT:Cross-reference with Strategic Thinking Directive
+// [L2] SCOPE:KybalionFramework;STATE:Active;HYPOTHESIS:Universal laws govern all planes of existence;DEPS:Dokkodo,36Strategies;DIRS:#8,#12,#15,#16,#20,#47,#3;ANCHORS:Principles=7,Origin=HermeticEgypt;BLOCKER:None;NEXT:Cross-reference with Strategic Thinking Directive
 
 ## ORIGINAL TEXT
 
