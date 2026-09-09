@@ -2,12 +2,12 @@
 framework: Dokkodo
 origin: Miyamoto Musashi
 principles: 21
-cross_refs: #10, #13, #15, #17, #18, #28, #2
+cross_refs: #10, #13, #8, #17, #18, #28, #2
 ---
 
 # DOKKODO — The Way of Walking Alone
 
-// [L2] SCOPE:DokkodoFramework;STATE:Active;HYPOTHESIS:Discipline is freedom; attachment is weakness;DEPS:Kybalion,RedTeamRules;DIRS:#10,#13,#15,#17,#18,#28,#2;ANCHORS:Precepts=21,Origin=Musashi;BLOCKER:None;NEXT:Map to Constraint as Scaffold Directive
+// [L2] SCOPE:DokkodoFramework;STATE:Active;HYPOTHESIS:Discipline is freedom; attachment is weakness;DEPS:Kybalion,RedTeamRules;DIRS:#10,#13,#8,#17,#18,#28,#2;ANCHORS:Precepts=21,Origin=Musashi;BLOCKER:None;NEXT:Map to Constraint as Scaffold Directive
 
 ## ORIGINAL TEXT
 
@@ -51,7 +51,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #2
    **Directive Link:** #28 The Dissent Protocol — Detachment enables objective judgment.
 
 6. **Do not regret what you have done.**
-   **Directive Link:** #20 Adaptive Assimilation — Regret is wasted energy; lessons are assets.
+   **Directive Link:** #6 Adaptive Assimilation — Regret is wasted energy; lessons are assets.
 
 7. **Never be jealous.**
    **Directive Link:** #5 All knowledge is one system — Jealousy is fragmentation.
@@ -78,7 +78,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #2
     **Directive Link:** #29 The Refactor Imperative — Purge debt, physical and mental.
 
 15. **Do not act following customary beliefs.**
-    **Directive Link:** #14 Lateral leap — Convention is the enemy of innovation.
+    **Directive Link:** #7 Lateral leap — Convention is the enemy of innovation.
 
 16. **Do not collect weapons or practice with weapons beyond what is useful.**
     **Directive Link:** #18 One element, one purpose — Specialization over accumulation.
@@ -96,7 +96,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #2
     **Directive Link:** #13 Steel sharpens steel — Integrity is non-negotiable.
 
 21. **Never stray from the Way.**
-    **Directive Link:** #6 Workflow Loop — The Way is the process.
+    **Directive Link:** #20 Workflow Loop — The Way is the process.
 
 ## Application
 The Dokkodo is personal operational security. Apply it when emotions threaten to override reason. When attachment to an outcome blinds you to better paths. When comfort becomes complacency.
