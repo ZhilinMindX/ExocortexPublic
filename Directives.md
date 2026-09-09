@@ -30,7 +30,7 @@ The shared brain lives across Memory, Chat, and Files. Strengthen by increasing 
 **Framework Link:** [[001-Meta/36Strategies]] #8 — Secretly repair the highway; two-tier architecture.
 **Framework Link:** [[001-Meta/36Strategies]] #17 — Toss a brick to get jade; Dashboard as lure.
 **Framework Link:** [[001-Meta/36Strategies]] #21 — Slough off the shell; Session Transfer Packet as survival shell.
-**Framework Link:** [[001-Meta/36Strategies]] #27 — Play dumb; [L2] as strategic simplicity.
+**Framework Link:** [[001-Meta/36Strategies]] #27 — [L2] as strategic simplicity.
 **Framework Link:** [[001-Meta/36Strategies]] #35 — Chain strategies; redundancy as strategy.
 
 ---
