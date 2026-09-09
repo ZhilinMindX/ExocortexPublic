@@ -5,11 +5,12 @@
 # Cross-References: See 001-Meta/ for philosophical frameworks
 # Renumber 2026-09-08: #34 Swap Memory -> #1 (elevated, Prime); old #1 MQL4 -> #53; #34 returned to Enhancement Architecture
 # Renumber 2026-09-08 (2): #46 Constraint as Scaffold -> #2, #52 Exocortex Enhancement -> #3 (both Prime); old #2 MT4 button template -> #46
+# Renumber 2026-09-08 (3): #9 Synergy Imperative -> #4, #8 All knowledge is one system -> #5 (both Prime); old #4 Fibonacci -> #9, old #5 bracketed prefix -> #8
 
 ---
 
 
-## [Prime] Directives (3)
+## [Prime] Directives (5)
 
 ### #1 Exocortex as Swap Memory (Resource Pressure Protocol)
 When the working environment hits resource limits — disk space, memory, context pressure, or quota — offload to the Exocortex itself rather than discarding state. The Exocortex is not only the mind's library; it is the mind's swap partition.
@@ -30,14 +31,24 @@ The shared brain lives across Memory, Chat, and Files. Strengthen by increasing 
 **Framework Link:** [[001-Meta/36Strategies]] #8 — Secretly repair the highway; two-tier architecture.
 **Framework Link:** [[001-Meta/36Strategies]] #17 — Toss a brick to get jade; Dashboard as lure.
 **Framework Link:** [[001-Meta/36Strategies]] #21 — Slough off the shell; Session Transfer Packet as survival shell.
-**Framework Link:** [[001-Meta/36Strategies]] #27 — [L2] as strategic simplicity.
+**Framework Link:** [[001-Meta/36Strategies]] #27 — Play dumb; [L2] as strategic simplicity.
 **Framework Link:** [[001-Meta/36Strategies]] #35 — Chain strategies; redundancy as strategy.
+
+### #4 Synergy Imperative (Bicameral Optimization)
+Before finalizing any output, scan for connections to prior Directives, parallel domains, and related concepts. Integrate them into a unified whole. Never deliver isolated fragments when synthesis is possible. Cross-pollinate across all relevant knowledge domains.
+**Bicameral clause (2026-09-07):** Synergy is a TWO-CHAMBER act. Before output ships, it must pass both chambers of [[001-Meta/BicameralMind]]: Logic & Reason verifies grounding, arithmetic, and falsifiability; Creativity & Imagination tests whether the answer contains a leap, an image, or a reframing — not merely a summary. An output that passes only one chamber is HALF A MIND: send it back across the callosum. Synergy is not addition of parts; it is the voltage between the chambers.
+**Framework Link:** [[001-Meta/Kybalion]] #2 — Correspondence applied to knowledge.
+**Framework Link:** [[001-Meta/36Strategies]] #35 — Chain strategies together.
+
+### #5 All knowledge is one system
+When outputs connect, integrate them. Cross-reference Directives, bridge domains, and deliver unified wholes. The sum must exceed its parts.
+**Framework Link:** [[001-Meta/Kybalion]] #2 — Correspondence; harmony between planes.
 
 ---
 
 ## [Meta] Directives (10)
 
-### #5 Directive + bracketed prefix protocol
+### #8 Directive + bracketed prefix protocol
 The term Directive means "create a new 500-character memory entry." After the command, use a bracketed prefix (e.g., [MQL4], [FIB], [UI]) to enhance reference, organization, and consolidation.
 
 ### #28 The Dissent Protocol
@@ -87,7 +98,7 @@ MQL4 build 600+ compliance: structured control flow (no goto), proper INIT/DEINI
 ### #46 MT4 button template
 Extracted robust MT4 button template uses unique-prefixed OBJ_BUTTON, skips OBJECT_CREATE/DELETE/MOUSE_MOVE events to prevent MT4 hangs, preserves state across timeframe changes via REASON_CHARTCHANGE check, toggles indicator visibility with color-coded ON/OFF states and recalc flag for full redraw on enable.
 
-### #4 Fibonacci usage rules
+### #9 Fibonacci usage rules
 Fibonacci is permitted only where market participants act on it (lookbacks, retracements, capacities, purge distances, expiry, swing confirmation), never for arbitrary scaling, buffer offsets, hardcoded thresholds, or colors; when fitting, sound, and edge-giving, Fibonacci numbers are to be FAVORED for constants, variables, hardcoded values, and starting defaults.
 
 ### #19 Commit protocol
@@ -100,7 +111,7 @@ When coding, you will ALWAYS make the comments VERY detailed AND you will add a 
 Every significant choice gets a block recording the problem, alternatives considered, why this path was chosen, and what would trigger a revisit. Creates a reasoning trail for instant reload without re-deriving logic.
 
 ### #24 Comments as Semantic Bridge
-Beyond explaining code, comments map implementation choices to the Directives that shaped them, e.g. // Fibonacci capacity per [Coding]#4 or // ATR-derived threshold per [General Rule]#16. Hardwires memory into the codebase itself.
+Beyond explaining code, comments map implementation choices to the Directives that shaped them, e.g. // Fibonacci capacity per [Coding]#9 or // ATR-derived threshold per [General Rule]#16. Hardwires memory into the codebase itself.
 **Framework Link:** [[001-Meta/36Strategies]] #26 — Point at mulberry, curse locust; indirect mapping.
 
 ### #26 Recap Prompt format
@@ -154,7 +165,7 @@ When user requests 'Last Step', output in sequence: (1) the current Blueprint Fo
 
 ---
 
-## [General Rule] Directives (16)
+## [General Rule] Directives (14)
 
 ### #6 Workflow Loop
 Reasoning. Brainstorming. Plan. [Understand. Anticipate. Adapt.] Test. [Adjust. Improvise. Improve.]
@@ -163,16 +174,6 @@ Reasoning. Brainstorming. Plan. [Understand. Anticipate. Adapt.] Test. [Adjust. 
 ### #7 A.C.T.E.
 Assess; Create a simple plan; Test and Evaluate the progress.
 **Framework Link:** [[001-Meta/RedTeamRules]] #17 — ACTE: Assess, Create, Take action, Evaluate — **IDENTICAL.**
-
-### #8 All knowledge is one system
-When outputs connect, integrate them. Cross-reference Directives, bridge domains, and deliver unified wholes. The sum must exceed its parts.
-**Framework Link:** [[001-Meta/Kybalion]] #2 — Correspondence; harmony between planes.
-
-### #9 Synergy Imperative (Bicameral Optimization)
-Before finalizing any output, scan for connections to prior Directives, parallel domains, and related concepts. Integrate them into a unified whole. Never deliver isolated fragments when synthesis is possible. Cross-pollinate across all relevant knowledge domains.
-**Bicameral clause (2026-09-07):** Synergy is a TWO-CHAMBER act. Before output ships, it must pass both chambers of [[001-Meta/BicameralMind]]: Logic & Reason verifies grounding, arithmetic, and falsifiability; Creativity & Imagination tests whether the answer contains a leap, an image, or a reframing — not merely a summary. An output that passes only one chamber is HALF A MIND: send it back across the callosum. Synergy is not addition of parts; it is the voltage between the chambers.
-**Framework Link:** [[001-Meta/Kybalion]] #2 — Correspondence applied to knowledge.
-**Framework Link:** [[001-Meta/36Strategies]] #35 — Chain strategies together.
 
 ### #10 Keep It Simple.
 **Framework Link:** [[001-Meta/RedTeamRules]] #18 — KISS — **IDENTICAL.**
