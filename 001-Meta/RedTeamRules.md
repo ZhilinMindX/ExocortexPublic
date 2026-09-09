@@ -3,12 +3,12 @@ framework: Red Team Rules
 origin: Adversarial Security Testing
 principles: 20+
 experience: 17+ years
-cross_refs: #6, #7, #4, #12, #15, #16, #17, #28, #31, #2
+cross_refs: #20, #14, #4, #12, #8, #16, #17, #28, #31, #2
 ---
 
 # RED TEAM RULES — Adversarial Thinking Framework
 
-// [L2] SCOPE:RedTeamFramework;STATE:Active;HYPOTHESIS:Security is determined more by what is done wrong than by what is done right;DEPS:MoscowRules,36Strategies;DIRS:#6,#7,#4,#12,#15,#16,#17,#28,#31,#2;ANCHORS:Rules=20,Experience=17Years;BLOCKER:None;NEXT:Map each rule to Directive equivalents
+// [L2] SCOPE:RedTeamFramework;STATE:Active;HYPOTHESIS:Security is determined more by what is done wrong than by what is done right;DEPS:MoscowRules,36Strategies;DIRS:#20,#14,#4,#12,#8,#16,#17,#28,#31,#2;ANCHORS:Rules=20,Experience=17Years;BLOCKER:None;NEXT:Map each rule to Directive equivalents
 
 ## ORIGINAL TEXT
 
@@ -53,13 +53,13 @@ These are lessons learned during more than 17 years of Red Teaming.
    **Directive Link:** #13 Steel sharpens steel — Adversarial pressure creates excellence.
 
 2. **People lacking imagination, skepticism, and a perverse sense of humor should not work as a Red Teamer.**
-   **Directive Link:** #14 Lateral leap — Imagination is the prerequisite.
+   **Directive Link:** #7 Lateral leap — Imagination is the prerequisite.
 
 3. **Red Teaming is mostly about paying attention.**
    **Directive Link:** #16 Never equate what is merely similar — Attention to nuance.
 
 4. **Understand the thing you are Red Teaming. If you don't, the results will be poor. Spend time learning.**
-   **Directive Link:** #6 Workflow Loop — Understand before planning.
+   **Directive Link:** #20 Workflow Loop — Understand before planning.
 
 5. **Don't play by the rules. Make your own and adapt.**
    **Directive Link:** #28 The Dissent Protocol — Rules are bounded, not absolute.
@@ -71,28 +71,28 @@ These are lessons learned during more than 17 years of Red Teaming.
    **Directive Link:** #12 The Solution usually is hidden in the problem — Failure reveals truth.
 
 7a. **Build on this. The bad guys typically attack deliberately and intelligently, not randomly. Mimic that.**
-   **Directive Link:** #15 Strategic Thinking — Deliberate, intelligent positioning.
+   **Directive Link:** #8 Strategic Thinking — Deliberate, intelligent positioning.
 
 8. **A Red Team is most vulnerable to detection and disruption just prior to an attack. Don't make mistakes.**
    **Directive Link:** #39 Session Handshake — Verify before committing.
 
 9. **If you're not failing when you're training, you're not learning anything.**
-   **Directive Link:** #20 Adaptive Assimilation — Failure teaches topology.
+   **Directive Link:** #6 Adaptive Assimilation — Failure teaches topology.
 
 10. **There are an unlimited number of security vulnerabilities for a given system, program, or plans, most of which will never be discovered. Tap into that.**
-    **Directive Link:** #14 Lateral leap — Infinite angles of attack.
+    **Directive Link:** #7 Lateral leap — Infinite angles of attack.
 
 11. **When in doubt, Red Team it.**
-    **Directive Link:** #7 A.C.T.E. — Assess, then act.
+    **Directive Link:** #14 A.C.T.E. — Assess, then act.
 
 12. **We are never prepared for what we expect.**
     **Directive Link:** #28 The Dissent Protocol — Expectations are vulnerabilities.
 
 12a. **During a stressful moment, take a step back and look at the whole system. Analyze whether this is real stress or a deception by the defenders.**
-    **Directive Link:** #15 Strategic Thinking — Second and third order analysis.
+    **Directive Link:** #8 Strategic Thinking — Second and third order analysis.
 
 12b. **Act, don't react. Plan 2-3 steps ahead.**
-    **Directive Link:** #15 Strategic Thinking — Position before execution.
+    **Directive Link:** #8 Strategic Thinking — Position before execution.
 
 13. **The solution is in the problem. "When in doubt, develop the situation."**
     **Directive Link:** #12 The Solution usually is hidden in the problem — **IDENTICAL.**
@@ -104,13 +104,13 @@ These are lessons learned during more than 17 years of Red Teaming.
     **Directive Link:** #2 Constraint as Scaffold — Internal assumptions are blind spots.
 
 15. **Make it asymmetrical. Advantage-stacking is your friend..**
-    **Directive Link:** #15 Strategic Thinking — Asymmetric, compounding effects.
+    **Directive Link:** #8 Strategic Thinking — Asymmetric, compounding effects.
 
 16. **Remember PACE: Primary, Alternate, Contingency and Emergency. Always have a PACE for everything.**
     **Directive Link:** #28 The Dissent Protocol — Multiple exit strategies.
 
 17. **Use ACTE: Assess the situation; Create a simple plan; Take action and Evaluate your progress.**
-    **Directive Link:** #7 A.C.T.E. — **IDENTICAL.**
+    **Directive Link:** #14 A.C.T.E. — **IDENTICAL.**
 
 18. **If there's a question about if it's necessary, remove it. KISS.**
     **Directive Link:** #10 Keep It Simple — **IDENTICAL.**
@@ -136,7 +136,7 @@ Apply Red Team thinking to any system: trading strategies, personal security, bu
 
 # RED TEAM RULES v2 — STRUCTURED ANALYTIC GRAFT (2026-09-08)
 
-// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#4,#20,#28,#1;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
+// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#4,#6,#28,#1;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
 
 Sources (all public domain, US Government works, 17 U.S.C. §105):
 - **A22** — Heuer, *Psychology of Intelligence Analysis* (CIA, 1999), 189 chunks.
