@@ -2,12 +2,12 @@
 framework: Dokkodo
 origin: Miyamoto Musashi
 principles: 21
-cross_refs: #10, #13, #15, #17, #18, #28, #46
+cross_refs: #10, #13, #15, #17, #18, #28, #2
 ---
 
 # DOKKODO — The Way of Walking Alone
 
-// [L2] SCOPE:DokkodoFramework;STATE:Active;HYPOTHESIS:Discipline is freedom; attachment is weakness;DEPS:Kybalion,RedTeamRules;DIRS:#10,#13,#15,#17,#18,#28,#46;ANCHORS:Precepts=21,Origin=Musashi;BLOCKER:None;NEXT:Map to Constraint as Scaffold Directive
+// [L2] SCOPE:DokkodoFramework;STATE:Active;HYPOTHESIS:Discipline is freedom; attachment is weakness;DEPS:Kybalion,RedTeamRules;DIRS:#10,#13,#15,#17,#18,#28,#2;ANCHORS:Precepts=21,Origin=Musashi;BLOCKER:None;NEXT:Map to Constraint as Scaffold Directive
 
 ## ORIGINAL TEXT
 
@@ -36,7 +36,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #46
 ## EXOCORTEX ANALYSIS & CROSS-REFERENCES
 
 1. **Accept everything just the way it is.**
-   **Directive Link:** #46 Constraint as Scaffold — Acceptance of limits as foundation of creativity.
+   **Directive Link:** #2 Constraint as Scaffold — Acceptance of limits as foundation of creativity.
 
 2. **Do not seek pleasure for its own sake.**
    **Directive Link:** #17 Expense effort proportionally to impact — Pleasure is low-yield expenditure.
@@ -69,7 +69,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #46
     **Directive Link:** #28 The Dissent Protocol — Preference is bias; bias is vulnerability.
 
 12. **Be indifferent to where you live.**
-    **Directive Link:** #46 Constraint as Scaffold — Environment is a variable, not a dependency.
+    **Directive Link:** #2 Constraint as Scaffold — Environment is a variable, not a dependency.
 
 13. **Do not pursue the taste of good food.**
     **Directive Link:** #10 Keep It Simple — Sensory minimalism.
@@ -90,7 +90,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #46
     **Directive Link:** #17 Expense effort proportionally to impact — Future hoarding is present waste.
 
 19. **Respect the gods without counting on their help.**
-    **Directive Link:** #46 Constraint as Scaffold — Acknowledge limits without surrendering agency.
+    **Directive Link:** #2 Constraint as Scaffold — Acknowledge limits without surrendering agency.
 
 20. **You may abandon your own body but you must preserve your honour.**
     **Directive Link:** #13 Steel sharpens steel — Integrity is non-negotiable.
