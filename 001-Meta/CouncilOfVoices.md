@@ -8,12 +8,12 @@ origin: Master Reference — Fully Verified & Quote-Rich
 voices: 40
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
-cross_refs: #8, #9, #15, #16, #20, #28, #40, #46, #47, #52
+cross_refs: #8, #9, #15, #16, #20, #28, #40, #2, #47, #3
 ---
 
 # COUNCIL OF VOICES — Master Reference v3.2
 
-// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#46,#47,#52;ANCHORS:Voices=40,RefEntities=2,Version=3.2,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Re-audit shelf on PG catalog refresh per 003-Library Growth Protocol
+// [L2] SCOPE:CouncilOfVoices;STATE:Active;HYPOTHESIS:Truth emerges from structured multi-perspective dialogue, not from any single voice;DEPS:36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#20,#28,#40,#2,#47,#3;ANCHORS:Voices=40,RefEntities=2,Version=3.2,Created=2026-09-03,Updated=2026-09-05,Standard=CitationsFirst+SubstanceFirst;BLOCKER:None;NEXT:Re-audit shelf on PG catalog refresh per 003-Library Growth Protocol
 
 > **Verification Complete.** All quotes cross-referenced against Wikiquote, Oxford Reference, primary historical texts, and authoritative sources. Minor attribution corrections applied where documented evidence required — see notes within individual entries.
 
