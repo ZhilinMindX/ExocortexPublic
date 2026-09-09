@@ -7,12 +7,12 @@ method: Full-catalog author AND title matching; every hit disambiguated by birth
 members_audited: 40
 members_shelved: 9
 members_verified_absent: 31
-cross_refs: #16, #28, #46
+cross_refs: #16, #28, #2
 ---
 
 # MR. GUTENBERG'S SHELF — Complete Council Audit v1.0
 
-// [L2] SCOPE:GutenbergShelf;STATE:Active;HYPOTHESIS:Substance First — every Council voice grounded in its actual works where the public domain allows;DEPS:CouncilOfVoices;DIRS:#16,#28,#46;ANCHORS:Audited=40,Shelved=9,Absent=31,CatalogEntries=79288,CatalogDate=2026-08-30;BLOCKER:None;NEXT:Re-audit on catalog refresh or new member induction
+// [L2] SCOPE:GutenbergShelf;STATE:Active;HYPOTHESIS:Substance First — every Council voice grounded in its actual works where the public domain allows;DEPS:CouncilOfVoices;DIRS:#16,#28,#2;ANCHORS:Audited=40,Shelved=9,Absent=31,CatalogEntries=79288,CatalogDate=2026-08-30;BLOCKER:None;NEXT:Re-audit on catalog refresh or new member induction
 
 > **Method — Citations-First applied to the audit itself.** No search snippets, no assumptions. The complete Project Gutenberg offline catalog (79,288 entries) was downloaded and matched, author field AND title field, for all 40 Council members. Every name collision was resolved by birth/death years. Absence here means *verified absent from PG*, not "not found online."
 
@@ -171,4 +171,4 @@ cross_refs: #16, #28, #46
 
 ## Cross-References
 - [[001-Meta/CouncilOfVoices]] — the voices this shelf serves
-- [[001-Meta/Directives]] — #16 (verify), #28 (bounded rules), #46 (constraints as scaffold)
+- [[001-Meta/Directives]] — #16 (verify), #28 (bounded rules), #2 (constraints as scaffold)
