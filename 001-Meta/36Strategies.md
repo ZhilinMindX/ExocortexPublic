@@ -2,12 +2,12 @@
 framework: 36 Strategies of Ancient China
 origin: Chinese Military Tactics (attributed to Zhuge Liang)
 strategies: 36
-cross_refs: #9, #12, #14, #15, #16, #20, #28, #2
+cross_refs: #4, #12, #14, #15, #16, #20, #28, #2
 ---
 
 # 36 STRATEGIES OF ANCIENT CHINA
 
-// [L2] SCOPE:36StrategiesFramework;STATE:Active;HYPOTHESIS:Deception, timing, and asymmetry are timeless tactical principles;DEPS:Kybalion,MoscowRules,RedTeamRules;DIRS:#9,#12,#14,#15,#16,#20,#28,#2;ANCHORS:Strategies=36,Origin=ThreeKingdomsPeriod;BLOCKER:None;NEXT:Map each strategy to modern applications
+// [L2] SCOPE:36StrategiesFramework;STATE:Active;HYPOTHESIS:Deception, timing, and asymmetry are timeless tactical principles;DEPS:Kybalion,MoscowRules,RedTeamRules;DIRS:#4,#12,#14,#15,#16,#20,#28,#2;ANCHORS:Strategies=36,Origin=ThreeKingdomsPeriod;BLOCKER:None;NEXT:Map each strategy to modern applications
 
 ## ORIGINAL TEXT
 
