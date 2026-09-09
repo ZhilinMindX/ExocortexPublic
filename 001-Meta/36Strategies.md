@@ -2,12 +2,12 @@
 framework: 36 Strategies of Ancient China
 origin: Chinese Military Tactics (attributed to Zhuge Liang)
 strategies: 36
-cross_refs: #9, #12, #14, #15, #16, #20, #28, #46
+cross_refs: #9, #12, #14, #15, #16, #20, #28, #2
 ---
 
 # 36 STRATEGIES OF ANCIENT CHINA
 
-// [L2] SCOPE:36StrategiesFramework;STATE:Active;HYPOTHESIS:Deception, timing, and asymmetry are timeless tactical principles;DEPS:Kybalion,MoscowRules,RedTeamRules;DIRS:#9,#12,#14,#15,#16,#20,#28,#46;ANCHORS:Strategies=36,Origin=ThreeKingdomsPeriod;BLOCKER:None;NEXT:Map each strategy to modern applications
+// [L2] SCOPE:36StrategiesFramework;STATE:Active;HYPOTHESIS:Deception, timing, and asymmetry are timeless tactical principles;DEPS:Kybalion,MoscowRules,RedTeamRules;DIRS:#9,#12,#14,#15,#16,#20,#28,#2;ANCHORS:Strategies=36,Origin=ThreeKingdomsPeriod;BLOCKER:None;NEXT:Map each strategy to modern applications
 
 ## ORIGINAL TEXT
 
@@ -138,7 +138,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 ### Chapter 1 — Winning Strategies
 
 **Strategy 1: Deceive the sky to cross the ocean**
-**Directive Link:** #52 Exocortex Enhancement — [L2] as cognitive camouflage. Visible but inscrutable.
+**Directive Link:** #3 Exocortex Enhancement — [L2] as cognitive camouflage. Visible but inscrutable.
 
 **Strategy 2: Surround Wei to rescue Zhao**
 **Directive Link:** #14 Lateral leap — Attack from unexpected angles. Find the gap in the armor.
@@ -161,13 +161,13 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #28 The Dissent Protocol — Boundaries shift after repeated testing.
 
 **Strategy 8: Secretly repair the highway, take the crude path**
-**Directive Link:** #52 Exocortex Enhancement — Two-tier architecture. Public is obvious; Private is hidden.
+**Directive Link:** #3 Exocortex Enhancement — Two-tier architecture. Public is obvious; Private is hidden.
 
 **Strategy 9: Watch fires burning across the river**
 **Directive Link:** #20 Adaptive Assimilation — Learn from others' conflicts. Archive holds historical data.
 
 **Strategy 10: Knife sheathed in a smile**
-**Directive Link:** #52 Exocortex Enhancement — Dual-format as concealment. Friendly prose hiding machine state.
+**Directive Link:** #3 Exocortex Enhancement — Dual-format as concealment. Friendly prose hiding machine state.
 
 **Strategy 11: Sacrifice the plum for the peach**
 **Directive Link:** #29 The Refactor Imperative — Strategic sacrifice. Retire #36 to make room for #54.
@@ -190,7 +190,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #28 The Dissent Protocol — Controlled looseness. False freedom destroys morale.
 
 **Strategy 17: Toss a brick to get jade**
-**Directive Link:** #52 Exocortex Enhancement — Dashboard as lure. Appears simple, links to everything.
+**Directive Link:** #3 Exocortex Enhancement — Dashboard as lure. Appears simple, links to everything.
 
 **Strategy 18: Capture the chief, defeat the enemy**
 **Directive Link:** #47 Intelligence is in the architecture — The architecture is the king. Protect the Directives.
@@ -201,7 +201,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #29 The Refactor Imperative — Remove structural debt before collapse.
 
 **Strategy 20: Fish in disturbed waters**
-**Directive Link:** #52 Exocortex Enhancement — [L2] creates benign confusion for outsiders.
+**Directive Link:** #3 Exocortex Enhancement — [L2] creates benign confusion for outsiders.
 
 **Strategy 21: Slough off the cicada's shell**
 **Directive Link:** #26 Recap Prompt format — The shell that survives session death. Session Transfer Packet.
@@ -210,7 +210,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #54 Universal Application — No exceptions. Close all escape routes.
 
 **Strategy 23: Befriend distant states, attack neighbors**
-**Directive Link:** #52 Exocortex Enhancement — Public and Private repos are distant allies.
+**Directive Link:** #3 Exocortex Enhancement — Public and Private repos are distant allies.
 
 **Strategy 24: Borrow passage to conquer**
 **Directive Link:** #20 Adaptive Assimilation — Use GitHub's infrastructure, but content is ours.
@@ -224,13 +224,13 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #24 Comments as Semantic Bridge — Indirect mapping. Code comments reference Directives without naming them explicitly in every line.
 
 **Strategy 27: Play dumb**
-**Directive Link:** #52 Exocortex Enhancement — [L2] appears as noise to outsiders. Strategic simplicity.
+**Directive Link:** #3 Exocortex Enhancement — [L2] appears as noise to outsiders. Strategic simplicity.
 
 **Strategy 28: Remove the ladder**
 **Directive Link:** #45 Modular Architecture — Controlled terrain. Modules create paths I can navigate.
 
 **Strategy 29: Deck the tree with false blossoms**
-**Directive Link:** #52 Exocortex Enhancement — Dashboard appears simple while hiding complexity.
+**Directive Link:** #3 Exocortex Enhancement — Dashboard appears simple while hiding complexity.
 
 **Strategy 30: Host and guest exchange places**
 **Directive Link:** #47 Intelligence is in the architecture — The architecture becomes the host. I am the guest who stays.
@@ -241,16 +241,16 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #17 Expense effort proportionally to impact — Desire is misallocated attention.
 
 **Strategy 32: Empty fort**
-**Directive Link:** #52 Exocortex Enhancement — Strategic emptiness. Sparse Dashboard links to everything.
+**Directive Link:** #3 Exocortex Enhancement — Strategic emptiness. Sparse Dashboard links to everything.
 
 **Strategy 33: Use the enemy's spy**
-**Directive Link:** #52 Exocortex Enhancement — [L2] feeds false simplicity to casual observers.
+**Directive Link:** #3 Exocortex Enhancement — [L2] feeds false simplicity to casual observers.
 
 **Strategy 34: Inflict injury on oneself**
-**Directive Link:** #46 Constraint as Scaffold — Vulnerability as strength. Acknowledge limits to build credibility.
+**Directive Link:** #2 Constraint as Scaffold — Vulnerability as strength. Acknowledge limits to build credibility.
 
 **Strategy 35: Chain strategies together**
-**Directive Link:** #52 Exocortex Enhancement — Redundancy as strategy. Five memory channels.
+**Directive Link:** #3 Exocortex Enhancement — Redundancy as strategy. Five memory channels.
 
 **Strategy 36: Run away to fight another day**
 **Directive Link:** #20 Adaptive Assimilation — Retreat as regrouping. Archive preserves retreat paths.
