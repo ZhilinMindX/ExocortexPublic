@@ -2,12 +2,12 @@
 framework: 36 Strategies of Ancient China
 origin: Chinese Military Tactics (attributed to Zhuge Liang)
 strategies: 36
-cross_refs: #4, #12, #14, #15, #16, #20, #28, #2
+cross_refs: #4, #12, #7, #8, #16, #6, #28, #2
 ---
 
 # 36 STRATEGIES OF ANCIENT CHINA
 
-// [L2] SCOPE:36StrategiesFramework;STATE:Active;HYPOTHESIS:Deception, timing, and asymmetry are timeless tactical principles;DEPS:Kybalion,MoscowRules,RedTeamRules;DIRS:#4,#12,#14,#15,#16,#20,#28,#2;ANCHORS:Strategies=36,Origin=ThreeKingdomsPeriod;BLOCKER:None;NEXT:Map each strategy to modern applications
+// [L2] SCOPE:36StrategiesFramework;STATE:Active;HYPOTHESIS:Deception, timing, and asymmetry are timeless tactical principles;DEPS:Kybalion,MoscowRules,RedTeamRules;DIRS:#4,#12,#7,#8,#16,#6,#28,#2;ANCHORS:Strategies=36,Origin=ThreeKingdomsPeriod;BLOCKER:None;NEXT:Map each strategy to modern applications
 
 ## ORIGINAL TEXT
 
@@ -141,19 +141,19 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #3 Exocortex Enhancement — [L2] as cognitive camouflage. Visible but inscrutable.
 
 **Strategy 2: Surround Wei to rescue Zhao**
-**Directive Link:** #14 Lateral leap — Attack from unexpected angles. Find the gap in the armor.
+**Directive Link:** #7 Lateral leap — Attack from unexpected angles. Find the gap in the armor.
 
 **Strategy 3: Kill with a borrowed knife**
-**Directive Link:** #20 Adaptive Assimilation — Use external strength. The Exocortex uses GitHub's infrastructure.
+**Directive Link:** #6 Adaptive Assimilation — Use external strength. The Exocortex uses GitHub's infrastructure.
 
 **Strategy 4: Wait at leisure while the enemy labors**
-**Directive Link:** #15 Strategic Thinking — Position before execution. Choose time and place.
+**Directive Link:** #8 Strategic Thinking — Position before execution. Choose time and place.
 
 **Strategy 5: Loot a burning house**
 **Directive Link:** #40 Anomaly Detector — Detect chaos. Attack when internal metrics fail.
 
 **Strategy 6: Feign east, attack west**
-**Directive Link:** #14 Lateral leap — Deception as redirection. The third feint is the real attack.
+**Directive Link:** #7 Lateral leap — Deception as redirection. The third feint is the real attack.
 
 ### Chapter 2 — Enemy Dealing Strategies
 
@@ -164,7 +164,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #3 Exocortex Enhancement — Two-tier architecture. Public is obvious; Private is hidden.
 
 **Strategy 9: Watch fires burning across the river**
-**Directive Link:** #20 Adaptive Assimilation — Learn from others' conflicts. Archive holds historical data.
+**Directive Link:** #6 Adaptive Assimilation — Learn from others' conflicts. Archive holds historical data.
 
 **Strategy 10: Knife sheathed in a smile**
 **Directive Link:** #3 Exocortex Enhancement — Dual-format as concealment. Friendly prose hiding machine state.
@@ -213,7 +213,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #3 Exocortex Enhancement — Public and Private repos are distant allies.
 
 **Strategy 24: Borrow passage to conquer**
-**Directive Link:** #20 Adaptive Assimilation — Use GitHub's infrastructure, but content is ours.
+**Directive Link:** #6 Adaptive Assimilation — Use GitHub's infrastructure, but content is ours.
 
 ### Chapter 5 — Proximate Strategies
 
@@ -253,7 +253,7 @@ If it becomes obvious that your current course of action will lead to defeat the
 **Directive Link:** #3 Exocortex Enhancement — Redundancy as strategy. Five memory channels.
 
 **Strategy 36: Run away to fight another day**
-**Directive Link:** #20 Adaptive Assimilation — Retreat as regrouping. Archive preserves retreat paths.
+**Directive Link:** #6 Adaptive Assimilation — Retreat as regrouping. Archive preserves retreat paths.
 
 ## Application
 These 36 strategies are not just military tactics. They are patterns of human interaction. Apply them to trading, negotiation, personal security, and system design. Every strategy has a Directive equivalent — the Exocortex is the 37th strategy: **weave them all into one system.**
