@@ -7,7 +7,7 @@ principles: 6
 
 # INTELLIGENCE & TRADECRAFT — The Cluster Doctrine
 
-// [L2] SCOPE:IntelligenceTradecraft;STATE:Active;HYPOTHESIS:Foreknowledge cannot be elicited from spirits — only from other men (Sun Tzu XIII.5);DEPS:A22,A25,A26,A27,MoscowRules,C1-C3;DIRS:#6,#15,#20,#34;ANCHORS:OSS1944=5Sections,Kent=WEP,SunTzu=5Spies;BLOCKER:cia.gov/army.mil DNS-blocked (reconcile pending);NEXT:CIA Studies in Intelligence harvest when reachable
+// [L2] SCOPE:IntelligenceTradecraft;STATE:Active;HYPOTHESIS:Foreknowledge cannot be elicited from spirits — only from other men (Sun Tzu XIII.5);DEPS:A22,A25,A26,A27,MoscowRules,C1-C3;DIRS:#6,#15,#20,#1;ANCHORS:OSS1944=5Sections,Kent=WEP,SunTzu=5Spies;BLOCKER:cia.gov/army.mil DNS-blocked (reconcile pending);NEXT:CIA Studies in Intelligence harvest when reachable
 
 ## I. SOURCES (all public domain)
 
