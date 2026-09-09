@@ -2,12 +2,12 @@
 framework: Moscow Rules
 origin: Cold War Intelligence Tradecraft
 principles: 10
-cross_refs: #15, #16, #28, #2
+cross_refs: #8, #16, #28, #2
 ---
 
 # MOSCOW RULES — Intelligence Tradecraft
 
-// [L2] SCOPE:MoscowRulesFramework;STATE:Active;HYPOTHESIS:Operational security requires systematic paranoia;DEPS:RedTeamRules,36Strategies;DIRS:#15,#16,#28,#2;ANCHORS:Rules=10,Origin=ColdWar;BLOCKER:None;NEXT:Map to Red Team Rules
+// [L2] SCOPE:MoscowRulesFramework;STATE:Active;HYPOTHESIS:Operational security requires systematic paranoia;DEPS:RedTeamRules,36Strategies;DIRS:#8,#16,#28,#2;ANCHORS:Rules=10,Origin=ColdWar;BLOCKER:None;NEXT:Map to Red Team Rules
 
 ## ORIGINAL TEXT
 
@@ -49,8 +49,8 @@ cross_refs: #15, #16, #28, #2
    **Directive Link:** #29 The Refactor Imperative — Break patterns before they become vulnerabilities.
 
 7. **Lull them into a sense of complacency.**
-   Deception requires patience. Strategic Thinking (#15) demands positioning before execution.
-   **Directive Link:** #15 Strategic Thinking — Position before action.
+   Deception requires patience. Strategic Thinking (#8) demands positioning before execution.
+   **Directive Link:** #8 Strategic Thinking — Position before action.
 
 8. **Don't harass the opposition.**
    Energy conservation. Expense effort proportionally to impact (#17).
@@ -58,7 +58,7 @@ cross_refs: #15, #16, #28, #2
 
 9. **Pick the time and place for action.**
    Timing is everything. The 36 Strategies are built on this principle.
-   **Directive Link:** #15 Strategic Thinking — Second and third order timing.
+   **Directive Link:** #8 Strategic Thinking — Second and third order timing.
 
 10. **Keep your options open.**
     PACE: Primary, Alternate, Contingency, Emergency. Always have an exit.
