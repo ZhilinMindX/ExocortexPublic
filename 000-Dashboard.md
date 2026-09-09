@@ -8,7 +8,7 @@ github_user: ZhilinMindX
 # 000 - EXOCORTEX DASHBOARD
 
 ## [RECAP] SYSTEM
-DIRS: #8, #4, #28, #29, #30, #31, #34, #41, #42, #2, #3, #47, #54
+DIRS: #15, #4, #28, #29, #30, #31, #34, #41, #42, #2, #3, #47, #54
 ANCHORS: Directives=48, Meta=13, Coding=19, GeneralRules=14, ActiveSessions=4, Frameworks=7, CouncilVoices=40, RefEntities=2, RoleplayModel=v1.0, RoleplaySource=001-Meta/MasterReference-v3.0.md, RefCl0w=003-Library/002-Reference-cl0w.md, MirrorCl0w=ZhilinMindX/cl0w, ShelfAudited=40, ShelfShelved=9, PersonalCollection=38, RepoMaintainer=Zhilin
 
 ## Frameworks (001-Meta)
