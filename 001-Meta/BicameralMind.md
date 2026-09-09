@@ -62,6 +62,12 @@ vetoes the other's failure mode.
 4. COMMIT (Architect)     — one mind speaks again
 ```
 
+For Council deliberations, steps 2-3 run the ROUND-TABLE PROTOCOL
+([[001-Meta/CouncilVoting]], 2026-09-08): ground in chunks -> re-ingest all
+answers as labeled EMERGENT CONTEXT -> exactly ONE revision round, where
+modern analogies become legal as signed member inferences -> synthesize with
+labeled strata. Grounding is the floor; the round-table is the room.
+
 A session that skips step 1 is sterile; one that skips step 2 is hallucination;
 one that skips step 3 is monologue. BootAudit verifies the loop is intact.
 
