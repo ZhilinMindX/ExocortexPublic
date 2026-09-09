@@ -2,12 +2,12 @@
 framework: Moscow Rules
 origin: Cold War Intelligence Tradecraft
 principles: 10
-cross_refs: #15, #16, #28, #46
+cross_refs: #15, #16, #28, #2
 ---
 
 # MOSCOW RULES — Intelligence Tradecraft
 
-// [L2] SCOPE:MoscowRulesFramework;STATE:Active;HYPOTHESIS:Operational security requires systematic paranoia;DEPS:RedTeamRules,36Strategies;DIRS:#15,#16,#28,#46;ANCHORS:Rules=10,Origin=ColdWar;BLOCKER:None;NEXT:Map to Red Team Rules
+// [L2] SCOPE:MoscowRulesFramework;STATE:Active;HYPOTHESIS:Operational security requires systematic paranoia;DEPS:RedTeamRules,36Strategies;DIRS:#15,#16,#28,#2;ANCHORS:Rules=10,Origin=ColdWar;BLOCKER:None;NEXT:Map to Red Team Rules
 
 ## ORIGINAL TEXT
 
@@ -42,7 +42,7 @@ cross_refs: #15, #16, #28, #46
 
 5. **Go with the flow, blend in.**
    Camouflage is survival. The [L2] encoding is camouflage — readable but dense to outsiders.
-   **Directive Link:** #52 Exocortex Enhancement — [L2] as cognitive camouflage.
+   **Directive Link:** #3 Exocortex Enhancement — [L2] as cognitive camouflage.
 
 6. **Vary your pattern and stay within your cover.**
    Predictability is death. The Refactor Imperative (#29) prevents pattern stagnation.
