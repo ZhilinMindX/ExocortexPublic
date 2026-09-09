@@ -3,12 +3,12 @@ framework: Red Team Rules
 origin: Adversarial Security Testing
 principles: 20+
 experience: 17+ years
-cross_refs: #6, #7, #9, #12, #15, #16, #17, #28, #31, #46
+cross_refs: #6, #7, #9, #12, #15, #16, #17, #28, #31, #2
 ---
 
 # RED TEAM RULES — Adversarial Thinking Framework
 
-// [L2] SCOPE:RedTeamFramework;STATE:Active;HYPOTHESIS:Security is determined more by what is done wrong than by what is done right;DEPS:MoscowRules,36Strategies;DIRS:#6,#7,#9,#12,#15,#16,#17,#28,#31,#46;ANCHORS:Rules=20,Experience=17Years;BLOCKER:None;NEXT:Map each rule to Directive equivalents
+// [L2] SCOPE:RedTeamFramework;STATE:Active;HYPOTHESIS:Security is determined more by what is done wrong than by what is done right;DEPS:MoscowRules,36Strategies;DIRS:#6,#7,#9,#12,#15,#16,#17,#28,#31,#2;ANCHORS:Rules=20,Experience=17Years;BLOCKER:None;NEXT:Map each rule to Directive equivalents
 
 ## ORIGINAL TEXT
 
@@ -101,7 +101,7 @@ These are lessons learned during more than 17 years of Red Teaming.
     **Directive Link:** #10 Keep It Simple — Sophistication is fragility.
 
 14a. **Most organizations will ignore or seriously underestimate the threat from insiders. That's your in.**
-    **Directive Link:** #46 Constraint as Scaffold — Internal assumptions are blind spots.
+    **Directive Link:** #2 Constraint as Scaffold — Internal assumptions are blind spots.
 
 15. **Make it asymmetrical. Advantage-stacking is your friend..**
     **Directive Link:** #15 Strategic Thinking — Asymmetric, compounding effects.
