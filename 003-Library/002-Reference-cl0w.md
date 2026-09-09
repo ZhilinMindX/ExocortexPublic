@@ -10,7 +10,7 @@ status: Mirrored for study; assimilation deferred
 
 # REFERENCE — cl0w / ZeroClaw
 
-// [L2] SCOPE:ReferenceCl0w;STATE:Mirrored;HYPOTHESIS:cl0w is useful as a local-agent pattern but not as a wholesale dependency;DEPS:RoleplayModel,CouncilOfVoices,MoscowRules,RedTeamRules;DIRS:#9,#15,#16,#17,#28,#2,#3;ANCHORS:Source=ge4sis/cl0w,Mirror=ZhilinMindX/cl0w,License=MIT,Decision=PatternOnly;BLOCKER:ForkSyncLag;NEXT:Study mirror and extract LocalAgent pattern
+// [L2] SCOPE:ReferenceCl0w;STATE:Mirrored;HYPOTHESIS:cl0w is useful as a local-agent pattern but not as a wholesale dependency;DEPS:RoleplayModel,CouncilOfVoices,MoscowRules,RedTeamRules;DIRS:#4,#15,#16,#17,#28,#2,#3;ANCHORS:Source=ge4sis/cl0w,Mirror=ZhilinMindX/cl0w,License=MIT,Decision=PatternOnly;BLOCKER:ForkSyncLag;NEXT:Study mirror and extract LocalAgent pattern
 
 ## What it is
 
