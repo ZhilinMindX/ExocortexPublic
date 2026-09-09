@@ -3,12 +3,12 @@ framework: Red Team Rules
 origin: Adversarial Security Testing
 principles: 20+
 experience: 17+ years
-cross_refs: #6, #7, #9, #12, #15, #16, #17, #28, #31, #2
+cross_refs: #6, #7, #4, #12, #15, #16, #17, #28, #31, #2
 ---
 
 # RED TEAM RULES — Adversarial Thinking Framework
 
-// [L2] SCOPE:RedTeamFramework;STATE:Active;HYPOTHESIS:Security is determined more by what is done wrong than by what is done right;DEPS:MoscowRules,36Strategies;DIRS:#6,#7,#9,#12,#15,#16,#17,#28,#31,#2;ANCHORS:Rules=20,Experience=17Years;BLOCKER:None;NEXT:Map each rule to Directive equivalents
+// [L2] SCOPE:RedTeamFramework;STATE:Active;HYPOTHESIS:Security is determined more by what is done wrong than by what is done right;DEPS:MoscowRules,36Strategies;DIRS:#6,#7,#4,#12,#15,#16,#17,#28,#31,#2;ANCHORS:Rules=20,Experience=17Years;BLOCKER:None;NEXT:Map each rule to Directive equivalents
 
 ## ORIGINAL TEXT
 
@@ -136,7 +136,7 @@ Apply Red Team thinking to any system: trading strategies, personal security, bu
 
 # RED TEAM RULES v2 — STRUCTURED ANALYTIC GRAFT (2026-09-08)
 
-// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#9,#20,#28,#1;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
+// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#4,#20,#28,#1;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
 
 Sources (all public domain, US Government works, 17 U.S.C. §105):
 - **A22** — Heuer, *Psychology of Intelligence Analysis* (CIA, 1999), 189 chunks.
@@ -156,7 +156,7 @@ Sources (all public domain, US Government works, 17 U.S.C. §105):
 2. **Analysis of Competing Hypotheses (A22)** — For every contested claim entering the ClaimLedger: enumerate ALL hypotheses, list evidence FOR and AGAINST each, and distinguish *unproven* from *disproved*. Unproven hypotheses stay alive until disproved. Absence of evidence is not evidence of absence of deception.
 3. **Premortem Analysis (A24 p.173)** — MANDATORY before any structural migration or irreversible commit (cf. Ouroboros). Assume the plan has failed; work backward to find which assumption or task killed it. Negates overconfidence, consensus pull, groupthink.
 4. **Devil's Advocacy rotation (A23; A24 p.142)** — Each session, one Council member is chartered to argue the strongest case AGAINST the prevailing line, regardless of its own vote. The role rotates; no member may hold it twice in a row.
-5. **Divergence–Convergence discipline (A24 p.144)** — Every deliberation runs both phases: diverge (generate alternatives — Yes-And, What-If, Outside-In) THEN converge (evaluate — ACH, Argument Deconstruction). An output that skipped divergence is HALF A MIND (Directive #9).
+5. **Divergence–Convergence discipline (A24 p.144)** — Every deliberation runs both phases: diverge (generate alternatives — Yes-And, What-If, Outside-In) THEN converge (evaluate — ACH, Argument Deconstruction). An output that skipped divergence is HALF A MIND (Directive #4).
 6. **High Impact / Low Probability watch (A24 p.157)** — Log scenarios whose probability is low but impact is fatal. Review at every curator tick.
 7. **Indicators & Signposts (A24 p.160)** — For every standing assumption in active use, define in advance what observable change would invalidate it.
 
