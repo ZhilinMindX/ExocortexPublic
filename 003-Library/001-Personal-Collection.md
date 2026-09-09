@@ -7,12 +7,12 @@ volumes: 38
 format: PDF (digital purchases)
 status: Intake complete — metadata verified from file contents, not filenames
 storage: Full texts remain OFF-REPO (copyright); this file is catalog + knowledge map only
-cross_refs: #16, #43, #46
+cross_refs: #16, #43, #2
 ---
 
 # 003-Library/001 — PERSONAL COLLECTION v0.1
 
-// [L2] SCOPE:PersonalCollection;STATE:Intake;HYPOTHESIS:The collection is the Council's substance layer in private hands — frameworks, member works, tradecraft, wealth doctrine;DEPS:GutenbergShelf,CouncilOfVoices;DIRS:#16,#43,#46;ANCHORS:Volumes=38,DirectMemberWorks=10,FrameworkTexts=9,IntakeDate=2026-09-05;BLOCKER:None;NEXT:Dossiers for priority volumes per user mandate
+// [L2] SCOPE:PersonalCollection;STATE:Intake;HYPOTHESIS:The collection is the Council's substance layer in private hands — frameworks, member works, tradecraft, wealth doctrine;DEPS:GutenbergShelf,CouncilOfVoices;DIRS:#16,#43,#2;ANCHORS:Volumes=38,DirectMemberWorks=10,FrameworkTexts=9,IntakeDate=2026-09-05;BLOCKER:None;NEXT:Dossiers for priority volumes per user mandate
 
 > **Intake standard:** every volume opened and identified from its own text layer — never trusted to filename. Full texts stay off-repo (purchased = personal license); what lives here is the map.
 
