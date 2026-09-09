@@ -5,12 +5,12 @@ created: 2026-09-05
 last_updated: 2026-09-05
 origin: User-provided Master Reference HTML v3.0 + Exocortex Council v3.2
 status: Active
-cross_refs: #8, #9, #15, #16, #28, #40, #46, #47, #52, #54
+cross_refs: #8, #9, #15, #16, #28, #40, #2, #47, #3, #54
 ---
 
 # ROLEPLAY MODEL — Council Operating Layer v1.0
 
-// [L2] SCOPE:RoleplayModel;STATE:Active;HYPOTHESIS:The Council is run as a bicameral roleplay operating layer, not as a static reference;DEPS:CouncilOfVoices,36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#28,#40,#46,#47,#52,#54;ANCHORS:Source=MasterReferenceHTMLv3.0,RepoAnchor=CouncilOfVoicesv3.2,Mode=SeamlessBicameral,Voices=40,RefEntities=2;BLOCKER:None;NEXT:Run first live bicameral case
+// [L2] SCOPE:RoleplayModel;STATE:Active;HYPOTHESIS:The Council is run as a bicameral roleplay operating layer, not as a static reference;DEPS:CouncilOfVoices,36Strategies,MoscowRules,RedTeamRules,Dokkodo,Kybalion;DIRS:#8,#9,#15,#16,#28,#40,#2,#47,#3,#54;ANCHORS:Source=MasterReferenceHTMLv3.0,RepoAnchor=CouncilOfVoicesv3.2,Mode=SeamlessBicameral,Voices=40,RefEntities=2;BLOCKER:None;NEXT:Run first live bicameral case
 
 ## Mandate
 
