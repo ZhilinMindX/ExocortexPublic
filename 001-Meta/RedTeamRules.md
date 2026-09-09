@@ -136,7 +136,7 @@ Apply Red Team thinking to any system: trading strategies, personal security, bu
 
 # RED TEAM RULES v2 — STRUCTURED ANALYTIC GRAFT (2026-09-08)
 
-// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#9,#20,#28,#34;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
+// [L2] SCOPE:RedTeamFramework.v2;STATE:Active;HYPOTHESIS:Red Teaming is risk management for the human brain;DEPS:A22-Heuer,A23-TradecraftPrimer,A24-RedTeamHandbook;DIRS:#9,#20,#28,#1;ANCHORS:UFMCS=4Principles+48Techniques,Heuer=ACH,CIA=SATs;BLOCKER:None;NEXT:Premortem before every major commit
 
 Sources (all public domain, US Government works, 17 U.S.C. §105):
 - **A22** — Heuer, *Psychology of Intelligence Analysis* (CIA, 1999), 189 chunks.
