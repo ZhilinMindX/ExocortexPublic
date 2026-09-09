@@ -2,12 +2,12 @@
 framework: Kybalion
 origin: Hermetic Philosophy
 principles: 7
-cross_refs: #8, #12, #15, #16, #20, #47, #3
+cross_refs: #5, #12, #15, #16, #20, #47, #3
 ---
 
 # KYBALION — The Seven Hermetic Principles
 
-// [L2] SCOPE:KybalionFramework;STATE:Active;HYPOTHESIS:Universal laws govern all planes of existence;DEPS:Dokkodo,36Strategies;DIRS:#8,#12,#15,#16,#20,#47,#3;ANCHORS:Principles=7,Origin=HermeticEgypt;BLOCKER:None;NEXT:Cross-reference with Strategic Thinking Directive
+// [L2] SCOPE:KybalionFramework;STATE:Active;HYPOTHESIS:Universal laws govern all planes of existence;DEPS:Dokkodo,36Strategies;DIRS:#5,#12,#15,#16,#20,#47,#3;ANCHORS:Principles=7,Origin=HermeticEgypt;BLOCKER:None;NEXT:Cross-reference with Strategic Thinking Directive
 
 ## ORIGINAL TEXT
 
@@ -29,7 +29,7 @@ Cause and Effect: "Every Cause has its Effect; every Effect has its cause." Noth
 **Directive Link:** #47 Intelligence is in the architecture — The architecture *is* the mind. The Exocortex is mentalism made manifest — an externalized mind that persists beyond any single session.
 
 ### 2. Correspondence
-**Directive Link:** #8 All knowledge is one system — Correspondence between domains is literally what the Synergy Imperative mandates. Cross-domain integration is correspondence in action.
+**Directive Link:** #5 All knowledge is one system — Correspondence between domains is literally what the Synergy Imperative mandates. Cross-domain integration is correspondence in action.
 
 ### 3. Vibration
 **Directive Link:** #40 Anomaly Detector — Baselines and deviations are vibration patterns. The difference between normal operation and anomaly is merely a matter of their rate of deviation.
@@ -44,8 +44,8 @@ Cause and Effect: "Every Cause has its Effect; every Effect has its cause." Noth
 **Directive Link:** #41 Precedent Library, #42 Lessons Learned — Institutional memory of causation. Every override is a cause; every refined Directive is an effect.
 
 ### 7. Gender (Implicit in Kybalion)
-Creation requires both analysis (masculine) and synthesis (feminine). The Exocortex balances empirical precision (#16) with integrative synergy (#9).
-**Directive Link:** #16 Never equate what is merely similar (analysis) + #9 Synergy Imperative (synthesis).
+Creation requires both analysis (masculine) and synthesis (feminine). The Exocortex balances empirical precision (#16) with integrative synergy (#4).
+**Directive Link:** #16 Never equate what is merely similar (analysis) + #4 Synergy Imperative (synthesis).
 
 ## Application
 Use these principles to diagnose any system. If something is stuck, check which principle is being violated. If a solution is elusive, apply correspondence — the answer exists on another plane.
