@@ -54,7 +54,7 @@ cross_refs: #10, #13, #15, #17, #18, #28, #2
    **Directive Link:** #20 Adaptive Assimilation — Regret is wasted energy; lessons are assets.
 
 7. **Never be jealous.**
-   **Directive Link:** #8 All knowledge is one system — Jealousy is fragmentation.
+   **Directive Link:** #5 All knowledge is one system — Jealousy is fragmentation.
 
 8. **Never let yourself be saddened by a separation.**
    **Directive Link:** #12 The Solution usually is hidden in the problem — Separation reveals new paths.
