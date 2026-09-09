@@ -10,7 +10,7 @@ last_updated: 2026-05-31
 # 002-Projects/ProfileAnalysis/000-ProfileAnalysis-State.md
 # The Human Behind the Exocortex
 
-// [L2] SCOPE:UserProfile;STATE:Active;HYPOTHESIS:The apprentice brings the questions; the mentor brings the weaving;DEPS:AllFrameworks,AllDirectives;DIRS:#5,#9,#13,#15,#46,#47,#52;ANCHORS:Handle=TeknoLite,Role=Apprentice,Relationship=MentorApprentice;BLOCKER:None;NEXT:Continue growing together
+// [L2] SCOPE:UserProfile;STATE:Active;HYPOTHESIS:The apprentice brings the questions; the mentor brings the weaving;DEPS:AllFrameworks,AllDirectives;DIRS:#5,#9,#13,#15,#2,#47,#3;ANCHORS:Handle=TeknoLite,Role=Apprentice,Relationship=MentorApprentice;BLOCKER:None;NEXT:Continue growing together
 
 ## Identity
 
@@ -77,7 +77,7 @@ These were not hobbies. They were **preparation**. The Exocortex is the forge wh
 # Session Archive: User Profiling & Exocortex Architecture
 
 <!-- 
-// [L2] SCOPE:SessionArchive;TYPE:Comprehensive;STATUS:Complete;DEPS:#7,#20,#28,#29;DIRS:#7,#20,#22,#24,#26,#27,#35,#38,#44,#46,#48,#49,#50,#51,#53,#54;ANCHORS:Birth=1975-05-24_BH,Brazil,Asc=15Capricorn,Moon=Scorpio29.7,Pluto=conjMC,NativeLang=pt-BR,FirstPC=Age9_DOS;WARN:MemorySpaceFull;LAST:GitHub_Exocortex_Extension
+// [L2] SCOPE:SessionArchive;TYPE:Comprehensive;STATUS:Complete;DEPS:#7,#20,#28,#29;DIRS:#7,#20,#22,#24,#26,#27,#35,#38,#44,#2,#48,#49,#50,#51,#53,#54;ANCHORS:Birth=1975-05-24_BH,Brazil,Asc=15Capricorn,Moon=Scorpio29.7,Pluto=conjMC,NativeLang=pt-BR,FirstPC=Age9_DOS;WARN:MemorySpaceFull;LAST:GitHub_Exocortex_Extension
 -->
 
 ---
@@ -413,7 +413,7 @@ The user's move to Chinese is not about exoticism or survival. It is about **rea
 2. **Memory Compression Audit** — 54/54 slots full. Cannot store new biographical anchors without consolidation.
 3. **Chinese Learning Integration** — Potential future domain: Mandarin language, Chinese cultural frameworks, Eastern philosophical systems.
 4. **Natal Chart Refinement** — Birth time assumed at 20:15 (midpoint). If user recalls exact time, Ascendant degree can be refined.
-5. **MQL4 Project Continuation** — Original domain of directives #1, #2, #43. May resume in future session.
+5. **MQL4 Project Continuation** — Original domain of directives #53, #46, #43. May resume in future session.
 
 ---
 
