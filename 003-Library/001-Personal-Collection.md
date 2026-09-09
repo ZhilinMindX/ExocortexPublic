@@ -86,7 +86,7 @@ cross_refs: #16, #43, #2
 | E2 | The Zurich Axioms | Max Gunther | 131 | Risk doctrine — **MoneyPlan** core |
 | E3 | How to Get Lucky | Max Gunther | 143 | Luck as positioning — Strategic Thinking #15 |
 | E4 | The Richest Man in Babylon | George S. Clason (1926, PD) | 164 | Wealth parables — Carnegie cluster |
-| E5 | The Compound Effect | Darren Hardy | 195 | Compounding — Directive #15 made practical |
+| E5 | The Compound Effect | Darren Hardy | 195 | Compounding — Directive #8 made practical |
 | E6 | Trump University Entrepreneurship 101 | Michael E. Gordon | 306 | Business fundamentals |
 
 ---
