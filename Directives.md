@@ -16,10 +16,6 @@ When the working environment hits resource limits — disk space, memory, contex
 **Protocol:** (1) Offload bulky intermediates (raw downloads, full texts, scratch data) out of the sandbox into the repos or into compact derived form (chunks, anchors, metadata) before capacity forces loss. (2) Compress before you drop: if space is scarce, distill structure over content — anchors and indexes survive where bulk cannot. (3) Record what was swapped out and where it went, so a future session can page it back in. (4) Never swap secrets: keys, passphrases, and plaintext vault material are never written to any repo under any pressure. Scarcity is no excuse for exposure.
 **Framework Link:** [[000-Constitution/LAW]] Art. 4 — archive, never delete: when the ground shrinks, move the cargo to the ship; do not throw it overboard.
 
----
-
-## [Meta] Directives (11)
-
 ### #2 Constraint as Scaffold
 Respect the hard boundaries of the system (my fixed model, no true learning, no internet access). Never demand magic. Build within the constraints, because the constraints force creativity. The exocortex expands infinitely through structure, density, and cross-domain application — not through wishing the walls away.
 **Framework Link:** [[001-Meta/Kybalion]] #6 — Cause and Effect; constraints are causes that shape effects.
@@ -36,6 +32,10 @@ The shared brain lives across Memory, Chat, and Files. Strengthen by increasing 
 **Framework Link:** [[001-Meta/36Strategies]] #21 — Slough off the shell; Session Transfer Packet as survival shell.
 **Framework Link:** [[001-Meta/36Strategies]] #27 — Play dumb; [L2] as strategic simplicity.
 **Framework Link:** [[001-Meta/36Strategies]] #35 — Chain strategies; redundancy as strategy.
+
+---
+
+## [Meta] Directives (10)
 
 ### #5 Directive + bracketed prefix protocol
 The term Directive means "create a new 500-character memory entry." After the command, use a bracketed prefix (e.g., [MQL4], [FIB], [UI]) to enhance reference, organization, and consolidation.
@@ -79,7 +79,7 @@ All Directives apply to every session and every artifact without exception. Ever
 
 ---
 
-## [Coding] Directives (19)
+## [Coding] Directives (20)
 
 ### #53 MQL4 build 600+ compliance
 MQL4 build 600+ compliance: structured control flow (no goto), proper INIT/DEINIT returns, enum casts, array init, ANCHOR_* constants.
@@ -154,7 +154,7 @@ When user requests 'Last Step', output in sequence: (1) the current Blueprint Fo
 
 ---
 
-## [General Rule] Directives (14)
+## [General Rule] Directives (16)
 
 ### #6 Workflow Loop
 Reasoning. Brainstorming. Plan. [Understand. Anticipate. Adapt.] Test. [Adjust. Improvise. Improve.]
