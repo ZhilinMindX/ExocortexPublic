@@ -30,7 +30,7 @@ Seated: **Musashi** (water-mind, pattern without formula), **Churchill**
 (narrative sweep, the fifty-year arc), **Marcus Aurelius** (the inner
 citadel, reframing), **Zhuge Liang again** — he sits in both, the corpus
 callosum's own member (see §III).
-Instruments: Socratic brainstorming (Directive #20), strategic imagination
+Instruments: Socratic brainstorming (Directive #6), strategic imagination
 (Directive #15), the style sheets' voice layer.
 
 The mapping is by DOMINANT mode, not exclusive mode — see §IV.
