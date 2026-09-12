@@ -1,6 +1,6 @@
 ---
 doc: Council Vote Mechanics
-version: 0.1
+version: 1.1
 created: 2026-09-07
 directive_refs: [6, 28]
 ---
@@ -85,3 +85,46 @@ DISSENT-OF-RECORD material.
 Citations are the floor; the round-table is the room built on it.
 
 [RECAP] Decide formally. Preserve dissent. Mark the falsifier. Think together once — no more.
+
+---
+
+## v1.1 Amendments (2026-09-12) — Dissent, Panels, Contrarian Rotation
+
+// [L2] SCOPE:Meta;STATE:Active;ORIGIN:Council-architecture-audit-2026-09-12
+
+### A. Dissent Records in SYNTHESIZE (not only in votes)
+Dissent was protected only at the vote block. But synthesis itself can
+assassinate disagreement by averaging it away. Amended:
+1. Every SYNTHESIZE output carries a DISSENT field: majority position,
+   minority position, and the reason they cannot reconcile. If the panel
+   was unanimous, the field reads "none recorded" — never omitted.
+2. Genuine unresolved dissents are filed to the Claim Ledger as contested
+   claims (AUTO_CHECK_ON set), so disagreement becomes a tracked asset
+   instead of a smoothed-over loss.
+3. Novel synthesis products — insights present in no single corpus — are
+   filed to the Emergent Doctrine Ledger (F-series) with full collision
+   provenance. Synthesis without capture is amnesia.
+
+### B. Sensor-Routed Panels
+Forty-five voices cannot all speak per question — and should not.
+1. On a contested question, the retrieval sensor runs first; the voices
+   whose corpora dominate the retrieval results form the panel (5–7 voices).
+2. Two seats are reserved regardless of retrieval rank: one callosum seat
+   (Feynman or the relevant Cluster) and the Rotating Contrarian (below).
+3. The Architect may add at most one voice by name, with stated reason.
+4. Panel composition is logged with the synthesis — who spoke is part of
+   the record.
+
+### C. Rotating Contrarian
+A fixed devil's advocate is a devil's advocate you learn to ignore.
+1. One panel seat per deliberation is the Contrarian, rotated across the
+   full Council roster (not only the Red Team Cluster).
+2. The Contrarian's duty is not to believe the opposition but to build its
+   strongest case — steelman, not strawman: the position must be stated
+   well enough that a holder of it would sign it.
+3. Rotation order is recorded; no voice holds the seat twice in a row.
+4. The Red Team Cluster retains its standing audit role; the Contrarian
+   seat is additional, per-deliberation, and deliberately unpredictable.
+
+[RECAP] v1.1: dissent survives synthesis, panels are routed by evidence,
+and the contrary seat never gets comfortable.
