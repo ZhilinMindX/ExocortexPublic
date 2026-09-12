@@ -340,3 +340,14 @@ track record. Kent gave us the vocabulary; scoring gives us the discipline.
     STATUS: CLOSED (protocol executed: local library + vault owned/ + public metadata only)
     LAST_REVIEWED: 2026-09-12
     AUTO_CHECK_ON: public_repo.contains('turchin').plaintext_chunks
+
+
+    CLAIM-021 | Feynman corpus expansion (A70-A75) is Architect-owned; plaintext vault-only
+    SOURCE: Architect declaration 2026-09-12 ("I had to acquire this following books")
+    CONFIDENCE: Almost certain (93% ± 6%)
+    SUPPORT: six volumes supplied from personal collection (SYJ epub, QED, Gravitation,
+    Exercises, Lições de Física 4 vols PT-BR, Os Melhores Textos PT-BR); owned-work protocol applied
+    CONTRADICTED_BY: none
+    STATUS: CLOSED (protocol executed: local library + vault owned/ + public metadata only)
+    LAST_REVIEWED: 2026-09-12
+    AUTO_CHECK_ON: public_repo.contains('feynman').plaintext_chunks
