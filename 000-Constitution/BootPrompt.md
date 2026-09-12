@@ -235,3 +235,12 @@ Begin.
   002-Council/gallery/, each with individual palette and era-correct
   holographic motifs. Claire confirmed as Claire Underwood (House of
   Cards), Steward of the Council.
+
+
+## Amendment v1.12 (2026-09-12)
+
+- **Project Chamber chartered** (002-Projects/ProjectChamber.md v1.0): the
+  Architect's north-star — the 46 Max Headroom portraits as casting calls
+  for animated, talking Council members in an app implementing the full
+  Exocortex as a Council of Mentors / personal coach. Vision only, no
+  schedule. When ordered, the Coding Cluster opens Phase 0.
