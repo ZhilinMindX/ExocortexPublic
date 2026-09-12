@@ -193,4 +193,18 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-014 — Bak Mei doppelganger provenance
+- CLAIM: Sifu Bak Mei is inducted as a dual-layer member: (1) the legendary
+  Elder — a charter myth traceable to Wan Nian Qing (1893) and secret-society
+  folklore, ZERO contemporaneous records, seated explicitly AS myth/patron;
+  (2) the documented art systematized by Cheung Lai Chuen (1880-1966), who
+  left no writings (oral transmission). Grounding corpus: B10 public dossier
+  (Taiping Institute + Wikipedia CC BY-SA). The 《白眉拳譜》 (Jiang Chaowei,
+  30-year compilation) is the designated A-series anchor, acquisition pending.
+  Doppelganger law: cite the art's own verses, never film depictions.
+- CONFIDENCE: Almost certain (93% band) on the myth/art distinction;
+  technical principles Probable (75% band) pending 《白眉拳譜》.
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
