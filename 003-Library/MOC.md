@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.8
+version: 2.9
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -98,7 +98,7 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
   | A45 The Guerrilla and How to Fight Him FMFRP 12-25 (267)
   | A47 Special Forces Medical Handbook ST 31-91B (scanned; OCR intake pending, count TBD)
 
-### B — Framework Texts (13)
+### B — Framework Texts (14)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
 - B2/B3 Verstappen 36 Strategies (duplicate editions), B4 modern interp.,
   B5 East/West comparative, B6 raw, B7 diary study -> Sun Tzu / Zhuge Liang strategy axis
@@ -109,6 +109,9 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - B11 Lieh-Tzu, Taoist Teachings (Giles 1912, Sacred Texts CD, PD, 71 chunks) -> Zhuangzi axis
 - B12 Ssuma Ch'ien Historical Records, selection (Allen 1894, PD, 3 chunks) -> historiography shelf
 - B13 Yang Chu's Garden of Pleasure (Forke 1912, PD, 39 chunks) -> Taoist heterodoxy shelf
+- B14 The Yi King / I Ching (Legge 1882, SBE 16, Sacred Texts CD, PD, 422 chunks,
+  hexagram-anchored: all 64 hexagrams + appendixes) -> decision-classic shelf;
+  the divination-and-judgment layer of the Chinese strategy axis
 
 ### C — Tradecraft (6)
 - C1 SOE, C2 KGB Alpha, C3 KGB/CIA Ops -> Intelligence section (Mitnick/Snowden/Kent axis)
@@ -144,4 +147,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 101 volumes (40 A / 13 B / 6 C / 7 D / 7 E / 2 F), 23,285 chunks, 6 groups, every book mapped to a member and a project.
+[RECAP] 102 volumes (40 A / 14 B / 6 C / 7 D / 7 E / 2 F), 23,707 chunks, 6 groups, every book mapped to a member and a project.
