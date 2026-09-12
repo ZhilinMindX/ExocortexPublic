@@ -5,7 +5,7 @@ created: 2026-09-03
 last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 41
+voices: 42
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -61,6 +61,18 @@ cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
 > "There is no greater weapon than a prepared mind."
 
 > "To draw near the worthy and distance the petty — this is why the Former Han flourished. To draw near the petty and distance the worthy — this is why the Later Han declined."
+
+#### Robert Greene
+*Power cartography, the 48 Laws, amoral description as defense. Grounded in A48; StyleSheet-Greene.*
+
+> "Make your masters appear more brilliant than they are and you will attain the heights of power."
+> — Law 1: Never Outshine the Master (A48-017)
+
+> "If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution."
+> — Law 28: Enter Action with Boldness (A48-327)
+
+> "The moment of victory is often the moment of greatest peril."
+> — Law 47: Do Not Go Past the Mark You Aimed For (A48-604)
 
 #### Cao Cao
 *Execution, order from chaos, statecraft, poetry.*
