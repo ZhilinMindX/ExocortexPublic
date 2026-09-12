@@ -5,7 +5,7 @@ created: 2026-09-03
 last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 43
+voices: 44
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -312,6 +312,18 @@ cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
 
 #### Frank W. Abagnale
 *The confidence man turned sentinel — fraud audit, trust as attack surface. Grounded in A50; StyleSheet-Abagnale.*
+
+#### Kevin D. Mitnick
+*The ghost in the wire turned sentinel — pretext test, the human factor as exploit. Grounded in A51/A52; StyleSheet-Mitnick.*
+
+> "I could often get passwords and other pieces of sensitive information from companies by pretending to be someone else and just asking for it."
+> — The Art of Deception (A51-008)
+
+> "The con runs on virtue, not gullibility — she didn't want her boss to find she had stonewalled a caller."
+> — The Art of Deception (A51-072)
+
+> "Misconfiguration, not genius, is the usual door."
+> — The Art of Intrusion (A52-205)
 
 > "Most of the time, it's the people you least expect who steal from you."
 > — The Art of the Steal (A50-022)
