@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.9
+version: 3.0
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -131,6 +131,12 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - E7 Benner's Prophecies of Future Ups and Downs in Prices (3rd ed. 1884, PD, user-supplied
   scan, 83 chunks, page-anchored; OCR rough but legible) -> TRADING DOCTRINE axis:
   the original commodity-cycle canon (pig-iron/hogs/corn panics & boom years)
+
+### G — Engineering Doctrine (2)
+- G1 MQL4 Review-Refactor-Debug Prompts (original trilogy), G2 MQL4 Prompt
+  Engineering Doctrine & Master Prompt -> Coding Cluster
+  (Architect-authored corpus; intake 2026-09-12, 81 chunks; guild charter
+  [[001-Meta/CodingCluster]] v1.0; oracle rite [[001-Meta/YiConsultation]] v1.0)
 
 ### F — Emergent Doctrine (2)
 - F-001 The Sentinel Triad | F-002 Telemetry Before Decay
