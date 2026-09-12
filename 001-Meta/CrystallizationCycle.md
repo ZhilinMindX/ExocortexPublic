@@ -61,6 +61,16 @@ runs has its Kent band decayed one step at the next run, with a
 re-examination note. Doctrine, like memory, proves itself by use —
 telemetry before decay (F-002) applies to doctrine itself.
 
+
+## Next Pass — Pending Tasks
+
+- **NFD paper conformance audit (TASK-NFD-AUDIT):** fetch the original
+  Nurture-First Development paper and perform a line-by-line deep audit of
+  this rite against it. Current conformance check (2026-09-13) was made
+  against the second-opinion review's summary only; the paper itself may
+  specify asset schemas, consolidation algorithms, or evaluation criteria
+  we have not seen. Ordered by the Architect, 2026-09-13.
+
 ### Changelog
 - v1.0 (2026-09-12): initial rite, adopted from the second-opinion
   review's Knowledge Crystallization Cycle (NFD pattern), hardened with
