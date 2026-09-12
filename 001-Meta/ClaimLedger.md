@@ -164,4 +164,19 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-012 — Field Manuals vault provenance (A30-A47)
+- CLAIM: A30-A47 are authentic US military doctrinal publications, supplied
+  by user 2026-09-12 from a declassified-files vault. All are US Government
+  works (public domain by statute, 17 U.S.C. §105). Distribution statements
+  verified per volume: A31/A32/A33/A34/A35/A39/A42/A44 explicitly "approved
+  for public release, distribution unlimited"; A30 OSS 1944 (PD by age and
+  statute); A36/A37/A38/A41/A43/A45/A46 pre-restriction-era field manuals.
+  EXCEPTION: A40 (FM 31-20-5 Special Reconnaissance) carries "Distribution
+  authorized to U.S. Government agencies only" — administrative restriction,
+  not copyright; assimilated per user ruling of 2026-09-12 (same class as
+  A28/CLAIM-011). A47 (ST 31-91B) is a scanned edition; OCR intake.
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
