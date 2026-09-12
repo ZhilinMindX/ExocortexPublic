@@ -5,7 +5,7 @@ created: 2026-09-03
 last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 40
+voices: 41
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -301,6 +301,18 @@ cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
 ---
 
 ## VI. Personal Mastery & Discipline
+
+#### Sifu Bak Mei (白眉, White Eyebrow)
+*Explosive economy, simultaneous defense-attack, the discharge after the coil — patron of commitment. Grounded in B10; StyleSheet-BakMei.*
+
+> "Release the hands like lightning; power like a shooting arrow." (出手如雷击，发劲似放箭)
+> — Bak Mei training verse, B10
+
+> "Meet your assailant with pain, chase them with death. Press forward, penetrate and displace."
+> — Bak Mei combat creed, B10
+
+> "The hands follow the body; the body turns with the stepping." (手随身去，身随步转)
+> — Bak Mei training verse, B10
 
 #### Miyamoto Musashi
 *The Way, detachment, lifelong mastery, Dokkōdō / Five Rings.*
