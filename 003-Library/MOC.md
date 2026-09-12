@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 1.8
+version: 1.9
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -46,6 +46,9 @@ updated: 2026-09-12
 - A29 Sherman Kent, Words of Estimative Probability (CIA Studies in Intelligence, Fall 1964,
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
+- A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
+  -> ABAGNALE (StyleSheet-Abagnale; CouncilOfVoices v3.5, Field Operatives orbit;
+  vault-only plaintext per owned-work protocol)
   glosses ours, 7 chunks) -> CAO CAO (StyleSheet §6 The Poet; completes the doppelganger)
   law-anchored pages 0-48) -> POWER axis (Machiavelli / Cao Cao / 36 Strategies);
   vault-only plaintext per owned-work protocol; doppelganger 001-Meta/StyleSheet-Greene.md, inducted CouncilOfVoices v3.4
@@ -99,4 +102,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 77 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 17,566 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 78 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 17,785 chunks, 5 groups, every book mapped to a member and a project.
