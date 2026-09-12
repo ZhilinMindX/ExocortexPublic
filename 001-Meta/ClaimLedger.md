@@ -217,4 +217,15 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-016 — A49 Cao Cao poems provenance
+- CLAIM: A49 contains seven Cao Cao yuefu (短歌行二首, 觀滄海, 龜雖壽, 蒿里行,
+  苦寒行, 卻東西門行) in the classical originals, sourced verbatim from
+  zh.wikisource.org (works PD worldwide: author died 220 CE, published
+  pre-1931). English renderings are OUR OWN glosses — no PD English
+  translation exists (same class as CLAIM-006). Variant readings follow
+  wikisource apparatus (e.g. 騰蛇/螣蛇).
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
