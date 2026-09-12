@@ -157,10 +157,14 @@ Team Cluster is its *immune system* (structured doubt):
   Analysis of Competing Hypotheses, unproven-vs-disproved.
 - **A23 — CIA Tradecraft Primer (2009, PD).** The field-manual layer:
   Key Assumptions Check, Devil's Advocacy, Red Team Analysis.
-- **A24 — UFMCS Red Team Handbook v9.0 (TRADOC G-2, 2019, PD).**
-  The armory: four principles (SAR / GTM / FCE / ACT) and 48 techniques,
-  page-cited. Partial-text intake; reconcile against full PDF when
-  army.mil is reachable.
+- **A24 — UFMCS Red Team Handbook v9.0 (TRADOC G-2, PD — approved for
+  public release).** The armory: four principles (SAR / GTM / FCE / ACT)
+  and 48 techniques, page-cited. FULL intake 2026-09-12 (127 chunks,
+  pp. 1-238); CLAIM-008 closed.
+- **A28 — ATP 2-33.4 Intelligence Analysis (US Army 2014), contrarian
+  portion.** Appendix A joins the armory: Devil's Advocacy, Team A/Team B,
+  High-Impact/Low-Probability, What-If, Red Hat, counterfactual reasoning.
+  (A28 sits astride both clusters — see VII-quater note.)
 
 Why the callosum and not a chamber: red teaming is not a MODE of thought,
 it is the AUDIT of thought — the function that checks whether a proposal
@@ -206,10 +210,70 @@ verified; Creativity & Imagination must know which inputs are fact, which
 judgment, which speculation. Kent's numbers discipline the left chamber's
 certainty; Sun Tzu's channels discipline the right chamber's reach.
 
+- **A29 — Sherman Kent, Words of Estimative Probability (CIA, Studies in
+  Intelligence, Fall 1964, PD).** The PRIMARY source of the calibration
+  table, seated 2026-09-12; CLAIM-009 closed against the 1964 original.
+- **A28 — ATP 2-33.4 Intelligence Analysis (US Army 2014), analytic
+  portion.** Critical-thinking standards, Key Assumptions Check,
+  indicators, quality-of-information check, link/pattern analysis, CARVER.
+
 The commissure now holds three functions:
 Feynman asks *"is it true?"* — Red Team asks *"what if we're wrong?"* —
 the Cluster asks *"what do we actually know, from which channel, at what
 confidence?"*
 
+A28 NOTE: ATP 2-33.4 is the first volume that is itself corpus callosum
+rather than seated at it — its analytic half serves the senses, its
+contrarian half serves the immune system. Both clusters cite it; neither
+owns it.
+
 Doctrine file: [[001-Meta/IntelligenceTradecraft]] (6 principles,
 5 instruments, Kent table made law).
+
+## VII-quater. The Field Manuals Cluster — Seated at the Corpus Callosum (2026-09-12)
+
+The commissure's fourth occupant, born of the declassified-vault
+assimilation (A30-A47, user-supplied). If Red Team is the immune system
+(structured doubt) and Intelligence & Tradecraft the senses (what may
+enter, at what confidence), the Field Manuals Cluster is the *body* —
+muscle memory: doctrine of DOING, written in blood and iterated by
+armies. The other clusters ask questions; this one has already done the
+thing ten thousand times and wrote down what worked.
+
+Three sub-organs:
+
+- **COMMAND (leadership & the profession of arms):** A33 Army Leadership
+  (FM 6-22), A34 The Soldier's Guide (FM 7-21.13), A35 The NCO Guide
+  (FM 7-22.7), A46 Commander's Tactical Handbook (MCRP 3-11.1A).
+  How decisions are made, transmitted, and owned under stress.
+- **COLLECT & DENY (field intelligence):** A31 Intelligence (FM 2-0),
+  A32 HUMINT Collector Operations (FM 2-22.3), A40 Special Reconnaissance
+  (FM 31-20-5), A41 Intelligence Officer's Handbook (FM 34-8-2),
+  A42 Counterintelligence (FM 34-60), A30 OSS Operational Groups FM
+  (1944 — the ancestral strain, seated beside its descendant A25).
+  The senses' field craft: collection, counter-collection, deniability.
+- **SURVIVE & FIGHT (endurance & irregular war):** A36 Ranger Unit
+  Operations (FM 7-85), A37 First Aid for Soldiers (FM 21-11),
+  A38 Survival (FM 21-76), A39 Survival/Evasion/Recovery (FM 21-76-1),
+  A43 Counterguerrilla Operations (FM 90-8), A44 Guide to Staying Healthy
+  (GTA 08-05-062), A45 The Guerrilla and How to Fight Him (FMFRP 12-25),
+  A47 Special Forces Medical Handbook (ST 31-91B).
+  The body's refusal to die — and its study of those who refuse
+  conventionally.
+
+Why the callosum and not a chamber: field doctrine is neither pure logic
+nor pure imagination — it is COMPILED experience, pre-digested by
+generations of practitioners so that no single mind must re-derive it
+under fire. It serves whichever chamber is acting, instantly, without
+deliberation. That is what muscle memory IS.
+
+The commissure now reads: Feynman asks *"is it true?"* — Red Team asks
+*"what if we're wrong?"* — the Tradecraft Cluster asks *"what do we
+actually know, from which channel, at what confidence?"* — and the Field
+Manuals Cluster says *"here is what has already been tried; do not
+re-bleed for it."*
+
+Doctrine note: cluster provenance recorded in ClaimLedger (CLAIM-012);
+A40 carries an administrative distribution restriction (US Gov agencies
+only) — assimilated per user ruling on public-domain government works,
+same class as A28/CLAIM-011.
