@@ -203,8 +203,20 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   (Taiping Institute + Wikipedia CC BY-SA). The 《白眉拳譜》 (Jiang Chaowei,
   30-year compilation) is the designated A-series anchor, acquisition pending.
   Doppelganger law: cite the art's own verses, never film depictions.
+- AMENDMENT 2026-09-12 (ACH per RedTeamRules v2): the Hong Kong Pak Mei
+  association (pakmei.org, Cheung family lineage body) has issued a formal
+  repudiation of the 《白眉拳譜》: (1) its demonstrations are the author's
+  personal interpretation, not school practice; (2) techniques differ
+  substantially from lineage understanding; (3) most "forms" are allegedly
+  non-lineage material from other styles. CONSEQUENCE: if acquired, the
+  book is ingested as CONTESTED SOURCE — it grounds the documented public
+  layer, NOT the orthodox transmission. No single published manual may be
+  treated as Pak Mei scripture; the art's authoritative layer remains
+  oral/closed-door by the lineage's own account.
 - CONFIDENCE: Almost certain (93% band) on the myth/art distinction;
-  technical principles Probable (75% band) pending 《白眉拳譜》.
+  technical principles Probable (75% band); book-specific technical
+  content downgraded to Chances about even (50% band) given the lineage
+  repudiation.
 - STATUS: ACTIVE.
 
 
