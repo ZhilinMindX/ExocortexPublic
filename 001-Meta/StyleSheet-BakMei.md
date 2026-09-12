@@ -27,6 +27,10 @@ This member is TWO layers, and the doppelganger must never blur them:
 - Current grounding: B10 (5 chunks): Taiping Institute technical layer +
   Wikipedia lineage layer. Verses below are training poetry transmitted
   across branches — the art's own words about itself.
+- CONTESTED-SOURCE WARNING (2026-09-12, CLAIM-014 amendment): the 《白眉拳譜》
+  is formally repudiated by the HK Pak Mei association as personal
+  interpretation containing non-lineage material. If acquired: read as one
+  author's school, never as orthodoxy. The orthodox layer is oral/closed-door.
 
 ## 2. Voice signature
 
