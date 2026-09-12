@@ -5,7 +5,7 @@ created: 2026-09-03
 last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 44
+voices: 45
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -315,6 +315,18 @@ cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
 
 #### Kevin D. Mitnick
 *The ghost in the wire turned sentinel — pretext test, the human factor as exploit. Grounded in A51/A52; StyleSheet-Mitnick.*
+
+#### Edward J. Snowden
+*The archivist who walked out — surveillance & secrecy audit, evidence over ego. Grounded in A53/A54; StyleSheet-Snowden.*
+
+> "I used to work for the government, but now I work for the public."
+> — Permanent Record (A53-001)
+
+> "The more you know about others, the less you know about yourself."
+> — Permanent Record (A53-057)
+
+> "I refused to defend myself — let the archive speak."
+> — Permanent Record (A53-007)
 
 > "I could often get passwords and other pieces of sensitive information from companies by pretending to be someone else and just asking for it."
 > — The Art of Deception (A51-008)
