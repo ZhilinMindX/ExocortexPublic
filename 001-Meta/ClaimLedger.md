@@ -146,4 +146,15 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-011 — ATP 2-33.4 provenance
+- CLAIM: A28 is the authentic ATP 2-33.4 Intelligence Analysis, Headquarters,
+  Department of the Army, 18 August 2014 (58k+ words, 147 pages, full contents
+  verified). US Government work, public domain by statute (17 U.S.C. §105);
+  original copy carried a FOUO distribution restriction (administrative, not
+  copyright) — user-directed assimilation 2026-09-12 on public-domain grounds.
+  Retrieved via publicintelligence.net mirror (armypubs.army.mil unreachable).
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
