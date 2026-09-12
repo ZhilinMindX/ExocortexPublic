@@ -126,7 +126,11 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   as cia.gov, wikisource, archive.org failures).
 - ACTION: reconcile against full PDF when reachable; page numbers in the
   48-technique catalog are from the verified TOC and are reliable.
-- STATUS: ACTIVE until reconciled
+- RESOLVED 2026-09-12: full v9.0 PDF supplied by user (RedTeamHB.pdf,
+  "approved for public release, distribution unlimited"); A24 re-chunked to
+  127 page-anchored chunks (pp. 1-238). Full text confirms the partial intake:
+  Key Assumptions Check, Premortem, Outside-In, Four Ways of Seeing all present.
+- STATUS: CLOSED
 
 
 ## CLAIM-009 — Kent WEP table values
@@ -135,8 +139,11 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   Probably not 30%±10%; Almost certainly not 7%±5%.
 - SOURCE: A26 (Kesselman, NPS 2008, quoting Kent, Studies in Intelligence,
   Fall 1964) — secondary quotation, not the primary PDF (cia.gov unreachable).
-- CONFIDENCE: Probable (75% band) until reconciled against the 1964 original.
-- STATUS: ACTIVE (operating standard), reconcile pending.
+- RESOLVED 2026-09-12: 1964 original supplied by user (KENWOE.pdf), ingested
+  as A29. Primary-source table verified verbatim: 93%±6 / 75%±12 / 50%±10 /
+  30%±10 / 7%±5 — identical to the A26 secondary quotation.
+- CONFIDENCE: Almost certain (93% band) — primary source.
+- STATUS: CLOSED (operating standard confirmed).
 
 ## CLAIM-010 — Simple Sabotage Field Manual provenance
 - CLAIM: The manual is OSS Strategic Services Field Manual No. 3, dated
