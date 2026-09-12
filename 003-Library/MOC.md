@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.6
+version: 2.7
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (52)
+### A — Direct Council Works (55)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -54,6 +54,13 @@ updated: 2026-09-12
 - A60 Gibran, The Prophet (Knopf 1923, Gutenberg #58585, PD, 35 chunks, all 26 meditations
   section-anchored) + A61 The Forerunner (1920, Gutenberg #54580, PD, 20 chunks)
   -> GIBRAN (StyleSheet-Gibran; IMAGINATION CLUSTER contemplative seat; CouncilOfVoices v4.0)
+- A62 Zhuangzi, Writings of Kwang-dze complete 33 books (Legge 1891, SBE 39/40, Sacred Texts CD,
+  PD, 384 chunks, book-anchored) -> ZHUANGZI (StyleSheet-Zhuangzi; IMAGINATION CLUSTER; v4.1)
+- A63 Laozi, Tao Teh King all 81 chapters (Legge 1891, SBE 39, Sacred Texts CD, PD, 71 chunks,
+  chapter-anchored) -> LAOZI (StyleSheet-Laozi; IMAGINATION CLUSTER strategy-adjacent; v4.1)
+- A64 Mencius (Legge, PD, 165 chunks) -> Confucian humanism shelf (voice candidacy open)
+- A65 Sacred Books of China: Shu King / Shih King / Hsiao King (Legge, SBE 3, PD, 472 chunks)
+  -> statecraft antiquity shelf (Shu King = speeches of ancient kings)
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
@@ -87,7 +94,7 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
   | A45 The Guerrilla and How to Fight Him FMFRP 12-25 (267)
   | A47 Special Forces Medical Handbook ST 31-91B (scanned; OCR intake pending, count TBD)
 
-### B — Framework Texts (10)
+### B — Framework Texts (13)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
 - B2/B3 Verstappen 36 Strategies (duplicate editions), B4 modern interp.,
   B5 East/West comparative, B6 raw, B7 diary study -> Sun Tzu / Zhuge Liang strategy axis
@@ -95,6 +102,9 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - B10 Pak Mei (Bak Mei) Public Dossier (Taiping Institute + Wikipedia CC BY-SA, 5 chunks,
   2026-09-12) -> SIFU BAK MEI (doppelganger 001-Meta/StyleSheet-BakMei.md; inducted
   CouncilOfVoices v3.3 beside Musashi; 《白眉拳譜》 acquisition pending)
+- B11 Lieh-Tzu, Taoist Teachings (Giles 1912, Sacred Texts CD, PD, 71 chunks) -> Zhuangzi axis
+- B12 Ssuma Ch'ien Historical Records, selection (Allen 1894, PD, 3 chunks) -> historiography shelf
+- B13 Yang Chu's Garden of Pleasure (Forke 1912, PD, 39 chunks) -> Taoist heterodoxy shelf
 
 ### C — Tradecraft (6)
 - C1 SOE, C2 KGB Alpha, C3 KGB/CIA Ops -> Intelligence section (Mitnick/Snowden/Kent axis)
@@ -130,4 +140,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 90 volumes (33 A / 10 B / 6 C / 7 D / 7 E / 2 F), 20,838 chunks, 6 groups, every book mapped to a member and a project.
+[RECAP] 97 volumes (36 A / 13 B / 6 C / 7 D / 7 E / 2 F), 22,043 chunks, 6 groups, every book mapped to a member and a project.
