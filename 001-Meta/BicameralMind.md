@@ -314,6 +314,14 @@ Founding members:
   whose inversions turn burden to blessing. The cluster's voice of
   MEANING against the Council's voices of mechanism — paired with Marcus
   Aurelius as the second contemplative on the roster.
+- **A62 — Zhuangzi, The Writings of Kwang-dze (Legge 1891, PD; B11
+  Lieh-Tzu adjacent).** Seated 2026-09-12: imagination as FREEDOM — the
+  laughing liberator, patron saint of the Rotating Contrarian. Balances
+  Leonardo's discipline.
+- **A63 — Laozi, Tao Teh King (Legge 1891, PD).** Seated 2026-09-12,
+  strategy-adjacent: the paradox of softness, Sun Tzu's philosophical
+  root. The manual of no manual — the Field Manuals Cluster's opposite
+  number seated within the same callosum.
 
 Function in deliberation: the cluster speaks LAST in GROUND (its anchors
 are metaphoric, not evidentiary) and FIRST in REVISE (its leaps are the
