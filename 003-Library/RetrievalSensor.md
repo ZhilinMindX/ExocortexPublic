@@ -75,3 +75,13 @@ Two new module functions: `voice_health()` and `health_report()`.
 - Health measures USE, not decay: doctrine chunks appear here even though
   Art. 5.5 exempts them from staging. The two audits answer different
   questions — "is it silent?" (cold_audit) vs "is it grounded?" (health).
+
+
+## v1.2 (2026-09-12) — Hybrid retrieval
+
+BM25 is now complemented by dense embeddings (all-MiniLM-L6-v2,
+bi-encoder, Khoj pattern) fused by reciprocal rank fusion (rrf_k=60) in
+`hybrid_retrieve()`. Embeddings cached at `embeddings.npy` alongside
+chunks.jsonl (row i = chunks.jsonl line i; rebuild on every corpus
+change). Graceful fallback: BM25-only when the cache or model is absent.
+Adopted from the second-opinion adjudication (B.5).
