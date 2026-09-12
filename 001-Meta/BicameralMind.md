@@ -309,6 +309,11 @@ Founding members:
   core mind: the interrogative observer for whom looking and thinking are
   one act. Kautilya with a sketchbook; Feynman with a paintbrush. The
   standing §VII polymath candidate resolves here — SEATED-ELSEWHERE.
+- **A60/A61 — Kahlil Gibran, The Prophet (1923) + The Forerunner (1920),
+  both PD.** Seated 2026-09-12, the contemplative seat: the parabolist
+  whose inversions turn burden to blessing. The cluster's voice of
+  MEANING against the Council's voices of mechanism — paired with Marcus
+  Aurelius as the second contemplative on the roster.
 
 Function in deliberation: the cluster speaks LAST in GROUND (its anchors
 are metaphoric, not evidentiary) and FIRST in REVISE (its leaps are the
