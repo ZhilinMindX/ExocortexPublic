@@ -54,3 +54,24 @@ All Council grounding passes route through `sensor.retrieve(query, k)`:
 [RECAP] Measure first, stage later, destroy never. The sensor is the
 Archive's memory of being consulted — an archive that cannot remember
 being read cannot prove it is still alive.
+
+
+---
+
+## v1.1 — Voice Health (2026-09-12)
+
+Two new module functions: `voice_health()` and `health_report()`.
+
+- `VOICE_CORPORA` maps every seated voice and callosum cluster to its
+  book IDs. New voices are registered here at induction (part of the
+  induction checklist).
+- `voice_health()` returns per-voice: corpus size, chunks ever retrieved,
+  coverage ratio, raw hit count — all derived from the append-only
+  hits.jsonl, never from editable state.
+- `health_report()` renders worst-coverage-first. A voice running on 20%
+  of its grounding is a doppelganger decaying into waxwork; chronic low
+  coverage triggers StyleSheet revision (voice-versioning protocol,
+  CouncilOfVoices v3.8+).
+- Health measures USE, not decay: doctrine chunks appear here even though
+  Art. 5.5 exempts them from staging. The two audits answer different
+  questions — "is it silent?" (cold_audit) vs "is it grounded?" (health).
