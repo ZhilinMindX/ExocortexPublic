@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.5
+version: 2.6
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -107,10 +107,13 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
   D5 Sherlock (image-only) -> Feynman/Holmes reasoning | D6 Difficult People,
   D7 Life Coaching -> Satir/Carnegie axis
 
-### E — Wealth (6)
+### E — Wealth (7)
 - E1 Disciplined Trader (Douglas), E2 Zurich Axioms, E3 How to Get Lucky (Gunther) ->
   MoneyPlan project / Dalio axis | E4 Richest Man in Babylon (PD) | E5 Compound Effect |
   E6 Trump U Entrepreneurship
+- E7 Benner's Prophecies of Future Ups and Downs in Prices (3rd ed. 1884, PD, user-supplied
+  scan, 83 chunks, page-anchored; OCR rough but legible) -> TRADING DOCTRINE axis:
+  the original commodity-cycle canon (pig-iron/hogs/corn panics & boom years)
 
 ### F — Emergent Doctrine (2)
 - F-001 The Sentinel Triad | F-002 Telemetry Before Decay
@@ -127,4 +130,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 89 volumes (33 A / 10 B / 6 C / 7 D / 6 E / 2 F), 20,755 chunks, 6 groups, every book mapped to a member and a project.
+[RECAP] 90 volumes (33 A / 10 B / 6 C / 7 D / 7 E / 2 F), 20,838 chunks, 6 groups, every book mapped to a member and a project.
