@@ -1,6 +1,6 @@
 ---
 doc: Assimilation Registry
-version: 1.0
+version: 1.1
 created: 2026-09-07
 directive_refs: [9, 15, 16, 28, 46, 52]
 ---
@@ -28,7 +28,7 @@ directive_refs: [9, 15, 16, 28, 46, 52]
 | jnMetaCode/agency-agents-zh | 267 ready expert-role definitions — persona-pack design patterns |
 | screenpipe/screenpipe | Local continuous context capture (24/7 memory substrate) |
 | ChainedTears/mlx-twin | Privacy-first local clone pipeline (Apple Silicon) — minimal reference |
-| techjarves/Uncensored-Local-Studio | Chassis candidate for local Council serving: portable llama.cpp/whisper.cpp/Kokoro runtime, HF-URL model manager, workspace VRAM-swapping, sidecar provenance JSON |
+| techjarves/Uncensored-Local-Studio | Chassis candidate for local Council serving: portable llama.cpp/whisper.cpp/Kokoro runtime, HF-URL model manager, workspace VRAM-swapping, sidecar provenance JSON. Verified 2026-09-13: fork live under ZhilinMindX and in sync with upstream (head 4db0f5ff); MIT license; zero-setup offline studio unifying GGUF LLMs, image generation, Whisper STT, Kokoro TTS — aligns with Project Chamber local-deployment privacy doctrine |
 
 ## II. Assimilated (already committed)
 
