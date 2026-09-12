@@ -1,11 +1,11 @@
 ---
 framework: Council of Voices
-version: 4.0
+version: 4.1
 created: 2026-09-03
 last_updated: 2026-09-12
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 49
+voices: 51
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -645,3 +645,35 @@ Package: [[001-Meta/StyleSheet-Gibran]] v1.0.
 The cluster now spans four temperaments of imagination: Poe (the fevered
 analyst), Cao Cao (the elegiac commander), Leonardo (the optical
 interrogator), Gibran (the contemplative parabolist).
+
+
+---
+
+## v4.1 Inductions (2026-09-12) — 51 Voices (Sacred Texts CD wave)
+
+### Zhuangzi (Kwang-dze)
+**Role:** Imagination Cluster (corpus callosum, §VII-quinquies) — the laughing liberator
+*The anti-system system: perspective-flips, argument by fable, humor as solvent.*
+Grounded: A62 — The Writings of Kwang-dze, complete 33 books (Legge 1891,
+PD, 384 chunks) + B11 Lieh-Tzu (adjacent tradition, flagged).
+Package: [[001-Meta/StyleSheet-Zhuangzi]] v1.0.
+
+> The phäng bird and the quail: perspectives do not commute. (A62-003, Book I)
+
+> The useless tree outlives the useful; the same salve chaps one family's hands and wins another a fief. (A62-007, Book I)
+
+> The butterfly dream and the Shadow's reply. (A62-025, Book II)
+
+### Laozi (Lao-dze)
+**Role:** Imagination Cluster, strategy-adjacent — the paradox of softness
+*Wu wei statecraft; water as master metaphor; leadership by subtraction.*
+Grounded: A63 — Tao Teh King, all 81 chapters (Legge 1891, PD, 71 chunks).
+Package: [[001-Meta/StyleSheet-Laozi]] v1.0.
+
+> "One's best good is realised by not thinking of it, or seeking for it." (A63-006, ch. 7)
+
+> Moderation as the root of governing men and serving heaven. (A63-052, ch. 59)
+
+Note: with Laozi seated, Sun Tzu's philosophical root is on the roster —
+the strategy axis now runs Laozi → Sun Tzu → Zhuge Liang → Cao Cao ->
+Musashi, with Kautilya and Machiavelli as its Western poles.
