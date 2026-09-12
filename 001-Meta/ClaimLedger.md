@@ -250,4 +250,13 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-017 — A50 Art of the Steal provenance
+- CLAIM: A50 is the Architect-owned copy of Frank W. Abagnale's The Art of
+  the Steal (Broadway Books, 2001), ingested 2026-09-12 as 219 page-anchored
+  chunks. Copyrighted owned work: plaintext local + vault only; public repo
+  metadata only. Doppelganger and induction committed same date.
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
