@@ -2,11 +2,11 @@
 # Machine-readable instantiation. Parse, validate, obey.
 # Synced to live system state 2026-09-12.
 
-schema_version: "1.4"
-doctrine_version: "1.4"
+schema_version: "1.6"
+doctrine_version: "1.6"
 source_law: "LAW.md#v1.1"
 ratified: "2026-09-12"
-amended: "2026-09-12 (v1.4 — Leonardo seated, 48 voices, 87 books)"
+amended: "2026-09-12 (v1.6 — Gibran seated, Audience Protocol, 49 voices, 89 books)"
 architect_required_for_amendment: true
 
 identity:
@@ -78,13 +78,13 @@ bicameral_mind:
     - {name: "Red Team Cluster", corpus: ["A22", "A23", "A24", "A28"], question: "what if we are wrong?"}
     - {name: "Intelligence & Tradecraft Cluster", corpus: ["A25", "A26", "A27", "A29", "A28"], question: "what do we actually know, from which channel, at what confidence?"}
     - {name: "Field Manuals Cluster", corpus_range: "A30-A47", question: "what has already been tried?"}
-    - {name: "Imagination Cluster", corpus: ["A57", "A49", "A58", "A59"], question: "what is this like? what story does this tell?"}
+    - {name: "Imagination Cluster", corpus: ["A57", "A49", "A58", "A59", "A60", "A61"], question: "what is this like? what story does this tell?"}
   note: "A28 sits astride both clusters — itself callosum tissue"
 
 council:
   source: "001-Meta/CouncilOfVoices.md"
-  version: "3.9"
-  voices: 48
+  version: "4.0"
+  voices: 49
   grounding_rule: "non_negotiable"
   weights_override_documents: false
   citation_required: true
@@ -109,7 +109,12 @@ council:
     - {name: "Kautilya", corpus: ["A56"], function: "statecraft & intelligence systems"}
     - {name: "Edgar Allan Poe", corpus: ["A57"], seat: "Imagination Cluster (callosum)"}
     - {name: "Leonardo da Vinci", corpus: ["A58", "A59"], seat: "Imagination Cluster (callosum)"}
+    - {name: "Kahlil Gibran", corpus: ["A60", "A61"], seat: "Imagination Cluster (callosum)"}
 
+audience_protocol:
+  source: "001-Meta/AudienceProtocol.md"
+  version: "1.0"
+  mode: "bilateral, first-person, grounded, per-voice memory (local+vault only)"
 round_table:
   source: "001-Meta/CouncilVoting.md"
   trigger: "contested_question"
@@ -151,8 +156,8 @@ retrieval_sensor:
 
 library:
   moc: "003-Library/MOC.md"
-  volumes: 87
-  chunks: 20700
+  volumes: 89
+  chunks: 20755
   series: {A: "Direct Council Works", B: "Framework Texts", C: "Tradecraft", D: "Mind/NLP", E: "Wealth", F: "Emergent Doctrine (Council work product)"}
 
 directives:
