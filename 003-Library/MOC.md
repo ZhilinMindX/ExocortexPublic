@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.0
+version: 2.1
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -48,6 +48,10 @@ updated: 2026-09-12
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
 - A51 Mitnick & Simon, The Art of Deception (Wiley 2002, Architect-owned, 334 chunks)
+- A53 Snowden, Permanent Record (Metropolitan 2019, Architect-owned, 294 chunks) -> SNOWDEN
+  | A54 Rosenbach & Stark, Der NSA-Komplex (Goldmann 2014, Architect-owned, 281 chunks, DE)
+  -> SNOWDEN secondary layer (StyleSheet-Snowden; CouncilOfVoices v3.7; vault-only plaintext;
+  Eterna Vigilância PT verified duplicate of A53, not ingested)
   -> MITNICK | A52 Mitnick & Simon, The Art of Intrusion (Wiley 2005, Architect-owned,
   312 chunks) -> MITNICK (StyleSheet-Mitnick; CouncilOfVoices v3.6; vault-only plaintext;
   FBI Vault file pending — manual-fetch list)
@@ -106,4 +110,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 80 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 18,431 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 82 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 19,006 chunks, 5 groups, every book mapped to a member and a project.
