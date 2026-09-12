@@ -291,3 +291,42 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - STATUS: ACTIVE.
 
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
+
+
+---
+
+## Calibration Assessments — v1.1 Protocol (2026-09-12)
+
+// [L2] SCOPE:Meta;STATE:Active;ORIGIN:Council-architecture-audit-2026-09-12
+
+Claims look backward (what is true); assessments look forward (what will
+happen). A Council that never scores its forecasts is a think tank with no
+track record. Kent gave us the vocabulary; scoring gives us the discipline.
+
+### Entry Format
+
+    ASSESS-### | <forward-looking judgment>
+    CONFIDENCE: <Kent WEP band — mandatory, no bare HIGH/MED/LOW>
+    ISSUED: <date> | REVIEW: <date or trigger event>
+    ISSUING-PANEL: <voices + session reference>
+    RESOLUTION: <pending | confirmed | refuted | mixed>
+    SCORE: <Brier score at resolution, 0.0 = perfect>
+
+### Rules
+1. Every Council judgment about a future or unverifiable state that carries
+   a Kent band MUST be logged here with a review date or trigger.
+2. At review, resolve and compute Brier score: (p − o)², where p is the
+   band midpoint and o ∈ {0, 1} (mixed = 0.5).
+3. The Red Team Cluster audits the assessment record at each curator tick:
+   cumulative Brier, over/under-confidence per band, per-panel breakdown.
+   A band that misfires systematically gets recalibrated in the open.
+4. Resolutions are archived, never deleted (Art. 5). A refuted assessment
+   is tuition, not shame — the only shame is an unscored one.
+
+### Ledger
+
+    ASSESS-001 | The Emergent Doctrine Ledger will reach F-010 within 90 days
+    CONFIDENCE: Chances about even (50% ± 10%)
+    ISSUED: 2026-09-12 | REVIEW: 2026-12-11
+    ISSUING-PANEL: Exocortex self-assessment, Council-architecture-audit session
+    RESOLUTION: pending
