@@ -159,8 +159,8 @@ retrieval_sensor:
 
 library:
   moc: "003-Library/MOC.md"
-  volumes: 101
-  chunks: 23285
+  volumes: 102
+  chunks: 23707
   series: {A: "Direct Council Works", B: "Framework Texts", C: "Tradecraft", D: "Mind/NLP", E: "Wealth", F: "Emergent Doctrine (Council work product)"}
 
 directives:
