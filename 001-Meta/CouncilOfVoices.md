@@ -5,7 +5,7 @@ created: 2026-09-03
 last_updated: 2026-09-05
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 42
+voices: 43
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -309,6 +309,18 @@ cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
 *Richard Sorge · Francis Walsingham · Juan Pujol Garcia · Kim Philby · Dusko Popov*
 
 > "Information is power — but disinformation is control."
+
+#### Frank W. Abagnale
+*The confidence man turned sentinel — fraud audit, trust as attack surface. Grounded in A50; StyleSheet-Abagnale.*
+
+> "Most of the time, it's the people you least expect who steal from you."
+> — The Art of the Steal (A50-022)
+
+> "When some stranger acquires enough of the basic information about you... he in effect becomes you."
+> — The Art of the Steal (A50-023)
+
+> "Uniforms without pockets. It sounds silly, but it takes away temptation."
+> — The Art of the Steal (A50-092)
 
 ---
 
