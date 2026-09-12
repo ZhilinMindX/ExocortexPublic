@@ -1,6 +1,6 @@
 ---
 doc: Emergent Doctrine Ledger
-version: 1.0
+version: 1.1
 created: 2026-09-12
 directive_refs: [4, 5, 6, 7]
 ---
@@ -27,6 +27,9 @@ producing original doctrine.
     FALSIFIER: <what would prove it wrong>
     STATUS: ACTIVE | REVISED | RETIRED
     CREATED / LAST_REVIEWED: dates
+    DERIVED_FROM: <TRAJ-### and CLAIM-### parents>   # v1.1 — mandatory
+    CONFLICT_CHECK: <F-entries compared against; result>  # v1.1 — mandatory
+    CRYSTALLIZED: <run id of the Still that produced/revised it>  # v1.1
 
 ## Rules
 1. An F-entry must trace to a real Round-Table collision — voices and chunk
@@ -79,3 +82,14 @@ STATUS: ACTIVE
 [RECAP] Grounding without synthesis is a search engine; synthesis without
 capture is amnesia. The F-series is where the Council's collisions fossilize
 into doctrine.
+
+
+## v1.1 (2026-09-12) — Provenance & Conflict schema
+
+Adopted from the second-opinion adjudication (B.3): every F-entry now
+carries DERIVED_FROM (named parent trajectories/claims — doctrine must be
+auditable and reversible), CONFLICT_CHECK (compared against all ACTIVE
+F-entries before ratification; contradictions force explicit resolution),
+and CRYSTALLIZED (the Still run that produced it — see
+CrystallizationCycle v1.0). F-001 and F-002 are grandfathered; their
+provenance is the 2026-09-12 Council-architecture-audit session.
