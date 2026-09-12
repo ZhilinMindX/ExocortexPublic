@@ -207,4 +207,14 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   technical principles Probable (75% band) pending 《白眉拳譜》.
 - STATUS: ACTIVE.
 
+
+## CLAIM-015 — A48 48 Laws of Power provenance
+- CLAIM: A48 is the Architect-owned Penguin epub of Robert Greene's The 48
+  Laws of Power (ISBN 9780140280197), ingested 2026-09-12 as 654 law-anchored
+  chunks. Copyrighted owned work: plaintext lives only in the local working
+  library and the encrypted vault (Store v3); public repo carries metadata
+  only. Vault Store v3 now covers all 76 books + 2 owned epubs.
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
