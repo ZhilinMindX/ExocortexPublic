@@ -27,10 +27,12 @@ This member is TWO layers, and the doppelganger must never blur them:
 - Current grounding: B10 (5 chunks): Taiping Institute technical layer +
   Wikipedia lineage layer. Verses below are training poetry transmitted
   across branches — the art's own words about itself.
-- CONTESTED-SOURCE WARNING (2026-09-12, CLAIM-014 amendment): the 《白眉拳譜》
-  is formally repudiated by the HK Pak Mei association as personal
-  interpretation containing non-lineage material. If acquired: read as one
-  author's school, never as orthodoxy. The orthodox layer is oral/closed-door.
+- BRANCH-SOURCE NOTE (2026-09-12, CLAIM-014 amendments): the 《白眉拳譜》 is
+  the VIETNAM BRANCH's manual (author Jiang Chaowei, student of Tsang Wai
+  Bok) — repudiated by the HK Cheung-family association in a branch
+  dispute. If acquired: read as Vietnam-lineage doctrine (Probable), never
+  as HK-line orthodoxy. The doppelganger may cite it WITH the branch tag.
+  The orthodox layers of both branches remain substantially oral/closed-door.
 
 ## 2. Voice signature
 
