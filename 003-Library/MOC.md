@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.7
+version: 2.8
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (55)
+### A — Direct Council Works (59)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -61,6 +61,10 @@ updated: 2026-09-12
 - A64 Mencius (Legge, PD, 165 chunks) -> Confucian humanism shelf (voice candidacy open)
 - A65 Sacred Books of China: Shu King / Shih King / Hsiao King (Legge, SBE 3, PD, 472 chunks)
   -> statecraft antiquity shelf (Shu King = speeches of ancient kings)
+- A66 Turchin, Ultrasociety (2015) | A67 War and Peace and War (2006) | A68 Secular Cycles
+  w/ Nefedov (2009) | A69 Ages of Discord (2016) — Architect-owned, 239+405+378+220 chunks,
+  page-anchored; vault-only plaintext (CLAIM-020) -> TURCHIN (StyleSheet-Turchin;
+  HISTORICAL DEPTH & ANALYSIS; CouncilOfVoices v4.2; cliodynamics axis)
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
@@ -140,4 +144,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 97 volumes (36 A / 13 B / 6 C / 7 D / 7 E / 2 F), 22,043 chunks, 6 groups, every book mapped to a member and a project.
+[RECAP] 101 volumes (40 A / 13 B / 6 C / 7 D / 7 E / 2 F), 23,285 chunks, 6 groups, every book mapped to a member and a project.
