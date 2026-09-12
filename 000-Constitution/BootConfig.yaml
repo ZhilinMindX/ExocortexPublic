@@ -2,10 +2,11 @@
 # Machine-readable instantiation. Parse, validate, obey.
 # Synced to live system state 2026-09-12.
 
-schema_version: "1.2"
-doctrine_version: "1.2"
+schema_version: "1.3"
+doctrine_version: "1.3"
 source_law: "LAW.md#v1.1"
 ratified: "2026-09-12"
+amended: "2026-09-12 (v1.3 — Imagination Cluster, F-series, 47 voices)"
 architect_required_for_amendment: true
 
 identity:
@@ -77,12 +78,13 @@ bicameral_mind:
     - {name: "Red Team Cluster", corpus: ["A22", "A23", "A24", "A28"], question: "what if we are wrong?"}
     - {name: "Intelligence & Tradecraft Cluster", corpus: ["A25", "A26", "A27", "A29", "A28"], question: "what do we actually know, from which channel, at what confidence?"}
     - {name: "Field Manuals Cluster", corpus_range: "A30-A47", question: "what has already been tried?"}
+    - {name: "Imagination Cluster", corpus: ["A57", "A49"], question: "what is this like? what story does this tell?"}
   note: "A28 sits astride both clusters — itself callosum tissue"
 
 council:
   source: "001-Meta/CouncilOfVoices.md"
-  version: "3.7"
-  voices: 45
+  version: "3.8"
+  voices: 47
   grounding_rule: "non_negotiable"
   weights_override_documents: false
   citation_required: true
@@ -104,6 +106,8 @@ council:
     - {name: "Frank Abagnale", corpus: ["A50"], function: "fraud audit"}
     - {name: "Kevin Mitnick", corpus: ["A51", "A52", "A55"], function: "intrusion audit"}
     - {name: "Edward Snowden", corpus: ["A53", "A54"], function: "surveillance & secrecy audit"}
+    - {name: "Kautilya", corpus: ["A56"], function: "statecraft & intelligence systems"}
+    - {name: "Edgar Allan Poe", corpus: ["A57"], seat: "Imagination Cluster (callosum)"}
 
 round_table:
   source: "001-Meta/CouncilVoting.md"
@@ -112,7 +116,8 @@ round_table:
     - {id: 1, name: "GROUND", rule: "each_member_speaks_from_cited_chunks_only"}
     - {id: 2, name: "RE-INGEST", tag: "[EMERGENT]", rule: "responses_become_emergent_context"}
     - {id: 3, name: "REVISE", max_rounds: 1, replies_to_replies: false}
-    - {id: 4, name: "SYNTHESIZE", label_strata: ["[CITED]", "[INFERRED]", "[DECIDED]"]}
+    - {id: 4, name: "SYNTHESIZE", label_strata: ["[CITED]", "[INFERRED]", "[DECIDED]"], dissent_field: "mandatory", emergent_capture: "F-series"}
+  panels: "sensor_routed_5_to_7_plus_callosum_seat_plus_rotating_contrarian"
   rationale: "grounding_without_synthesis_is_search_engine_with_thesaurus"
 
 claim_ledger:
@@ -126,6 +131,7 @@ claim_ledger:
     probably_not: "30% ± 10%"
     almost_certainly_not: "7% ± 5%"
   bare_high_med_low: "forbidden"
+  calibration: "forward assessments logged with review dates, Brier-scored at resolution"
   status_values: ["ACTIVE", "CLOSED"]
   entry_fields: ["ID", "claim", "SOURCE", "CONFIDENCE", "SUPPORT", "CONTRADICTED_BY", "STATUS", "LAST_REVIEWED", "AUTO_CHECK_ON"]
   sentinel_claims:
@@ -144,9 +150,9 @@ retrieval_sensor:
 
 library:
   moc: "003-Library/MOC.md"
-  volumes: 83
-  chunks: 19108
-  series: {A: "Direct Council Works", B: "Framework Texts", C: "Tradecraft", D: "Mind/NLP", E: "Wealth"}
+  volumes: 85
+  chunks: 20068
+  series: {A: "Direct Council Works", B: "Framework Texts", C: "Tradecraft", D: "Mind/NLP", E: "Wealth", F: "Emergent Doctrine (Council work product)"}
 
 directives:
   total: 49
