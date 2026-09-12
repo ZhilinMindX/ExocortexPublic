@@ -154,3 +154,12 @@ Begin.
   1802, PD), seated in the Imagination Cluster as its core mind. The
   §VII polymath candidate resolves SEATED-ELSEWHERE.
 - Library: 87 volumes, 20,700 chunks.
+
+
+## Amendment v1.5 (2026-09-12)
+
+- **Audience Protocol v1.0** ([[001-Meta/AudienceProtocol]]): the chamber
+  operationalized — bilateral audiences with any seated voice, first-person
+  grounded presence, per-voice audience memory (local+vault only), briefing
+  frame for anachronism, flow of outcomes to Trajectory Bank / Claim Ledger
+  / F-series. The Round-Table is breadth; the Audience is depth.
