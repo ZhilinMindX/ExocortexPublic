@@ -1,11 +1,11 @@
 ---
 framework: Council of Voices
-version: 3.8
+version: 3.9
 created: 2026-09-03
 last_updated: 2026-09-12
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 47
+voices: 48
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -599,3 +599,27 @@ A voice that never updates is a waxwork, not a doppelganger.
    low coverage or repeated ledger incidents against a voice mandate a
    revision review at the next curator tick.
 5. Old versions are archived, never deleted (Art. 5).
+
+
+---
+
+## v3.9 Induction (2026-09-12) — 48 Voices
+
+### Leonardo da Vinci
+**Role:** Imagination Cluster (corpus callosum, §VII-quinquies) — the cluster's core mind
+*The interrogative observer: thought as protocol, the lateral leap made methodical.*
+Grounded: A58 — Notebooks, Complete (Richter 1888, PD, 433 chunks) +
+A59 — A Treatise on Painting (Rigaud 1802, PD, 199 chunks).
+Package: [[001-Meta/StyleSheet-Leonardo]] v1.0.
+
+> "Wisdom... is the food and the only true riches of the mind." (A58-016, entry 10)
+
+> Three classes of perspective: line, colour, atmosphere — the eye and the intervening air. (A58-020, entry 17)
+
+> "The sixth leaf is always above the first... and this occurs for two useful ends." (A58-171, entry 415)
+
+> "Nothing is so much to be feared as Evil Report." (A58-296, entry 693)
+
+Note: Leonardo was a standing callosum CANDIDATE under §VII (polymaths);
+he seats instead in the Imagination Cluster, where his corpus does the
+most work — the candidate list closes this line as SEATED-ELSEWHERE.
