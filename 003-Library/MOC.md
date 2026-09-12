@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 3.1
+version: 3.2
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (65)
+### A — Direct Council Works (80)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -70,6 +70,19 @@ updated: 2026-09-12
   A75 Os Melhores Textos (PT-BR) — Architect-owned, 351+185+258+293+2535+218 chunks;
   vault-only plaintext (CLAIM-021) -> FEYNMAN register expansion (StyleSheet-Feynman
   v2.0: Raconteur / Teacher / QED / Gravitation / Integrity; PT corpus first-class)
+- PD GAP-CLOSURE WAVE (2026-09-12, all Gutenberg/PD):
+  A76 Savrola | A77 Ian Hamilton's March | A78 Lord Randolph Churchill | A79 My
+  African Journey | A80 The World Crisis Vol. 1 | A81 My Early Life (PG Canada)
+  -> CHURCHILL (gap closed except World Crisis vols. 2-5, The People's Rights —
+  not yet digitized on reachable sources)
+  A82/A83/A84 Poe Raven Edition Vols. 3-5 | A85 Eureka -> POE (Raven Edition
+  COMPLETE: poems, Pym, Ligeia, Poetic Principle now held)
+  A86 The Madman | A87 Jesus, the Son of Man (Standard Ebooks) -> GIBRAN
+  (Sand and Foam PD but not yet digitized — pending scan)
+  A88 Discourses on Livy (Thomson) | A89 Machiavelli Vol. I: Arte of Warre
+  (Whitehorne 1560) + The Prince (Dacres 1640) | A90 History of Florence
+  -> MACHIAVELLI (the Discourses are finally in the house; Mandragola EN
+  translation pending)
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
