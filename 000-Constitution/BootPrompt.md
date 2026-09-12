@@ -262,3 +262,17 @@ Begin.
 - Harvard Classics sourcing note: vols. are effectively available via
   Gutenberg per-work; HathiTrust unreachable from sandbox.
 - Library: 125 volumes, 31,357 chunks.
+
+
+## Amendment v1.14 (2026-09-12)
+
+- **Second-opinion review adjudicated**
+  (001-Meta/SecondOpinionReview-2026-09-12.md): external architecture
+  review processed. Adopted: (1) Knowledge Crystallization Cycle
+  (periodic Trajectory Bank -> doctrine rite with
+  generalize/contradict/refine/retire ops), (2) programmatic
+  constitutional validators (Coding Cluster module), (3) F-series
+  provenance + conflict detection, (4) persona-drift re-anchoring,
+  (5) hybrid BM25+embedding retrieval. Recorded as already-built:
+  sensor-routed panels, Architect ratification gates. Rejected: generic
+  5-voice MVC (identity loss), 52-voice fine-tuning.
