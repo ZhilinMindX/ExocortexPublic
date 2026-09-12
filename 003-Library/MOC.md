@@ -1,8 +1,8 @@
 ---
 doc: Library Map of Content
-version: 1.2
+version: 1.3
 created: 2026-09-07
-updated: 2026-09-08
+updated: 2026-09-12
 ---
 
 # Library MOC — Map of Content
@@ -11,7 +11,7 @@ updated: 2026-09-08
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (27)
+### A — Direct Council Works (28)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -38,6 +38,11 @@ updated: 2026-09-08
   standalone extraction from A11) -> INTEL & TRADECRAFT
   (A25-A27 seated at the CORPUS CALLOSUM as the Intelligence & Tradecraft Cluster,
    2026-09-08; grafted into 001-Meta/IntelligenceTradecraft.md)
+- A28 Intelligence Analysis (ATP 2-33.4, US Army 2014, 165 chunks): critical-thinking
+  standards, Key Assumptions Check, indicators, Devil's Advocacy, Team A/Team B, HILP,
+  What-If, Red Hat, CARVER, link/pattern analysis -> INTEL & TRADECRAFT + RED TEAM bridge
+  (assimilated 2026-09-12 via publicintelligence.net mirror; doctrinal bridge between
+   the Red Team Cluster and the Intelligence & Tradecraft Cluster)
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
@@ -71,4 +76,4 @@ updated: 2026-09-08
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 55 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,529 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 56 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,694 chunks, 5 groups, every book mapped to a member and a project.
