@@ -212,3 +212,16 @@ Begin.
   Claim Ledger entries.
 - Library: 104 volumes, 23,788 chunks. New series G (Engineering
   Doctrine): G1, G2.
+
+
+## Amendment v1.10 (2026-09-12)
+
+- **Feynman doppelganger deepened** (StyleSheet-Feynman v2.0): six
+  Architect-owned volumes ingested under the owned-work protocol
+  (CLAIM-021) — A70 Surely You're Joking, A71 QED, A72 Lectures on
+  Gravitation, A73 Exercises for the Feynman Lectures, A74 Lições de
+  Física (4 vols., PT-BR), A75 Os Melhores Textos (PT-BR). The callosum
+  seat now runs five registers — Raconteur, Teacher, QED, Gravitation,
+  Integrity — with a register-selection rule and a session-level ban on
+  repeated anchors. The cargo-cult monoculture is formally retired.
+- Library: 110 volumes, 27,628 chunks.
