@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.2
+version: 2.3
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (46)
+### A — Direct Council Works (48)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -44,6 +44,10 @@ updated: 2026-09-12
   (assimilated 2026-09-12 via publicintelligence.net mirror; doctrinal bridge between
    the Red Team Cluster and the Intelligence & Tradecraft Cluster)
 - A29 Sherman Kent, Words of Estimative Probability (CIA Studies in Intelligence, Fall 1964,
+- A56 Kautilya, Arthashastra (trans. Shamasastry 1915, PD, 459 chunks, page-anchored)
+  -> KAUTILYA (StyleSheet-Kautilya; CouncilOfVoices v3.8; ancient-strategy triangle 3rd vertex)
+- A57 Poe, Works Raven Edition Vols. 1-2 (Gutenberg #2147/#2148, PD, 501 chunks, section-anchored)
+  -> POE (StyleSheet-Poe; founding seat IMAGINATION CLUSTER, BicameralMind VII-quinquies)
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
@@ -102,6 +106,11 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
   MoneyPlan project / Dalio axis | E4 Richest Man in Babylon (PD) | E5 Compound Effect |
   E6 Trump U Entrepreneurship
 
+### F — Emergent Doctrine (2)
+- F-001 The Sentinel Triad | F-002 Telemetry Before Decay
+  -> [[001-Meta/EmergentDoctrineLedger]] — the Council's own work product;
+  doctrine, not grounding; Kent-banded, falsifiable, decay-exempt (Art. 5.5)
+
 ### Council packages
 - Canonical member packages live at [[002-Council]]/members/{name}/ (voice/anchors/corpus/bans)
 - References layer (book-to-skill): references/B2-36-stratagems.md (pilot)
@@ -112,4 +121,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 83 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 19,108 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 85 volumes (29 A / 10 B / 6 C / 7 D / 6 E / 2 F), 20,068 chunks, 6 groups, every book mapped to a member and a project.
