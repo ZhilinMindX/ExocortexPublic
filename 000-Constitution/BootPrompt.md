@@ -192,3 +192,23 @@ Begin.
   plaintext). The Council's historical-depth axis: cliodynamics, asabiya,
   elite overproduction, dated-and-scored prediction discipline.
 - Library: 101 volumes, 23,285 chunks.
+
+
+## Amendment v1.9 (2026-09-12)
+
+- **Coding Cluster chartered** (001-Meta/CodingCluster.md v1.0): the
+  engineering guild of the Exocortex — an instrument, not a voice. Maps the
+  Architect's MQL4 prompt doctrine onto existing organs: Red Team audit
+  grammar, Claim Ledger evidence rules, Kent-band confidence, Sentinel
+  Triad adaptation bounds, three-pass self-verification. Grounded in the
+  new G-series: G1 (original Analyzing/Coding/Debugging trilogy) and G2
+  (Prompt Engineering Doctrine & Master Prompt).
+- **Yî Consultation Protocol** (001-Meta/YiConsultation.md v1.0): the
+  Council's oracle rite, grounded in B14. Restricted per the Architect's
+  ruling: Asian Members only, only if fitting their Doppelganger and RAGs,
+  only where tradition supports it (Sun Tzu, Zhuge Liang, Cao Cao, Laozi,
+  Zhuangzi eligible; Musashi, Kautilya excluded absent corpus evidence).
+  Readings are [YÎ-COUNSEL] — never forecasts, never Kent-banded, never
+  Claim Ledger entries.
+- Library: 104 volumes, 23,788 chunks. New series G (Engineering
+  Doctrine): G1, G2.
