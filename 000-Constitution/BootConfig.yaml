@@ -2,11 +2,11 @@
 # Machine-readable instantiation. Parse, validate, obey.
 # Synced to live system state 2026-09-12.
 
-schema_version: "1.9"
-doctrine_version: "1.9"
+schema_version: "1.10"
+doctrine_version: "1.10"
 source_law: "LAW.md#v1.1"
 ratified: "2026-09-12"
-amended: "2026-09-12 (v1.9 — Coding Cluster + Yî Protocol, 104 books)"
+amended: "2026-09-12 (v1.10 — Feynman expansion A70–A75, 110 books)"
 architect_required_for_amendment: true
 
 identity:
@@ -159,8 +159,8 @@ retrieval_sensor:
 
 library:
   moc: "003-Library/MOC.md"
-  volumes: 104
-  chunks: 23788
+  volumes: 110
+  chunks: 27628
   series: {A: "Direct Council Works", B: "Framework Texts", C: "Tradecraft", D: "Mind/NLP", E: "Wealth", F: "Emergent Doctrine (Council work product)"}
 
 directives:
