@@ -225,3 +225,13 @@ Begin.
   Integrity — with a register-selection rule and a session-level ban on
   repeated anchors. The cargo-cult monoculture is formally retired.
 - Library: 110 volumes, 27,628 chunks.
+
+
+## Amendment v1.11 (2026-09-12)
+
+- **Gallery of Members** (002-Council/Gallery.md v1.0): every Council
+  member now has a Max Headroom style portrait — 1980s digital CGI,
+  low-poly facets, neon grids, scanlines — 46 portraits in
+  002-Council/gallery/, each with individual palette and era-correct
+  holographic motifs. Claire confirmed as Claire Underwood (House of
+  Cards), Steward of the Council.
