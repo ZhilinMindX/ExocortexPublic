@@ -1,6 +1,6 @@
 ---
 doc: CodingCluster
-version: 1.0
+version: 1.1
 status: active
 created: 2026-09-12
 grounding: [G1, G2]
@@ -62,5 +62,18 @@ Trading artifacts get an additional mandatory section (from G1/G2): signal-to-ar
 
 This charter follows StyleSheet versioning: minor +0.1 (new constraint, section, source), major +1.0 (doctrine replacement). Changelog below.
 
+## VIII. The Constitutional Validator Module (v1.1)
+
+The guild's first standing instrument: `003-Library/validators.py` —
+LAW.md enforced at the output boundary, in code. Citation presence,
+Kent-band format, [INFERRED]/[F-DOCTRINE]/[YÎ-COUNSEL] tagging are
+checked programmatically; output that fails is rejected, not debated.
+Origin: second-opinion review Challenge 3 — "without code-level
+enforcement, the constitution is just a very elaborate system prompt."
+The constitution is now both prompted AND enforced. The validator runs
+on: Council syntheses, Coding Cluster deliverables, and any F-series
+candidate before the Still sends it to the Architect.
+
 ### Changelog
-- v1.0 (2026-09-12): Initial charter. Grounded in G1 (original prompt trilogy) and G2 (enhancement doctrine + Master Prompt). Registered in sensor VOICE_CORPORA as "Coding Cluster".
+- v1.0 (2026-09-12): Initial charter.
+- v1.1 (2026-09-12): Constitutional Validator Module (§VIII). Grounded in G1 (original prompt trilogy) and G2 (enhancement doctrine + Master Prompt). Registered in sensor VOICE_CORPORA as "Coding Cluster".
