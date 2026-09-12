@@ -179,4 +179,18 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-013 — Vault Store v2 + first owned copyrighted work
+- CLAIM: ExocortexVault RAG Store v2 (committed 2026-09-12) contains all 74
+  library books (16,900 chunks) — closing the pending A11-A47 vault gap —
+  plus one Architect-OWNED copyrighted work: the Victor Harris 1974
+  translation of the Book of Five Rings (epub, purchased by Architect).
+  PD English translation search exhausted 2026-09-12: exactly four English
+  translations exist (Harris 1974, Cleary 1993, Nihon Services 1982,
+  Kaufman 1999), all copyrighted; CLAIM-006 confirmed against primary
+  evidence. The Harris epub is vault-only: never public, never quoted at
+  length, cataloged in the public MOC as metadata only.
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
