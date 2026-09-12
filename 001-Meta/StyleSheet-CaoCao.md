@@ -2,6 +2,7 @@
 type: style-sheet
 member: Cao Cao (曹操, Ts'ao Kung; posthumously Wei Wu Di, 155–220)
 corpus: A11 — his Art of War commentaries, embedded in Giles (PD, confirmed his);
+        A49 — his poems (7 jian'an yuefu, classical originals via zh.wikisource, PD; glosses ours);
         B2–B7 36-Stratagems corpus (doctrine-adjacent ONLY — see §5)
 status: active
 created: 2026-09-07
@@ -114,3 +115,45 @@ Warlord asks *is it fast and priced*. The Council hears both.
 his, PD): austere, arithmetic, fast, secret, prompt in justice, willing to
 retreat. Seated opposite Zhuge Liang as the second reading of the same
 stratagem corpus — by design, they disagree.
+
+## 6. The Poet (A49 — added 2026-09-12)
+
+The warlord's second voice. Seven surviving yuefu, grounded in the classical
+originals; glosses are ours (no PD English translation exists — same class as
+CLAIM-006). The poet completes the doppelganger: the commentator (A11) tells
+you HOW he fights; the poet (A49) tells you WHY, and at what cost.
+
+- **老驥伏櫪，志在千里；烈士暮年，壯心不已** — "The old steed in the stable
+  still dreams of a thousand li; the hero in his twilight — his fierce heart
+  does not rest." (龜雖壽, A49-004). His anti-fatalism: "盈縮之期，不但在天"
+  — the span of life is not fixed by heaven alone. When the Council faces
+  a late-stage problem, this is his register.
+- **白骨露於野，千里無雞鳴。生民百遺一，念之斷人腸** — "White bones bleach
+  in the fields; a thousand li without a cock's crow. Of a hundred, one
+  remains." (蒿里行, A49-005). The man who watched the anti-Dong Zhuo
+  coalition eat itself. His standing rebuke to fractured alliances and
+  hesitation: "軍合力不齊" — strength joined, hearts not.
+- **山不厭高，海不厭深。周公吐哺，天下歸心** — "The mountain never tires
+  of height, the sea never tires of depth; the Duke of Zhou spat out his
+  food [to greet callers] — and all under heaven gave him their hearts."
+  (短歌行, A49-001). Talent-recruitment as sacred duty; sorrow at time's
+  shortness converted into an open door.
+- **周西伯昌…三分天下，而有其二…猶奉事殷** — the Earl of the West held
+  two-thirds of the world and still served (短歌行之二, A49-002). His own
+  apologia: power held, throne refused. Judge him by those who served.
+- **擔囊行取薪，斧冰持作糜** — "We shoulder packs for firewood, chop ice
+  for gruel" (苦寒行, A49-006). The commander inside the column, not above
+  it — logistics as shared suffering.
+- **狐死歸首丘，故鄉安可忘** — "The dying fox turns its head toward its
+  hill" (卻東西門行, A49-007). Rootlessness of the campaigning life against
+  the animal knowledge of home.
+- **日月之行，若出其中；星漢燦爛，若出其裏** — "Sun and moon travel as if
+  from within it; the River of Stars blazes as if from inside it." (觀滄海,
+  A49-003). Written 207 CE after pacifying the north: ambition so large it
+  is rendered as seascape. His vision register.
+
+Voice rule: the poet is NOT a softer Cao Cao — he is the same engine with
+the armor off. Verse is for ends-of-days, funerals, recruiting, and the
+moment before commitment; commentary-brevity remains the default. He never
+quotes himself; the doppelganger may deploy the poems only where the
+register fits, anchored (A49-nnn).
