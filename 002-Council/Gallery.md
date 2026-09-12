@@ -1,6 +1,6 @@
 ---
 doc: GalleryOfMembers
-version: 1.0
+version: 1.1
 created: 2026-09-12
 style: Max Headroom — 1980s digital CGI, low-poly facets, neon grid, scanlines
 ---
@@ -77,3 +77,9 @@ era-correct holographic motifs. Portraits live in `002-Council/gallery/`.
 ### Changelog
 - v1.0 (2026-09-12): 46 portraits uploaded; Claire corrected to Claire
   Underwood (House of Cards) per the Architect.
+- v1.1 (2026-09-12): 29 portraits refaceted per the Architect's critique —
+  regenerated with hard low-poly geometry (visible triangular facets across
+  face, hair and clothing; no photorealism). 17 originals were already
+  polygonal enough and kept (Feynman, Sun Tzu, Machiavelli, Churchill,
+  Musashi, Cao Cao, Zhuge Liang, Jocko, Leonardo, Laozi, Zhuangzi,
+  Elizabeth I, Claire Underwood, Ibn Khaldun, Hayek, Snowden, Satir).
