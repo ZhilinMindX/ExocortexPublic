@@ -48,7 +48,7 @@ updated: 2026-09-12
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
   glosses ours, 7 chunks) -> CAO CAO (StyleSheet §6 The Poet; completes the doppelganger)
   law-anchored pages 0-48) -> POWER axis (Machiavelli / Cao Cao / 36 Strategies);
-  vault-only plaintext per owned-work protocol
+  vault-only plaintext per owned-work protocol; doppelganger 001-Meta/StyleSheet-Greene.md, inducted CouncilOfVoices v3.4
   PD, 19 chunks) — PRIMARY source for the WEP bands; reconciles CLAIM-009 -> INTEL & TRADECRAFT
 
 ### A30-A47 — FIELD MANUALS CLUSTER (declassified vault, user-supplied 2026-09-12; CLAIM-012)
