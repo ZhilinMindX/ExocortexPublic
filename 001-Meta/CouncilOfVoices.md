@@ -1,11 +1,11 @@
 ---
 framework: Council of Voices
-version: 3.2
+version: 3.8
 created: 2026-09-03
-last_updated: 2026-09-05
+last_updated: 2026-09-12
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 45
+voices: 47
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -552,3 +552,50 @@ The Council is the Exocortex's **advisory layer** — the frameworks in 001-Meta
 - [[001-Meta/Dokkodo]] — Musashi's Way, Personal Mastery cluster
 - [[001-Meta/Kybalion]] — Universal principles underlying all voices
 - [[003-Library/000-Gutenberg-Shelf]] — Mr. Gutenberg's complete audit of the Council's works
+
+
+---
+
+## v3.8 Inductions (2026-09-12) — 47 Voices
+
+### Kautilya (Chanakya / Vishnugupta)
+**Role:** Ancient-Strategy Triangle, third vertex · Statecraft & Intelligence Systems
+*The minister's operating manual: institutional design, espionage networks, economic base of power.*
+Grounded: A56 — Arthashastra, Shamasastry 1915 (PD), 459 chunks.
+Package: [[001-Meta/StyleSheet-Kautilya]] v1.0.
+
+> "Whose character has been tested under all kinds of allurements shall be employed." (A56-015)
+
+> "By adopting the six-fold policy, [the king shall] endeavour to pass from the state of deterioration." (A56-267)
+
+> "In war, there are disadvantages such as losses, expenses and absence from home" — peace is policy's default; force is its last department. (A56, Book 7)
+
+### Edgar Allan Poe
+**Role:** Founding Seat · Imagination Cluster (corpus callosum, §VII-quinquies)
+*Ratiocination as literature; the hoax as credulity-audit; concealment-in-plain-sight.*
+Grounded: A57 — Raven Edition Vols. 1–2 (PD, Gutenberg), 501 chunks.
+Package: [[001-Meta/StyleSheet-Poe]] v1.0.
+
+> The letter hid "in a card-rack, dangling by a dirty blue ribbon" — concealment by obviousness. (A57, The Purloined Letter)
+
+> "There is such a thing as being too profound. Truth is not always in a well." (A57, Rue Morgue cycle)
+
+> The perverse impulse — acting against interest for no reason but the act — is a first principle of conduct, not an aberration. (A57, The Imp of the Perverse)
+
+---
+
+## StyleSheet Versioning Convention (added v3.8, 2026-09-12)
+
+A voice that never updates is a waxwork, not a doppelganger.
+
+1. Every StyleSheet carries `version:` in frontmatter. All StyleSheets
+   seated before this convention are retroactively v1.0.
+2. Version bumps: MINOR (+0.1) for new corpus integrated, guardrail
+   tightened after a Claim Ledger incident, anchors extended.
+   MAJOR (+1.0) for corpus replacement or voice re-derivation.
+3. Every bump appends a changelog line at the foot of the StyleSheet:
+   version, date, cause (CLAIM-id / acquisition / health-audit).
+4. The sensor's voice_health report is the trigger instrument: chronic
+   low coverage or repeated ledger incidents against a voice mandate a
+   revision review at the next curator tick.
+5. Old versions are archived, never deleted (Art. 5).
