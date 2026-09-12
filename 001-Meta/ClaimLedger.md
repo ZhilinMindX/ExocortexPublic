@@ -259,4 +259,16 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-018 — A51/A52 Mitnick provenance
+- CLAIM: A51 (The Art of Deception, Wiley 2002) and A52 (The Art of
+  Intrusion, Wiley 2005) are Architect-owned copies, ingested 2026-09-12
+  (334 + 312 chunks). Copyrighted owned works: plaintext local + vault
+  only. The FBI Vault file on Mitnick (US Gov work, PD) is the designated
+  primary-source counterweight for the legend-vs-record reconciliation;
+  vault.fbi.gov blocked from sandbox (fetch service and direct), added to
+  the manual-fetch list.
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
