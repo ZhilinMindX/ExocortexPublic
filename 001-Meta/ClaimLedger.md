@@ -213,10 +213,20 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   layer, NOT the orthodox transmission. No single published manual may be
   treated as Pak Mei scripture; the art's authoritative layer remains
   oral/closed-door by the lineage's own account.
+- AMENDMENT 2 (2026-09-12, ACH continued): author identity resolved —
+  Jiang Chaowei is a VIETNAM-BRANCH inheritor (student of Tsang Wai Bok,
+  the Saigon line founder, per B10) and a medical doctor; the book is the
+  Vietnam branch's 30-year compilation (博學出版社, ISBN 978-988-14034-6-9;
+  also a Vietnamese two-volume edition 上/下). The HK repudiation is
+  therefore a BRANCH DISPUTE (Cheung-family HK line vs. Tsang Wai Bok
+  Vietnam line), not evidence of spurious content. RECLASSIFICATION: the
+  book is the Vietnam branch's manual — contested by HK, legitimate as
+  Vietnam-lineage doctrine. Purchase channel identified: books.com.tw
+  ebook E050039608 (lawful owned-work path).
 - CONFIDENCE: Almost certain (93% band) on the myth/art distinction;
-  technical principles Probable (75% band); book-specific technical
-  content downgraded to Chances about even (50% band) given the lineage
-  repudiation.
+  technical principles Probable (75% band); the 白眉拳譜 Probable (75%
+  band) AS VIETNAM-BRANCH doctrine, Chances about even (50% band) as a
+  description of the HK/Cheung-family line.
 - STATUS: ACTIVE.
 
 
