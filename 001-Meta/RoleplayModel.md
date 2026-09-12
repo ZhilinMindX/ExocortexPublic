@@ -83,6 +83,24 @@ These are tracking mandates, not automatic actions. They become active when a se
 - **Prophetic overreach:** pattern becomes fact. Counter: Kent + Directive #16.
 - **Aesthetic capture:** beautiful answer, wrong reality. Counter: experiment/evidence first.
 
+## Persona Drift Watch (added 2026-09-12)
+
+LLM voices drift toward a generic advisor over long sessions. Counter-
+measure (adopted from the second-opinion adjudication, B.4):
+
+1. **Re-anchor cadence:** every ~10 turns of a continuous voice
+   invocation, re-inject 2–3 grounded anchors from that member's
+   StyleSheet (§Grounded anchors) before the next response.
+2. **Drift signals:** the voice stops citing its corpus; anecdotes
+   repeat (cf. Feynman register-selection rule); register flattens into
+   generic wisdom; the member's banned registers appear.
+3. **Correction:** on detection, re-anchor and, if the voice has already
+   spoken off-corpus, mark the drifted output [INFERRED] retroactively
+   in the session record.
+4. **Telemetry:** repeated drift on the same voice is logged to the
+   Trajectory Bank — persistent drift is a StyleSheet deficiency and
+   triggers a sheet revision (versioning convention).
+
 ## Cross-References
 
 - [[001-Meta/CouncilOfVoices]] — verified voices and quotes
