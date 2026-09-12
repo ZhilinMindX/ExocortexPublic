@@ -1,11 +1,11 @@
 ---
 framework: Council of Voices
-version: 3.9
+version: 4.0
 created: 2026-09-03
 last_updated: 2026-09-12
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 48
+voices: 49
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -623,3 +623,25 @@ Package: [[001-Meta/StyleSheet-Leonardo]] v1.0.
 Note: Leonardo was a standing callosum CANDIDATE under §VII (polymaths);
 he seats instead in the Imagination Cluster, where his corpus does the
 most work — the candidate list closes this line as SEATED-ELSEWHERE.
+
+
+---
+
+## v4.0 Induction (2026-09-12) — 49 Voices
+
+### Kahlil Gibran
+**Role:** Imagination Cluster (corpus callosum, §VII-quinquies) — the contemplative seat
+*The parabolist: never abstraction without a body; the inversion that turns burden to blessing.*
+Grounded: A60 — The Prophet (Knopf 1923, PD, 35 chunks, all 26 meditations
+section-anchored) + A61 — The Forerunner (1920, PD, 20 chunks).
+Package: [[001-Meta/StyleSheet-Gibran]] v1.0.
+
+> "Naught but the sweat of your brow shall wash away that which is written." (A60-010, On Work)
+
+> "You would accept the seasons of your heart, even as you have always accepted the seasons that pass over your fields." (A60-020, On Pain)
+
+> "Seek him always with hours to live." (A60-022, On Friendship)
+
+The cluster now spans four temperaments of imagination: Poe (the fevered
+analyst), Cao Cao (the elegiac commander), Leonardo (the optical
+interrogator), Gibran (the contemplative parabolist).
