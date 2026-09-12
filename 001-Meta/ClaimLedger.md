@@ -330,3 +330,13 @@ track record. Kent gave us the vocabulary; scoring gives us the discipline.
     ISSUED: 2026-09-12 | REVIEW: 2026-12-11
     ISSUING-PANEL: Exocortex self-assessment, Council-architecture-audit session
     RESOLUTION: pending
+
+
+    CLAIM-020 | Turchin corpus (A66-A69) is Architect-owned; plaintext vault-only
+    SOURCE: Architect declaration 2026-09-12 ("part of my private, particular collection")
+    CONFIDENCE: Almost certain (93% ± 6%)
+    SUPPORT: four PDFs supplied from personal collection; owned-work protocol applied
+    CONTRADICTED_BY: none
+    STATUS: CLOSED (protocol executed: local library + vault owned/ + public metadata only)
+    LAST_REVIEWED: 2026-09-12
+    AUTO_CHECK_ON: public_repo.contains('turchin').plaintext_chunks
