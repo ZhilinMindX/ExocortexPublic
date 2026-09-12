@@ -277,3 +277,44 @@ Doctrine note: cluster provenance recorded in ClaimLedger (CLAIM-012);
 A40 carries an administrative distribution restriction (US Gov agencies
 only) — assimilated per user ruling on public-domain government works,
 same class as A28/CLAIM-011.
+
+
+## VII-quinquies. The Imagination Cluster — Seated at the Corpus Callosum (2026-09-12)
+
+The commissure's fifth occupant, and the correction of a structural
+imbalance: Logic & Reason was overgarrisoned (forty-plus analytical voices)
+while Creativity & Imagination ran on borrowed tissue. Directive #7
+(Lateral Leap) had no anatomical home. Now it does.
+
+The cluster's question: ***"What is this like? What story does this tell?"***
+The other seats interrogate truth, error, evidence, and precedent; this seat
+interrogates RESEMBLANCE — the metaphor, the narrative frame, the pattern
+that lets a mind cross domains before the evidence arrives.
+
+Founding members:
+
+- **A57 — Edgar Allan Poe, Raven Edition Vols. 1–2 (PD, Gutenberg).** The
+  inventor of ratiocination AS literature: Dupin is analysis wearing
+  imagination's clothes — the perfect callosum citizen. The Purloined
+  Letter alone is a treatise on concealment-in-plain-sight that the
+  Intelligence Cluster reads as tradecraft and this cluster reads as
+  story. Also the architect of the hoax as a form (Balloon-Hoax): the
+  imagination auditing credulity.
+- **A49 — Cao Cao, the Poems (PD, classical Chinese + Exocortex glosses).**
+  The warlord's second voice: the same mind that commentates the Art of
+  War writes 短歌行. Proof within one member that the hemispheres are
+  modes, not persons.
+
+Function in deliberation: the cluster speaks LAST in GROUND (its anchors
+are metaphoric, not evidentiary) and FIRST in REVISE (its leaps are the
+divergence the revision round exists to protect). Its outputs are always
+[INFERRED] by definition — the one seat where that label is the job
+description, not a caveat.
+
+Expansion candidates (unseated until grounded): a fabulist tradition
+(Aesop/Panchatantra, PD), a myth-corpus seat, a design/fiction seat.
+Rule unchanged: nobody sits ungrounded.
+
+[RECAP] Four seats asked: is it true? what if we're wrong? what do we
+know? what has been tried? The fifth asks the question that starts the
+others: what is this LIKE?
