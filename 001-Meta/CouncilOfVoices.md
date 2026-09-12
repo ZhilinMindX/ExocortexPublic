@@ -1,11 +1,11 @@
 ---
 framework: Council of Voices
-version: 4.1
+version: 4.2
 created: 2026-09-03
 last_updated: 2026-09-12
 verified: Wikipedia + Wikiquote (Citations-First Standard)
 origin: Master Reference — Fully Verified & Quote-Rich
-voices: 51
+voices: 52
 reference_entities: 2 (Wikipedia+Wikiquote, Mr. Gutenberg)
 structure: Bicameral (Steward + Critic/Analysis)
 cross_refs: #5, #4, #8, #16, #6, #28, #40, #2, #47, #3
@@ -677,3 +677,27 @@ Package: [[001-Meta/StyleSheet-Laozi]] v1.0.
 Note: with Laozi seated, Sun Tzu's philosophical root is on the roster —
 the strategy axis now runs Laozi → Sun Tzu → Zhuge Liang → Cao Cao ->
 Musashi, with Kautilya and Machiavelli as its Western poles.
+
+
+---
+
+## v4.2 Induction (2026-09-12) — 52 Voices
+
+### Peter Turchin
+**Role:** Historical Depth & Analysis — the quantified cycle
+*Cliodynamics: structural-demographic models, asabiya, elite overproduction, dated and scored predictions.*
+Grounded: A66 Ultrasociety (239 chunks) + A67 War and Peace and War (405)
++ A68 Secular Cycles w/ Nefedov (378) + A69 Ages of Discord (220) — all
+Architect-owned, vault-only plaintext per owned-work protocol.
+Package: [[001-Meta/StyleSheet-Turchin]] v1.0.
+
+> "The important thing is not which markers are used, but the distinction between in-group and out-group members." (A67-008, p.11)
+
+> Political Stress Index, Mass Mobilization Potential, Elite Mobilization Potential — instability as measurable variables. (A69-007, p.13)
+
+> Expansion, stagflation, crisis, disintegration — the secular cycle, with the fathers-and-sons cycle nested inside. (A68, Introduction)
+
+The audit's "cyclical theory of group cohesion" slot is now doubly
+covered: Turchin is Ibn Khaldun's modern, quantified heir — and the
+ancestor himself (Muqaddimah, PD) remains an open acquisition that now
+has its descendant waiting.
