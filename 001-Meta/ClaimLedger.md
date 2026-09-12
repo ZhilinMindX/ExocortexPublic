@@ -268,8 +268,13 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
   primary-source counterweight for the legend-vs-record reconciliation;
   vault.fbi.gov blocked from sandbox (fetch service and direct), added to
   the manual-fetch list.
+- UPDATE 2026-09-12: Architect supplied the FBI Vault file (Part 01, 194
+  pp., scanned images, no text layer). Designated A55 pending OCR; OCR
+  running to persistent storage (library-rag/pending/mitnick-fbi/), intake
+  on completion. When ingested it serves as the primary-source
+  counterweight for legend-vs-record reconciliation.
 - CONFIDENCE: Almost certain (93% band).
-- STATUS: ACTIVE.
+- STATUS: ACTIVE (A55 OCR pending).
 
 
 ## CLAIM-019 — A53/A54 Snowden provenance
