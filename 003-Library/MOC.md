@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 3.0
+version: 3.1
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (59)
+### A — Direct Council Works (65)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -65,6 +65,11 @@ updated: 2026-09-12
   w/ Nefedov (2009) | A69 Ages of Discord (2016) — Architect-owned, 239+405+378+220 chunks,
   page-anchored; vault-only plaintext (CLAIM-020) -> TURCHIN (StyleSheet-Turchin;
   HISTORICAL DEPTH & ANALYSIS; CouncilOfVoices v4.2; cliodynamics axis)
+- A70 Surely You're Joking (1985) | A71 QED (1985) | A72 Lectures on Gravitation |
+  A73 Exercises for the Feynman Lectures | A74 Lições de Física 4 vols. (PT-BR) |
+  A75 Os Melhores Textos (PT-BR) — Architect-owned, 351+185+258+293+2535+218 chunks;
+  vault-only plaintext (CLAIM-021) -> FEYNMAN register expansion (StyleSheet-Feynman
+  v2.0: Raconteur / Teacher / QED / Gravitation / Integrity; PT corpus first-class)
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
