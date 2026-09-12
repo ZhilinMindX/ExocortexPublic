@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 1.4
+version: 1.5
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (29)
+### A — Direct Council Works (46)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -46,6 +46,19 @@ updated: 2026-09-12
 - A29 Sherman Kent, Words of Estimative Probability (CIA Studies in Intelligence, Fall 1964,
   PD, 19 chunks) — PRIMARY source for the WEP bands; reconciles CLAIM-009 -> INTEL & TRADECRAFT
 
+### A30-A47 — FIELD MANUALS CLUSTER (declassified vault, user-supplied 2026-09-12; CLAIM-012)
+Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "body / muscle memory" voice.
+- COMMAND: A33 Army Leadership FM 6-22 (265) | A34 Soldier's Guide FM 7-21.13 (429)
+  | A35 NCO Guide FM 7-22.7 (168) | A46 Commander's Tactical Handbook MCRP 3-11.1A (115)
+- COLLECT & DENY: A30 OSS Operational Groups FM 1944 (19) | A31 Intelligence FM 2-0 (187)
+  | A32 HUMINT Collector Ops FM 2-22.3 (385) | A40 Special Recon FM 31-20-5 (153, restricted-distribution note)
+  | A41 Intelligence Officer's Handbook FM 34-8-2 (112) | A42 Counterintelligence FM 34-60 (178)
+- SURVIVE & FIGHT: A36 Ranger Unit Ops FM 7-85 (162) | A37 First Aid FM 21-11 (146)
+  | A38 Survival FM 21-76 (243) | A39 Survival/Evasion/Recovery FM 21-76-1 (41)
+  | A43 Counterguerrilla Ops FM 90-8 (192) | A44 Guide to Staying Healthy GTA 08-05-062 (10)
+  | A45 The Guerrilla and How to Fight Him FMFRP 12-25 (267)
+  | A47 Special Forces Medical Handbook ST 31-91B (scanned; OCR intake pending, count TBD)
+
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
 - B2/B3 Verstappen 36 Strategies (duplicate editions), B4 modern interp.,
@@ -78,4 +91,4 @@ updated: 2026-09-12
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 57 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,828 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 74 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 16,900 chunks, 5 groups, every book mapped to a member and a project.
