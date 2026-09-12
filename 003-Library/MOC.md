@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 1.9
+version: 2.0
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -47,6 +47,10 @@ updated: 2026-09-12
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
+- A51 Mitnick & Simon, The Art of Deception (Wiley 2002, Architect-owned, 334 chunks)
+  -> MITNICK | A52 Mitnick & Simon, The Art of Intrusion (Wiley 2005, Architect-owned,
+  312 chunks) -> MITNICK (StyleSheet-Mitnick; CouncilOfVoices v3.6; vault-only plaintext;
+  FBI Vault file pending — manual-fetch list)
   -> ABAGNALE (StyleSheet-Abagnale; CouncilOfVoices v3.5, Field Operatives orbit;
   vault-only plaintext per owned-work protocol)
   glosses ours, 7 chunks) -> CAO CAO (StyleSheet §6 The Poet; completes the doppelganger)
@@ -102,4 +106,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 78 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 17,785 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 80 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 18,431 chunks, 5 groups, every book mapped to a member and a project.
