@@ -271,4 +271,16 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 - CONFIDENCE: Almost certain (93% band).
 - STATUS: ACTIVE.
 
+
+## CLAIM-019 — A53/A54 Snowden provenance
+- CLAIM: A53 (Permanent Record, Metropolitan 2019) and A54 (Der NSA-Komplex,
+  Rosenbach & Stark, Goldmann 2014, German) are Architect-owned copies,
+  ingested 2026-09-12 (294 + 281 chunks). Copyrighted owned works: plaintext
+  local + vault only. A53 is the primary voice; A54 the external-record
+  counterweight (ACH discipline: memoir vs. press account; divergences to be
+  flagged, never smoothed). Eterna Vigilância (PT, Planeta) verified
+  duplicate of A53 — not ingested.
+- CONFIDENCE: Almost certain (93% band).
+- STATUS: ACTIVE.
+
 [RECAP] Every load-bearing claim: sourced, tiered, dated, falsifiable.
