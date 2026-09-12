@@ -244,3 +244,21 @@ Begin.
   for animated, talking Council members in an app implementing the full
   Exocortex as a Council of Mentors / personal coach. Vision only, no
   schedule. When ordered, the Coding Cluster opens Phase 0.
+
+
+## Amendment v1.13 (2026-09-12)
+
+- **PD gap-closure wave (A76–A90, +3,729 chunks):** Churchill completed to
+  the PD horizon — A76 Savrola, A77 Ian Hamilton's March, A78 Lord Randolph
+  Churchill, A79 My African Journey, A80 The World Crisis Vol. 1, A81 My
+  Early Life (PG Canada; US PD since 2026). Poe's Raven Edition COMPLETE —
+  A82–A84 vols. 3–5 (Pym, Ligeia, all poems incl. The Raven, The Poetic
+  Principle) + A85 Eureka. Gibran deepened — A86 The Madman, A87 Jesus,
+  the Son of Man. Machiavelli transformed — A88 Discourses on Livy
+  (Thomson), A89 Arte of Warre (Whitehorne 1560) + Prince (Dacres 1640),
+  A90 History of Florence. Remaining PD-horizon gaps (not digitized on
+  reachable sources): World Crisis vols. 2–5, The People's Rights, Sand
+  and Foam, Mandragola (EN), Cao Cao poem expansion.
+- Harvard Classics sourcing note: vols. are effectively available via
+  Gutenberg per-work; HathiTrust unreachable from sandbox.
+- Library: 125 volumes, 31,357 chunks.
