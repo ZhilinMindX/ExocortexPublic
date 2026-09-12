@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 1.5
+version: 1.6
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -59,11 +59,14 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
   | A45 The Guerrilla and How to Fight Him FMFRP 12-25 (267)
   | A47 Special Forces Medical Handbook ST 31-91B (scanned; OCR intake pending, count TBD)
 
-### B — Framework Texts (9)
+### B — Framework Texts (10)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
 - B2/B3 Verstappen 36 Strategies (duplicate editions), B4 modern interp.,
   B5 East/West comparative, B6 raw, B7 diary study -> Sun Tzu / Zhuge Liang strategy axis
 - B8 Bushido, B9 Book of Samurai -> Musashi axis
+- B10 Pak Mei (Bak Mei) Public Dossier (Taiping Institute + Wikipedia CC BY-SA, 5 chunks,
+  2026-09-12) -> SIFU BAK MEI (doppelganger 001-Meta/StyleSheet-BakMei.md; inducted
+  CouncilOfVoices v3.3 beside Musashi; 《白眉拳譜》 acquisition pending)
 
 ### C — Tradecraft (6)
 - C1 SOE, C2 KGB Alpha, C3 KGB/CIA Ops -> Intelligence section (Mitnick/Snowden/Kent axis)
@@ -91,4 +94,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 74 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 16,900 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 75 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 16,905 chunks, 5 groups, every book mapped to a member and a project.
