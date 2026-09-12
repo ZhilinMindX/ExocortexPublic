@@ -276,3 +276,20 @@ Begin.
   (5) hybrid BM25+embedding retrieval. Recorded as already-built:
   sensor-routed panels, Architect ratification gates. Rejected: generic
   5-voice MVC (identity loss), 52-voice fine-tuning.
+
+
+## Amendment v1.15 (2026-09-12)
+
+- **All five adopted second-opinion items IMPLEMENTED** (Architect order:
+  "absorbed, adopted and assimilated, at once"):
+  1. CrystallizationCycle v1.0 (001-Meta/CrystallizationCycle.md) — the
+     Still: scheduled Trajectory Bank -> doctrine rite with
+     GENERALIZE/CONTRADICT/REFINE/RETIRE ops + Architect ratification gate.
+  2. Constitutional Validators v1.0 (003-Library/validators.py) — LAW
+     enforced in code: citation presence, Kent-band format, tag rules.
+     Coding Cluster v1.1 (§VIII Validator Module).
+  3. EmergentDoctrineLedger v1.1 — DERIVED_FROM / CONFLICT_CHECK /
+     CRYSTALLIZED fields mandatory for new F-entries.
+  4. RoleplayModel — Persona Drift Watch (re-anchor cadence, drift
+     signals, retroactive [INFERRED], telemetry to Trajectory Bank).
+  5. RetrievalSensor v1.2 — hybrid BM25 + embeddings (MiniLM, RRF).
