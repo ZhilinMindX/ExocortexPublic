@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 1.3
+version: 1.4
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (28)
+### A — Direct Council Works (29)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -27,8 +27,8 @@ updated: 2026-09-12
 - A21 Cargo Cult Science (1974, Caltech-hosted) -> Feynman (CORPUS CALLOSUM SEAT)
 - A22 Psychology of Intelligence Analysis (Heuer, CIA 1999, PD/17USC105, 189 chunks) -> RED TEAM CLUSTER
 - A23 A Tradecraft Primer: Structured Analytic Techniques (CIA 2009, PD, 38 chunks) -> RED TEAM CLUSTER
-- A24 The Red Team Handbook v9.0 (UFMCS/TRADOC G-2 2019, PD, 12 chunks + 48-technique catalog;
-  partial-text intake, army.mil DNS-blocked, reconcile pending) -> RED TEAM CLUSTER
+- A24 The Red Team Handbook v9.0 (UFMCS/TRADOC G-2, PD — approved for public release,
+  127 chunks, FULL intake 2026-09-12 via user upload, superseding 12-chunk partial) -> RED TEAM CLUSTER
   (A22-A24 seated at the CORPUS CALLOSUM as the Red Team Cluster, 2026-09-08;
    grafted into 001-Meta/RedTeamRules.md v2)
 - A25 Simple Sabotage Field Manual (OSS 1944, Gutenberg #26184, PD, 28 chunks, section-anchored pages) -> INTEL & TRADECRAFT
@@ -43,6 +43,8 @@ updated: 2026-09-12
   What-If, Red Hat, CARVER, link/pattern analysis -> INTEL & TRADECRAFT + RED TEAM bridge
   (assimilated 2026-09-12 via publicintelligence.net mirror; doctrinal bridge between
    the Red Team Cluster and the Intelligence & Tradecraft Cluster)
+- A29 Sherman Kent, Words of Estimative Probability (CIA Studies in Intelligence, Fall 1964,
+  PD, 19 chunks) — PRIMARY source for the WEP bands; reconciles CLAIM-009 -> INTEL & TRADECRAFT
 
 ### B — Framework Texts (9)
 - B1 Kybalion -> [[001-Meta]] frameworks (audit pending: Gender principle)
@@ -76,4 +78,4 @@ updated: 2026-09-12
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 56 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,694 chunks, 5 groups, every book mapped to a member and a project.
+[RECAP] 57 volumes (27 A / 9 B / 6 C / 7 D / 6 E), 13,828 chunks, 5 groups, every book mapped to a member and a project.
