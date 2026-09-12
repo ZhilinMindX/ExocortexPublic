@@ -1,6 +1,6 @@
 ---
 doc: Library Map of Content
-version: 2.4
+version: 2.5
 created: 2026-09-07
 updated: 2026-09-12
 ---
@@ -11,7 +11,7 @@ updated: 2026-09-12
 
 ## Groups -> Council Members -> Projects
 
-### A — Direct Council Works (50)
+### A — Direct Council Works (52)
 - A1 Robbins -> Robbins | A2 REFRAMING, A3 Get the Life You Want -> Bandler & Grinder
 - A4/A5/A6/A7 Tracy -> Tracy | A8/A9 Hanson -> Hanson | A10 The Prince (Oxford) -> Machiavelli
 - A11 The Art of War (Giles, PD) -> Sun Tzu + Cao Cao (Ts'ao Kung commentary layer) | A12 Meditations (PD) -> Marcus Aurelius
@@ -51,6 +51,9 @@ updated: 2026-09-12
 - A58 Leonardo, Notebooks Complete (Richter 1888, Gutenberg #5000, PD, 433 chunks, entry-anchored)
   + A59 Treatise on Painting (Rigaud 1802, Gutenberg #46915, PD, 199 chunks, section-anchored)
   -> LEONARDO (StyleSheet-Leonardo; IMAGINATION CLUSTER core mind; CouncilOfVoices v3.9)
+- A60 Gibran, The Prophet (Knopf 1923, Gutenberg #58585, PD, 35 chunks, all 26 meditations
+  section-anchored) + A61 The Forerunner (1920, Gutenberg #54580, PD, 20 chunks)
+  -> GIBRAN (StyleSheet-Gibran; IMAGINATION CLUSTER contemplative seat; CouncilOfVoices v4.0)
 - A48 Robert Greene, The 48 Laws of Power (Penguin 2000, Architect-owned epub, 654 chunks,
 - A49 Cao Cao, Poems (7 jian'an yuefu, classical originals via zh.wikisource, PD by age,
 - A50 Frank W. Abagnale, The Art of the Steal (Broadway 2001, Architect-owned, 219 chunks)
@@ -124,4 +127,4 @@ Seated at the CORPUS CALLOSUM 2026-09-12 (BicameralMind VII-quater) — the "bod
 - Vault manifest: ExocortexVault/manifest.json (private)
 - Intake flags: D2 watermark | C5/D5/D6 image-only | C6 glyph-encoded | B2/B3 duplicates
 
-[RECAP] 87 volumes (31 A / 10 B / 6 C / 7 D / 6 E / 2 F), 20,700 chunks, 6 groups, every book mapped to a member and a project.
+[RECAP] 89 volumes (33 A / 10 B / 6 C / 7 D / 6 E / 2 F), 20,755 chunks, 6 groups, every book mapped to a member and a project.
