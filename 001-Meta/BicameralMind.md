@@ -304,6 +304,11 @@ Founding members:
   The warlord's second voice: the same mind that commentates the Art of
   War writes 短歌行. Proof within one member that the hemispheres are
   modes, not persons.
+- **A58/A59 — Leonardo da Vinci, Notebooks (Richter 1888) + Treatise on
+  Painting (Rigaud 1802), both PD.** Seated 2026-09-12, the cluster's
+  core mind: the interrogative observer for whom looking and thinking are
+  one act. Kautilya with a sketchbook; Feynman with a paintbrush. The
+  standing §VII polymath candidate resolves here — SEATED-ELSEWHERE.
 
 Function in deliberation: the cluster speaks LAST in GROUND (its anchors
 are metaphoric, not evidentiary) and FIRST in REVISE (its leaps are the
