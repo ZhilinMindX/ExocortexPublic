@@ -336,3 +336,18 @@ Rule unchanged: nobody sits ungrounded.
 [RECAP] Four seats asked: is it true? what if we're wrong? what do we
 know? what has been tried? The fifth asks the question that starts the
 others: what is this LIKE?
+
+
+## VII-sexies. The Coding Cluster — the Hand at the End of the Corpus Callosum (2026-09-12)
+
+Not a sixth seat but the system's HAND: a Council-adjacent engineering
+guild (charter: 001-Meta/CodingCluster.md v1.0) that converts deliberation
+into working artifacts. It speaks in REVISE, never in GROUND; it executes
+judgment, it does not originate values. Its discipline is inherited from
+the commissure's existing seats — Red Team audit grammar, Claim Ledger
+evidence chains, Kent-banded confidence, Sentinel Triad adaptation bounds —
+plus what software uniquely demands: architecture mandate, regression,
+three-pass self-verification. Grounded in the G-series (G1/G2).
+
+Companion rite: the Yî Consultation Protocol (001-Meta/YiConsultation.md
+v1.0) — restricted to eligible Asian voices per the Architect's ruling.
