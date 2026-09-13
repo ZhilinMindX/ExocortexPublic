@@ -71,6 +71,21 @@ This ledger is append-only. New audits append new strata; nothing is erased.
     signals) sit in the doctrine shelf beside the code — the ledger of what
     actually happened governs what gets built next.
 
+## Stratum IV — Meta Laws (self-audit of the reference hull, 2026-09-13)
+
+19. **Audit the Standard-bearer first.** The v3.0 reference hull failed the
+    v1.1 codicil on three counts (missing HYPOTHESIS, free-text STATE, no
+    SESSION CONTEXT) — the very laws written the day after it. Every new
+    codicil's first audit target is the reference hull itself, or doctrine
+    teaches by memo again.
+20. **Log the failure in the fossil, not the chat.** The "event handling
+    function not found" compile failure lived only in conversation until
+    S4 was written. A lesson that isn't in the step log doesn't exist for
+    the next hull.
+21. **Comment surgery deserves its own version.** v3.1 changed zero
+    functional lines — yet compliance, fossils, and context all moved.
+    Telemetry is payload, not decoration.
+
 ---
 
 ## Open Debt Register (tracked, not yet authorized)

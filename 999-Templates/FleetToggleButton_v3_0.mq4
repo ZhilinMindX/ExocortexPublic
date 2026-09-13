@@ -14,7 +14,7 @@
 //|  v3.0 — STANDARD RULINGS IMPLEMENTED:                            |
 //|   R1  Memory grammar: FLEETBTN_{FAMILY}_{SYMBOL} — symbol        |
 //|       VERBATIM (zero broker knowledge: BTC, Forex, OTC, any      |
-//|       feed works unparsed), NO timeframe segment — "off stays    |
+//|       feed works unparsed, NO timeframe segment — "off stays    |
 //|       off across TF changes." Keep It Simple.                    |
 //|   R2  Persistence by law: default ON at first attach, written    |
 //|       back immediately; state written AT CLICK-TIME, never in    |
@@ -36,12 +36,28 @@
 //|       raises the callback and returns. The .set is senior.       |
 //|   R8  Escape hatch: InpSlotSuffix for deliberate per-desk        |
 //|       independence when the operator WANTS split memory.         |
+//|                                                                  |
+//|  v3.1 — TELEMETRY CODICIL COMPLIANCE (FLEET_STANDARD v1.1):      |
+//|   First hull audited against LESSONS_LEARNED. Comment surgery    |
+//|   only: T1 HYPOTHESIS fields, T2 STATE enum, T4 SESSION CONTEXT, |
+//|   S4 fossil of the compile failure. Zero functional changes;     |
+//|   FTB_VERSION stays 3.0 so no desk's memory is reset.            |
 //+------------------------------------------------------------------+
 #property strict
 #property copyright "TeknoLite Fleet — Fleet Button Standard v1.0"
-#property version   "3.00"
+#property version   "3.10"
 #property indicator_chart_window
 #property indicator_buffers 0
+
+// SESSION CONTEXT
+// Working Hypothesis: one GV-backed memory per family+symbol desk,
+//   mirrored by any number of per-chart button instances.
+// Tested Components: compile (b1470 strict), attach, toggle, persistence
+//   across restart, TF-change memory, ghost sweep, resync, fossil tooltip.
+// Untested Components: 200-instance fleet stress; OTC-symbol GV collisions;
+//   InpSlotSuffix multi-desk interplay on one symbol.
+// Next Planned Modification: Wave-1 hull grafts per conformance matrix.
+// Active Directives: FLEET_STANDARD R1-R8, T1-T5; LESSONS #8 (log failures).
 
 // ==================================================================
 // 000 - SELF-TEST HARNESS NOTE                                     |
@@ -56,7 +72,7 @@
 // ==================================================================
 // 001 - INPUTS (Fleet Standard — append at END of indicator inputs)
 // ==================================================================
-// [L2] SCOPE:Inputs;STATE:FROZEN-ORDER;DEPS:NONE;DIRS:#1;ANCHORS:Std=v1.0
+// [L2] SCOPE:Inputs;STATE:FROZEN;HYPOTHESIS:Append-only input order preserves legacy .set seating;DEPS:NONE;DIRS:#1;ANCHORS:Std=v1.0
 //
 // POSITIONAL CONTRACT: new inputs append at END only. Existing .set
 // files across the fleet must never re-seat.
@@ -82,7 +98,7 @@ input bool     InpButtonDebug      = false;
 // ==================================================================
 // 002 - GLOBALS (Fleet Standard — prefix all with g_FTB_)
 // ==================================================================
-// [L2] SCOPE:State;STATE:REBUILDABLE;DEPS:001;DIRS:#2;ANCHORS:Truth=GV
+// [L2] SCOPE:State;STATE:HARDENED;HYPOTHESIS:GV is the single source of truth, RAM mirrors it;DEPS:001;DIRS:#2;ANCHORS:Truth=GV
 
 string   g_FTB_family;             // Sanitized family registry name
 string   g_FTB_buttonName;         // FLEET_{FAMILY}_{cid}_BTN  (object identity)
@@ -457,9 +473,72 @@ bool FTB_OnChartEvent(const int id, const long &lparam, const double &dparam, co
 }
 
 // ==================================================================
+// 999 - DEPLOYMENT TEMPLATE
+// ==================================================================
+/*
+// ------------------------------------------------------------------
+// EXAMPLE INTEGRATION (publisher hull — sovereignty class)
+// ------------------------------------------------------------------
+
+input string InpFleetFamily = "DLH";   // registry name, REQUIRED
+
+int OnInit()
+{
+   // ... engine init ...
+   if(!FTB_OnInit()) return(INIT_PARAMETERS_INCORRECT);
+   return(INIT_SUCCEEDED);
+}
+
+void OnDeinit(const int reason)
+{
+   FTB_OnDeinit(reason);
+   // ... prefix sweep ...
+}
+
+void OnChartEvent(const int id, const long &lparam, const double &dparam, const string &sparam)
+{
+   if(FTB_OnChartEvent(id, lparam, dparam, sparam)) return;  // button first
+   // ... family extras (drag handles etc.) after ...
+}
+
+int OnCalculate(const int rates_total, const int prev_calculated, ...)
+{
+   // ... engine computes ALWAYS ...
+
+   // R3 bar-gated resync — once per new bar, before drawing:
+   FTB_ResyncFromMemory(time[0]);
+
+   if(g_FTB_showData) { DrawZones(); UpdateHUD(); }   // ink gate
+
+   EmitBeacons();   // ALWAYS — the fleet never sleeps
+   return(rates_total);
+}
+
+void FTB_OnToggle(bool show)
+{
+   if(!show) DeleteAllInk();        // sparing the button
+   else      g_forceRecalc = true;  // R7: deferred rebuild
+}
+
+// ------------------------------------------------------------------
+// CONFORMANCE CHECKLIST (FLEETBTN-STD v1.0)
+// [ ]  1. InpFleetFamily set to a registry name
+// [ ]  2. Memory key FLEETBTN_{FAMILY}_{SYMBOL} — verbatim, no TF
+// [ ]  3. Default ON + first-attach write-back
+// [ ]  4. Write at click-time; OnDeinit writes nothing
+// [ ]  5. Ghost sweep by family root at init
+// [ ]  6. OBJPROP_STATE forced false at create and click
+// [ ]  7. Palette bg #373737/#222222, text aqua/red
+// [ ]  8. Tooltip fossil record (family | state | last toggle)
+// [ ]  9. Bar-gated resync wired in OnCalculate
+// [ ] 10. Sovereignty: rendering gated, beacons never sleep
+// ------------------------------------------------------------------
+*/
+
+// ==================================================================
 // 008 - SELF-TEST HARNESS (delete when grafting into a fleet hull) |
 // ==================================================================
-// [L2] SCOPE:Harness;STATE:DEMO;DEPS:001-007;DIRS:#3;ANCHORS:DemoInk=FLEET_DEMO
+// [L2] SCOPE:Harness;STATE:FIELD-TESTED;HYPOTHESIS:Minimal working example proves every Standard feature live;DEPS:001-007;DIRS:#3;ANCHORS:DemoInk=FLEET_DEMO
 // Minimal working example of the sovereignty callback and lifecycle
 // wiring. The demo ink is a single text label; OFF deletes it, ON
 // raises a recalc flag (R7 deferred rebuild).
@@ -548,77 +627,21 @@ void OnChartEvent(const int id, const long &lparam, const double &dparam, const 
    // family extras (drag handles etc.) would live here
 }
 
-// ==================================================================
-// 999 - DEPLOYMENT TEMPLATE
-// ==================================================================
-/*
-// ------------------------------------------------------------------
-// EXAMPLE INTEGRATION (publisher hull — sovereignty class)
-// ------------------------------------------------------------------
-
-input string InpFleetFamily = "DLH";   // registry name, REQUIRED
-
-int OnInit()
-{
-   // ... engine init ...
-   if(!FTB_OnInit()) return(INIT_PARAMETERS_INCORRECT);
-   return(INIT_SUCCEEDED);
-}
-
-void OnDeinit(const int reason)
-{
-   FTB_OnDeinit(reason);
-   // ... prefix sweep ...
-}
-
-void OnChartEvent(const int id, const long &lparam, const double &dparam, const string &sparam)
-{
-   if(FTB_OnChartEvent(id, lparam, dparam, sparam)) return;  // button first
-   // ... family extras (drag handles etc.) after ...
-}
-
-int OnCalculate(const int rates_total, const int prev_calculated, ...)
-{
-   // ... engine computes ALWAYS ...
-
-   // R3 bar-gated resync — once per new bar, before drawing:
-   FTB_ResyncFromMemory(time[0]);
-
-   if(g_FTB_showData) { DrawZones(); UpdateHUD(); }   // ink gate
-
-   EmitBeacons();   // ALWAYS — the fleet never sleeps
-   return(rates_total);
-}
-
-void FTB_OnToggle(bool show)
-{
-   if(!show) DeleteAllInk();        // sparing the button
-   else      g_forceRecalc = true;  // R7: deferred rebuild
-}
-
-// ------------------------------------------------------------------
-// CONFORMANCE CHECKLIST (FLEETBTN-STD v1.0)
-// [ ]  1. InpFleetFamily set to a registry name
-// [ ]  2. Memory key FLEETBTN_{FAMILY}_{SYMBOL} — verbatim, no TF
-// [ ]  3. Default ON + first-attach write-back
-// [ ]  4. Write at click-time; OnDeinit writes nothing
-// [ ]  5. Ghost sweep by family root at init
-// [ ]  6. OBJPROP_STATE forced false at create and click
-// [ ]  7. Palette bg #373737/#222222, text aqua/red
-// [ ]  8. Tooltip fossil record (family | state | last toggle)
-// [ ]  9. Bar-gated resync wired in OnCalculate
-// [ ] 10. Sovereignty: rendering gated, beacons never sleep
-// ------------------------------------------------------------------
-*/
-
 //| ### 998 - ROLLING STEP LOG (FIFO, last 3)
-// [S1] v2.1: canonical module from Divergence v2.30 lineage.
 // [S2] v2.2: forensic pass — 6 fixes (persist scope, redraw order,
 //      collision warn, version gate, border color, tooltip).
 // [S3] v3.0: FLEET BUTTON STANDARD v1.0 — Captain's rulings R1-R8:
 //      family+symbol memory (verbatim symbol, no TF), write-at-click,
 //      bar-gated resync, ghost sweep, palette law, fossil tooltip,
 //      deferred rebuild, slot escape hatch. "The Sovereign Gate,
-//      Remembered." + self-test harness (module 008) — the reference
-//      hull compiles and runs standalone.
+//      Remembered."
+// [S4] v3.1: TELEMETRY CODICIL v1.1 compliance. FAILURE FOSSIL: the
+//      library-style v3.0 shipped with zero event handlers — MetaEditor
+//      refused it: "event handling function not found" (lesson: a
+//      reference hull must compile standalone the moment it is opened;
+//      fixed by module 008 self-test harness). This pass: HYPOTHESIS on
+//      all L2 headers (T1), STATE migrated to the T2 enum, SESSION
+//      CONTEXT embedded in the skeleton (T4). Comment surgery only —
+//      FTB_VERSION unchanged, no desk memory reset. First hull carrying
+//      the [FLEET-TELEMETRY v1.1 COMPLIANT] badge.
 //+------------------------------------------------------------------+
