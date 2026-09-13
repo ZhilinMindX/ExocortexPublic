@@ -1,7 +1,7 @@
-# FLEET_STANDARD.md — TeknoLite Fleet Button Doctrine
+# FLEET_STANDARD.md — TeknoLite Fleet Doctrine
 
-**Version:** 1.0 — Ratified by the Captain, 2026-09-13
-**Badge:** `[FLEETBTN-STD v1.0 COMPLIANT]`
+**Version:** 1.1 — v1.0 ratified by the Captain, 2026-09-13; v1.1 Telemetry Codicil ratified same day ("All the Lessons, must be Learned")
+**Badge:** `[FLEETBTN-STD v1.0 COMPLIANT]` / `[FLEET-TELEMETRY v1.1 COMPLIANT]`
 **Reference hull:** `999-Templates/FleetToggleButton_v3_0.mq4` (ExocortexPublic)
 **Evidence base:** Fleet Button Autopsy (16 button-bearing hulls, Appendix A)
 
@@ -173,3 +173,61 @@ part reduces to its `FTB_OnToggle` payload.
 5. **One name, one grammar.** Cross-hull tooling dies at six spellings.
 6. **House style adoption 2/3, enforcement 0** — L2 blocks in 12 hulls,
    SESSION CONTEXT in none, step-logs in 10. Style unchecked drifts.
+
+---
+
+## Appendix B — v1.1 Telemetry Codicil (ratified 2026-09-13)
+
+*Evidence: fleet-wide parse of all [L2] / [TRACE] / [CANARY] / [ANOMALY] /
+[STEP] markers — 19 hulls, ~115k lines. Full ledger: LESSONS_LEARNED.md.*
+
+### B.1 The Codicil (T1–T5)
+
+- **T1 — Mandatory headers.** Every module carries a single-line `[L2]`
+  header. `SCOPE`, `STATE`, `HYPOTHESIS` are mandatory fields.
+- **T2 — Controlled STATE vocabulary.** One enum, no free text:
+  `DEFINED → WIRED → FIELD-TESTED → HARDENED → FROZEN` (+ `DEPRECATED`).
+  Version stamps live in the step log, not in STATE.
+- **T3 — Fossil floor.** Every hull keeps a `### 998` FIFO step log, last 3
+  entries minimum. Epoch names encouraged: a version number tells you *when*,
+  a name tells you *why*.
+- **T4 — Doctrine by template.** SESSION CONTEXT blocks ship inside the
+  module skeletons themselves. Doctrine that lives only in a memo does not
+  propagate — the fleet proved it (zero occurrences in 19 hulls).
+- **T5 — ANOMALY trigger discipline.** ANOMALY fires only on a defined,
+  measured deviation (buffer-write count vs expected, object-count drift,
+  suppression-ratio outliers). A tier without triggers is decoration.
+
+### B.2 Telemetry Census (evidence)
+
+| Adoption | Hulls |
+|---|---|
+| Deep (L2+STEP, 15+) | Vertex (L2:18/STEP:33), Czernobog (11/15, TRACE:36, CANARY:8), Chimaera (15/24), Admiral (STEP:32), CSR (13/15) |
+| Partial | BreakOut (L2:18), SMC (7 + CANARY), TrendBars, DLH, Basilisk, RVOL, Trendline |
+| Blind (zero telemetry) | CustomTF, Dadas, Divergence, HiLoFibo, GARCH, OTC Clock, Nautilus |
+
+Field usage: NEXT 167 · DIRS 82 · STATE 78 · DEPS 74 · ANCHORS 70 ·
+HYPOTHESIS 64 · LAST 8 · BLOCKER 7 (all `None`). Forward-looking fields
+thrive; memory fields are vestigial.
+
+### B.3 Telemetry Lessons (folded into LESSONS_LEARNED.md)
+
+1. **The STEP log is the fleet's most valuable fossil bed** — the Admiral's
+   named epochs ("The Orchestra", "The Council", "The Blackboard")
+   reconstruct fleet history without git.
+2. **Log the failure, not just the fix** — Vertex STEP 030→031 preserved a
+   real field bug (subwindow-only arrows), its diagnosis, and its cure.
+3. **STATE free-text is anarchy** — four semantic families in one field;
+   controlled vocabulary enforced by T2.
+4. **HYPOTHESIS is the hidden gem** — design rationale embedded at the
+   module level ("Fail-fast prevents runtime errors") is the cheapest
+   insurance against refactor amputation. Mandatory by T1.
+5. **SESSION CONTEXT: zero occurrences fleet-wide** — doctrine untemplated
+   is doctrine unpropagated. Fixed by T4.
+6. **ANOMALY nearly stillborn** — 2 occurrences in ~115k lines, both static.
+   Trigger discipline or retirement; T5 chooses triggers.
+7. **One L2, one line** — wrapped blocks break greppability; continuation
+   belongs to the prose layer. That is what the dual-layer split is for.
+8. **Telemetry adoption correlates with auditability** — the seven blind
+   hulls are exactly where audits required pure code reading with no
+   self-report. T1/T3 set the floor.
