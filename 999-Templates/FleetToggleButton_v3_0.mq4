@@ -40,6 +40,18 @@
 #property strict
 #property copyright "TeknoLite Fleet — Fleet Button Standard v1.0"
 #property version   "3.00"
+#property indicator_chart_window
+#property indicator_buffers 0
+
+// ==================================================================
+// 000 - SELF-TEST HARNESS NOTE                                     |
+// This reference hull is ALSO a runnable indicator: attached to a   |
+// chart it raises its own button at the configured seat and toggles |
+// a demo ink mark, exercising every Standard feature live —         |
+// persistence, resync, ghost sweep, palette, fossil tooltip.        |
+// Fleet hulls copy modules 001-007 and implement their own          |
+// FTB_OnToggle; the harness below is the minimal working example.   |
+// ==================================================================
 
 // ==================================================================
 // 001 - INPUTS (Fleet Standard — append at END of indicator inputs)
@@ -445,6 +457,98 @@ bool FTB_OnChartEvent(const int id, const long &lparam, const double &dparam, co
 }
 
 // ==================================================================
+// 008 - SELF-TEST HARNESS (delete when grafting into a fleet hull) |
+// ==================================================================
+// [L2] SCOPE:Harness;STATE:DEMO;DEPS:001-007;DIRS:#3;ANCHORS:DemoInk=FLEET_DEMO
+// Minimal working example of the sovereignty callback and lifecycle
+// wiring. The demo ink is a single text label; OFF deletes it, ON
+// raises a recalc flag (R7 deferred rebuild).
+
+string g_demoName = "FLEET_DEMO_INK";
+bool   g_demoRecalc = false;
+
+void FTB_OnToggle(bool show)   // sovereignty callback — implementation
+{
+   if(!show)
+   {
+      ObjectDelete(0, g_demoName);
+   }
+   else
+   {
+      g_demoRecalc = true;   // R7: the engine rebuilds on its next pass
+   }
+}
+
+void Demo_DrawInk()
+{
+   ObjectDelete(0, g_demoName);
+   if(!g_FTB_showData) return;
+   if(!ObjectCreate(0, g_demoName, OBJ_LABEL, 0, 0, 0)) return;
+   ObjectSetInteger(0, g_demoName, OBJPROP_CORNER,     InpButtonCorner);
+   ObjectSetInteger(0, g_demoName, OBJPROP_XDISTANCE,  InpButtonX);
+   ObjectSetInteger(0, g_demoName, OBJPROP_YDISTANCE,  InpButtonY + InpButtonHeight + 4);
+   ObjectSetInteger(0, g_demoName, OBJPROP_COLOR,      clrDimGray);
+   ObjectSetInteger(0, g_demoName, OBJPROP_FONTSIZE,   7);
+   ObjectSetString (0, g_demoName, OBJPROP_FONT,       "Arial");
+   ObjectSetString (0, g_demoName, OBJPROP_TEXT,
+                    StringFormat("FTB v3.0 self-test | %s | clicks:%d",
+                                 g_FTB_family, g_FTB_clickCount));
+   ObjectSetInteger(0, g_demoName, OBJPROP_SELECTABLE, false);
+   ObjectSetInteger(0, g_demoName, OBJPROP_HIDDEN,     true);
+}
+
+int OnInit()
+{
+   if(StringLen(InpFleetFamily) == 0)
+   {
+      Print("[FTB v3.0] Self-test harness: set InpFleetFamily (e.g. DEMO) to arm the button.");
+      return(INIT_PARAMETERS_INCORRECT);
+   }
+   if(!FTB_OnInit()) return(INIT_PARAMETERS_INCORRECT);
+   g_demoRecalc = true;
+   return(INIT_SUCCEEDED);
+}
+
+void OnDeinit(const int reason)
+{
+   FTB_OnDeinit(reason);
+   ObjectDelete(0, g_demoName);
+   ChartRedraw();
+}
+
+int OnCalculate(const int rates_total,
+                const int prev_calculated,
+                const datetime &time[],
+                const double &open[],
+                const double &high[],
+                const double &low[],
+                const double &close[],
+                const long &tick_volume[],
+                const long &volume[],
+                const int &spread[])
+{
+   if(rates_total < 1) return(0);
+   ArraySetAsSeries(time, true);
+
+   // R3 bar-gated resync — once per new bar, before drawing:
+   FTB_ResyncFromMemory(time[0]);
+
+   if(g_demoRecalc)
+   {
+      g_demoRecalc = false;
+      Demo_DrawInk();
+      ChartRedraw();
+   }
+   return(rates_total);
+}
+
+void OnChartEvent(const int id, const long &lparam, const double &dparam, const string &sparam)
+{
+   if(FTB_OnChartEvent(id, lparam, dparam, sparam)) return;  // button first
+   // family extras (drag handles etc.) would live here
+}
+
+// ==================================================================
 // 999 - DEPLOYMENT TEMPLATE
 // ==================================================================
 /*
@@ -515,5 +619,6 @@ void FTB_OnToggle(bool show)
 //      family+symbol memory (verbatim symbol, no TF), write-at-click,
 //      bar-gated resync, ghost sweep, palette law, fossil tooltip,
 //      deferred rebuild, slot escape hatch. "The Sovereign Gate,
-//      Remembered."
+//      Remembered." + self-test harness (module 008) — the reference
+//      hull compiles and runs standalone.
 //+------------------------------------------------------------------+
