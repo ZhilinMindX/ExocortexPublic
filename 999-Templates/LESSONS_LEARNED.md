@@ -5,7 +5,8 @@ Lessons, must be Learned" — recursive self-improvement feed.
 **Sources:** Fleet Button Analysis (Appendix A, FLEET_STANDARD.md) ·
 Telemetry Archaeology (Appendix B, FLEET_STANDARD.md v1.1) · Field logs
 (BC_Journal ×7, FleetWisdom) · Trident Second Opinion differential
-(MarkitTick review, 2026-10-07).
+(MarkitTick review, 2026-10-07) · Button Genesis archaeology
+(forex-station, Tankk/P4L 2022 + TraderNeo LevelTrading 2005).
 
 This ledger is append-only. New audits append new strata; nothing is erased.
 
@@ -140,6 +141,53 @@ Opinion itself is analyzed — we learn from the reviewer too.*
     "critical" for what silently falsifies truth (look-ahead, muted
     signals), not for what is merely missing.
 
+## Stratum VI — The Ancestor (forex-station button genesis, 2026-10-07)
+
+*Origin: the Captain surfaced the Forex-Station button template (2022,
+Tankk's button / P4L's design dialogue) grafted onto TraderNeo's
+LevelTrading (2005) — the archaeological root of the Fleet Standard
+Button, with its original design dialogue preserved on the forum.
+Sources: viewtopic p1295479534 (release), p1295478883 (P4L's fix
+dialogue), p1295478806 (template code 1).*
+
+30. **The prefix-kill fossil predates the Fleet.** P4L's 2022 answer:
+    the button died on every deinit because its name shared the prefix
+    that `ObjectsDeleteAll` sweeps; the cure was a deliberately distinct
+    `_` prefix plus sparing on `REASON_CHARTCHANGE`. Our Divergence hull
+    carries the same fossil in `DeleteAllObjects()` — inherited from the
+    forum without citation. Archaeology confirmed: the law is older than
+    its ledger entry. Cite your ancestors.
+31. **The ancestor's memory was the object itself.** The template reads
+    `show_data` from `OBJPROP_STATE` and spares the button on TF change,
+    so state survives timeframe flips — session-scoped memory, zero GV.
+    It *works* within its epoch: this is the "robust implementation" of
+    record. Lesson #3 stands, but with nuance: the ancestor wasn't wrong
+    for 2022 — it was the stepping stone. Our GV grammar (R1/R2) is what
+    memory looks like after restarts, desk-sharing, and remote command
+    enter the requirements. Respect the stone; keep the law.
+32. **Form and Function are separate jurisdictions.** The ancestor's
+    function was sound; its form was flat. The Fleet Standard governs
+    both, separately: Function (memory grammar, sovereignty, telemetry)
+    is codified in R1–R8/T1–T5; Form (the beveled face, palette C1,
+    geometry 89×21) is the Captain's design ruling. A graft may inherit
+    the function wholesale — the FORM must still be re-seated to the
+    Fleet Standard. Never let a sound mechanism smuggle in a foreign
+    face. (Corollary: Form must be set *explicitly* in code — a default
+    you rely on is a default that can change.)
+33. **Living Lines are 2005-native.** TraderNeo's LevelTrading scaled
+    level width 1–5 by confirmation count — "the market writes the
+    thickness," twenty years before Czernobog's W4. Our Wave-1
+    assimilation was a homecoming, not an invention. When a "new" idea
+    appears, check the ancestors first — the Fleet's own lineage is the
+    richest donor bank.
+34. **A level's death is a signal.** The 2022 breakout graft (file 2)
+    keyed its alerts on level *termination* — the moment a level line
+    ended at the just-closed bar. Conceptually the Rulebook's
+    CONFIRMED_BREAK wearing forum clothes. Candidated as the
+    `BEACON_LVL_` family for Wave 2. (Its sovereignty violation —
+    alerts gated by `show_data` — is recorded in the debt register as
+    the pattern to cut, not to copy.)
+
 ---
 
 ## Open Debt Register (tracked, not yet authorized)
@@ -158,3 +206,5 @@ Opinion itself is analyzed — we learn from the reviewer too.*
 | Alert path broken under input mode + dead payload params | Trident v1.01 | Contract — High |
 | 32-bit intermediate overflow in time extrapolation | Trident v1.01 | Range — Medium |
 | ChartID-only prefix collides at 2nd instance on same chart | Trident v1.01 | Namespace — Medium |
+| Breakout alerts gated by `show_data` (ink gate strangles wire) | LevelTrading+BO graft | Sovereignty — High |
+| Name-parsed bar indices index a rebuilt array (mute risk) | LevelTrading+BO graft | Fragility — Medium |
