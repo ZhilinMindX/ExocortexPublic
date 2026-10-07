@@ -313,6 +313,11 @@ track record. Kent gave us the vocabulary; scoring gives us the discipline.
     SCORE: <Brier score at resolution, 0.0 = perfect>
 
 ### Rules
+0. **[FAST] tier (2026-09-13, RSIAdjudication D4):** claims produced on a
+   System-1/fast path (routine queries, single-voice answers) are tagged
+   `[FAST]` and default to Kent band "Chances about even (50% ± 10%)"
+   until a deliberation upgrades them. Fast answers may inform; only
+   deliberated answers may calibrate.
 1. Every Council judgment about a future or unverifiable state that carries
    a Kent band MUST be logged here with a review date or trigger.
 2. At review, resolve and compute Brier score: (p − o)², where p is the
