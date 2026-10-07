@@ -4,7 +4,7 @@ run: RUN-001
 version: 1.0
 created: 2026-09-13
 trigger: Architect's order (trigger mode: scheduled/judgment, NFD §5.4)
-status: COMPLETE — 3 candidates PENDING RATIFICATION (Architect gate, constitutional)
+status: RATIFIED 2026-09-13 — all 3 candidates promoted to F-003/F-004/F-005 by the Architect's word
 ---
 
 # Crystallization RUN-001 — Maiden Distillation of the Still
@@ -62,7 +62,7 @@ ledger. Pattern: celebrated quotes are guilty until proven innocent.
 - Feynman: "The first principle is you must not fool yourself" — P3 is
   the ledger not fooling itself about quotes. Pass.
 
-## Candidates for Ratification (PENDING — Architect's word required)
+## Candidates for Ratification (RATIFIED 2026-09-13 — all three, Architect's word; entered as F-003/F-004/F-005)
 
 **CANDIDATE-1 (from P1):** *Before any operation that writes, transmits,
 or transforms, verify the path's constraints (size, destination,
