@@ -43,7 +43,7 @@ the anti-black-box answer to vector memory.
   against API ground truth and primary papers before adjudicating; the
   audit-first pattern (NFD) costs an hour and prevents cargo-cult adoption
 
-### TRAJ-001 | 2026-09-07 | tags: [github, tooling, failure-mode]
+### TRAJ-001 | 2026-09-07 | tags: [github, tooling, failure-mode] | CRYSTALLIZED-IN: RUN-001
 - CONTEXT: committing encrypted shards to private vault via API
 - CHOSEN: inline content push (no alternative without shell token)
 - RESULT: repeated emission failure; zero commits; token waste
@@ -51,7 +51,7 @@ the anti-black-box answer to vector memory.
 - LESSON: large inline payloads unreliable -> route big artifacts via Architect
   manual upload; keep API writes small (<5KB)
 
-### TRAJ-002 | 2026-09-07 | tags: [security, opsec, vault]
+### TRAJ-002 | 2026-09-07 | tags: [security, opsec, vault] | CRYSTALLIZED-IN: RUN-001
 - CONTEXT: insurance archive uploaded to ExocortexPublic instead of private vault
 - CHOSEN: Architect manual upload; wrong target repo
 - RESULT: ciphertext publicly exposed briefly; caught by URL check
