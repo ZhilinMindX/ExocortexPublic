@@ -1,5 +1,5 @@
 # BEST_PRACTICES.md — TeknoLite Fleet Craft Codex
-**Version:** 1.0 · **Established:** 2026-10-07 · **Mandate:** the
+**Version:** 1.1 · **Established:** 2026-10-07 · **Mandate:** the
 operational distillation of LESSONS_LEARNED.md — every law, fossil and
 assimilation, rendered as *what we actually do*.
 
@@ -41,90 +41,96 @@ assimilation, rendered as *what we actually do*.
    (Trident §4.8 class)
 10. **New inputs append at END only** — the `.set` is senior; positional
     re-seating is a breaking change. (L16)
+11. **Unified Starting Defaults.** Fleet-wide shared defaults — one bars-
+    history standard (no hull at 89, none at 610, unless its engine
+    *proves* the need), one ATR length, one anchor policy — so no hull
+    hogs resources and none starves of candles; "bars enough for the
+    job" is never in doubt. Deviations must justify themselves in the
+    header HYPOTHESIS. (Captain's ruling, 2026-10-07)
 
 ## II. CODING — Contract Plane (the Second-Opinion gates, L22)
 
-11. **Run every Analysis in two passes:** Mechanism (engine, state, math)
+12. **Run every Analysis in two passes:** Mechanism (engine, state, math)
     then Contract (ink, alerts, logs, GV, inputs, namespaces). One plane
     audited = five bugs hidden. (L22)
-12. **Representation Parity:** every outward channel renders *current*
+13. **Representation Parity:** every outward channel renders *current*
     truth — ink uses managed stop, not birth stop; log tags name the
     actual build. (L23)
-13. **Temporal Honesty:** for every drawn object and every external
+14. **Temporal Honesty:** for every drawn object and every external
     read — "was this knowable at this time coordinate?" HTF reads inside
     historical loops must be time-indexed (`iBarShift`), never
     present-tense. (L24)
-14. **Range & evaluation-order check:** any arithmetic feeding a
+15. **Range & evaluation-order check:** any arithmetic feeding a
     time/price/key is cast before it overflows — the bug lives in the
     32-bit intermediate. (L25)
-15. **Namespaces survive N instances per chart:** identity = family +
+16. **Namespaces survive N instances per chart:** identity = family +
     chart + instance (or a documented one-per-chart ruling with an
     escape hatch). (L26, R8)
-16. **Alert contracts are payloads, not decoration:** direction, action,
+17. **Alert contracts are payloads, not decoration:** direction, action,
     symbol, TF in every message; dedup by *event identity*, not bar time;
     an event×mode matrix proves every alertable path fires. (Trident
     §4.3/§4.4 class)
-17. **Sovereignty:** publisher hulls gate RENDERING ONLY — beacons,
+18. **Sovereignty:** publisher hulls gate RENDERING ONLY — beacons,
     alerts, journals never sleep. The ink gate never strangles the wire.
     (L2, R7, CSR/LevelTrading debts)
 
 ## III. TELEMETRY
 
-18. **Every module carries one-line L2** with SCOPE / STATE (enum:
+19. **Every module carries one-line L2** with SCOPE / STATE (enum:
     DEFINED→WIRED→FIELD-TESTED→HARDENED→FROZEN / DEPRECATED) /
     HYPOTHESIS. (T1, T2; L9, L10)
-19. **The ### step log is FIFO, last 3, and logs failures first.** A
+20. **The ### step log is FIFO, last 3, and logs failures first.** A
     lesson not in the step log doesn't exist for the next hull. (L7, L8,
     L20)
-20. **SESSION CONTEXT ships in the skeleton,** not in memos. (L11, T4)
-21. **Telemetry tiers have measured triggers or are retired.** (L12)
-22. **Comment surgery earns its own version.** (L21)
+21. **SESSION CONTEXT ships in the skeleton,** not in memos. (L11, T4)
+22. **Telemetry tiers have measured triggers or are retired.** (L12)
+23. **Comment surgery earns its own version.** (L21)
 
 ## IV. PROCESS
 
-23. **Brainstorm before blueprint, blueprint before brick.** Rulings
+24. **Brainstorm before blueprint, blueprint before brick.** Rulings
     first, code second. (L15)
-24. **Standards are extracted from convergent behavior,** not imposed
+25. **Standards are extracted from convergent behavior,** not imposed
     against it. (L6)
-25. **Field evidence outranks elegance** — journals and hit-rates govern
+26. **Field evidence outranks elegance** — journals and hit-rates govern
     what gets built next. (L18)
-26. **Cite your ancestors.** When a pattern has a known origin
+27. **Cite your ancestors.** When a pattern has a known origin
     (forex-station, TraderNeo, a forum post), the fossil names it.
     (L30)
-27. **Defect vs. design fork, always:** bound a strength, don't rewrite
+28. **Defect vs. design fork, always:** bound a strength, don't rewrite
     it. Remedies are audited separately from findings. (L27)
-28. **Append-only memory:** ledgers, inventories and hull archives gain
+29. **Append-only memory:** ledgers, inventories and hull archives gain
     strata; nothing is erased. (Ledger law)
-29. **Original is sacred; rendering is tagged.** Verbatim sources are
+30. **Original is sacred; rendering is tagged.** Verbatim sources are
     copied, never edited; every Fleet change rides as `[ENH]`/`[IMP]`/
     `[OPT]` with its law cited. (Inventory law)
 
 ## V. DESIGN / FORM
 
-30. **Form and Function are separate jurisdictions.** A graft may
+31. **Form and Function are separate jurisdictions.** A graft may
     inherit function wholesale; the FORM is re-seated to the Fleet
     Standard regardless. (L32)
-31. **Form is set explicitly in code** — bevel, palette, geometry:
+32. **Form is set explicitly in code** — bevel, palette, geometry:
     `BORDER_RAISED`, C1 palette (aqua/red on #373737/#222222), 89×21.
     A default you rely on is a default that can change. (L32 corollary,
     R5)
-32. **The market writes the thickness** — maturation speaks through an
+33. **The market writes the thickness** — maturation speaks through an
     existing visual channel (width), never a new face. (L33, W4)
-33. **In a reconstrue, "improvement" of the visible surface is drift.**
+34. **In a reconstrue, "improvement" of the visible surface is drift.**
     Fix the hull, never the face — unless the Captain rules a form
     change. (Parity Law, S2 fossil)
 
 ## VI. REVIEW METHOD
 
-34. **Every hull receives a Second Opinion;** the Second Opinion itself
+35. **Every hull receives a Second Opinion;** the Second Opinion itself
     is analyzed — findings, remedies, and *its* method. (L28, standing
     order)
-35. **Differential, not verdict:** diff catches both ways, log what each
+36. **Differential, not verdict:** diff catches both ways, log what each
     side saw and missed; the miss-list feeds the audit gates. The method
     learns from being reviewed. (L28)
-36. **Severity is triaged:** "critical" is reserved for what silently
+37. **Severity is triaged:** "critical" is reserved for what silently
     falsifies truth — look-ahead, muted signals, lying ink. (L29)
-37. **Audit the Standard-bearer first** at every new stratum; doctrine
+38. **Audit the Standard-bearer first** at every new stratum; doctrine
     untemplated is doctrine unpropagated. (L19, L11)
 
 ---
