@@ -330,6 +330,12 @@ track record. Kent gave us the vocabulary; scoring gives us the discipline.
     ISSUED: 2026-09-12 | REVIEW: 2026-12-11
     ISSUING-PANEL: Exocortex self-assessment, Council-architecture-audit session
     RESOLUTION: pending
+    PROGRESS-CHECK 2026-09-13 (Architect-ordered early review): EDL at F-002
+    of F-010 (20%), day 1 of 90. Required rate: ~1 F-entry / 9 days.
+    Crystallization RUN-001 (2026-09-13) produced 3 ratification-pending
+    candidates; if ratified, F-005 = 50% on day 2 — ahead of schedule.
+    NOT resolved: scoring a 90-day assessment on day 1 would corrupt the
+    Brier discipline. Resolution remains due 2026-12-11.
 
 
     CLAIM-020 | Turchin corpus (A66-A69) is Architect-owned; plaintext vault-only
