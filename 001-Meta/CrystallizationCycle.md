@@ -1,6 +1,6 @@
 ---
 doc: CrystallizationCycle
-version: 1.1
+version: 1.2
 status: active
 created: 2026-09-12
 origin: SecondOpinionReview-2026-09-12 adoption B.1 (Architect order: "absorbed, adopted and assimilated, at once")
@@ -27,7 +27,10 @@ that runs on it.
 ## The Rite (periodic + triggerable)
 
 **Cadence:** every 20 trajectories, or on the Architect's order, or when
-voice_health() telemetry shows an anomaly pattern.
+voice_health() telemetry shows an anomaly pattern, or **on prediction
+error**: a resolved assessment or claim with Brier error above 0.25 (a
+confident miss) triggers a crystallization event for the doctrine that
+produced it (v1.2, adopted from RSIAdjudication-2026-09-13 D4).
 
 **Procedure:**
 1. **SWEEP** — read all new trajectories and resolved/open claims since
@@ -82,6 +85,9 @@ telemetry before decay (F-002) applies to doctrine itself.
   we have not seen. Ordered by the Architect, 2026-09-13.
 
 ### Changelog
+- v1.2 (2026-09-13): error-triggered crystallization adopted from the
+  Unified Cognitive Loop review — doctrine evolution now reacts to
+  measured prediction error, not only to the calendar.
 - v1.1 (2026-09-13): NFD conformance audit gaps closed — consumption
   marking (GAP-1), six-category experiential tags (GAP-2), efficiency
   metric η (GAP-3). Source: NFDConformanceAudit-2026-09-13
