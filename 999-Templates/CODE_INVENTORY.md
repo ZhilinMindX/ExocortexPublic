@@ -1,5 +1,5 @@
 # CODE INVENTORY — TeknoLite Fleet Reference Archive
-**Version:** 1.0 · **Date:** 2026-09-13 · **Doctrine:** FLEET_STANDARD v1.1 (R1–R8, T1–T5)
+**Version:** 1.1 · **Date:** 2026-10-08 · **Doctrine:** FLEET_STANDARD v1.1 (R1–R8, T1–T5)
 
 > **Purpose.** This is the Fleet's inventory of *good ideas found along the way*.
 > Each entry follows the same anatomy:
@@ -23,7 +23,7 @@
 
 ## SNIPPET #001 — THE FLEET STANDARD BUTTON
 
-**State:** FROZEN (template v3.1) · **Governing doctrine:** FLEET_STANDARD R1–R8 · **Ledger:** LESSONS_LEARNED #1, #2, #8, #17, #20
+**State:** FROZEN (template v3.2) · **Governing doctrine:** FLEET_STANDARD R1–R8 · **Ledger:** LESSONS_LEARNED #1, #2, #8, #17, #20
 
 ### IDEA
 
@@ -147,7 +147,7 @@ void DeleteAllObjects()
   before Lesson #8 existed).
 - Failure fossil of the prefix-kill bug → button-sparing manual sweep.
 
-### FLEET RENDERING — template v3.1 (`Fleet_Hulls/FleetToggleButton_v3_0.mq4`)
+### FLEET RENDERING — template v3.2 (`Fleet_Hulls/FleetToggleButton_v3_2.mq4`)
 
 Everything below is **ours**, layered on the original. Full verbatim
 module lives in the hull file; this table is the delta map.
@@ -166,6 +166,9 @@ module lives in the hull file; this table is the delta map.
 | 10 | `[OPT]` | **Version-gated memory restore** (`FTB_VERSION` 3.0 frozen) — stale-format GV memory rejected, desk resets avoided | R5 |
 | 11 | `[OPT]` | **Off-screen spawn then seat** (9999→seat) — no flash at 0,0 | original pattern, formalized |
 | 12 | `[ENH]` | **Telemetry** — `[TRACE]` toggles/resyncs, `[CANARY]` ghost purges, `[ANOMALY]` create failures; `InpButtonDebug` gate | T1–T5 codicil |
+| 13 | `[IMP]` | **Explicit `OBJPROP_BORDER_TYPE = BORDER_RAISED` at create** — the Fleet bevel is codified form law, never a relied-upon terminal default | L32 corollary (Form vs Function), v3.2-F1 |
+| 14 | `[IMP]` | **Log-tag = build parity** — every log line names the actual build (`[FTB v3.2]`) | L23 (Representation Parity), v3.2-F2 |
+| 15 | `[ENH]` | **One-family-per-chart ruling documented in R3** — multi-desk split is R8 slot suffix, never a second family on one chart | L26, v3.2-F3 |
 
 **Known corrections still open** (debt register cross-ref):
 

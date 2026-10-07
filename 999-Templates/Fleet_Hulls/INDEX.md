@@ -1,5 +1,5 @@
 # FLEET HULLS — Whole-Code Registry
-**Version:** 1.0 · **Date:** 2026-09-13
+**Version:** 1.1 · **Date:** 2026-10-08
 
 > A **HULL** is a whole code, preserved complete at a frozen version.
 > (Reusable *parts* live in `../CODE_INVENTORY.md` as SNIPPETS.)
@@ -12,8 +12,9 @@
 | # | Hull | File | Version | State | Lineage / Notes |
 |---|------|------|---------|-------|-----------------|
 | 0 | Fleet Standard Button (reference template) | `FleetToggleButton_v3_0.mq4` | 3.1 (FTB_VERSION 3.0 frozen) | FROZEN | The Standard made flesh. Self-test harness hull. Source of SNIPPET #001 Fleet Rendering. |
+| 1 | Fleet Standard Button (form & parity patch) | `FleetToggleButton_v3_2.mq4` | 3.2 (FTB_VERSION 3.0 frozen) | CURRENT | Patch of hull #0, Captain-authorized 2026-10-08: F1 explicit `BORDER_RAISED` bevel (form codified — L32 corollary), F2 log tags = build version (L23), F3 one-family-per-chart ruling in R3 (L26). Memory format untouched — no desk resets. Now the reference source of SNIPPET #001 Fleet Rendering. |
 
-*Hulls #1+ (TeknoLite_Channel v1.03, and each fleet member as it is
+*Hulls #2+ (TeknoLite_Channel v1.03, and each fleet member as it is
 unified to the new Standards) will be committed in the proper time,
 per Captain's ruling.*
 
@@ -25,7 +26,7 @@ per Captain's ruling.*
 All fleet versions of every shared mechanism must be aligned to speak
 one language and unified to the new Standards:
 - one memory grammar (`FLEETBTN_`, `BEACON_` TTL doctrine — SPHINX),
-- one button module (SNIPPET #001, v3.1 rendering),
+- one button module (SNIPPET #001, v3.2 rendering — hull #1),
 - one telemetry codicil (T1–T5), one step-log discipline,
 - lookback bounds as law (InpMaxBars pattern — the Trident's unbounded
   per-tick full replay is expressly rejected in our implementations).
