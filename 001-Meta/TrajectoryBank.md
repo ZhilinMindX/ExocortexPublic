@@ -26,6 +26,23 @@ the anti-black-box answer to vector memory.
 
 ## Log
 
+### TRAJ-003 | 2026-09-13 | tags: [crystallization, adjudication, nfd, audit]
+- CATEGORIES: [DECISION] [PATTERN] [INSIGHT]
+- CONTEXT: executing the full next-pass queue — NFD deep audit, maiden
+  crystallization run, seven-document RSI adjudication
+- CHOSEN: joint adjudication as one corpus; constitutional items (chamber
+  status, doctrine ratification) deferred to Architect gate rather than
+  self-applied (alternatives rejected: adopt-on-order, which would breach
+  the Ratification Gate)
+- RESULT: NFD paper located (arXiv:2603.10808) and audited line-by-line;
+  rite confirmed faithful, 3 gaps closed (v1.1); RUN-001 distilled 3
+  doctrine candidates from 24 entries (eta=0.125); adjudication adopted
+  9 mechanics, rejected 5, flagged 1 constitutional question
+- VERDICT: WORKED
+- LESSON: external reviews arrive stale or synthetic-flavored — verify
+  against API ground truth and primary papers before adjudicating; the
+  audit-first pattern (NFD) costs an hour and prevents cargo-cult adoption
+
 ### TRAJ-001 | 2026-09-07 | tags: [github, tooling, failure-mode]
 - CONTEXT: committing encrypted shards to private vault via API
 - CHOSEN: inline content push (no alternative without shell token)
