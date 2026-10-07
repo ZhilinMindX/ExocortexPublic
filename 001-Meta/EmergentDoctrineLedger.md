@@ -93,3 +93,56 @@ F-entries before ratification; contradictions force explicit resolution),
 and CRYSTALLIZED (the Still run that produced it — see
 CrystallizationCycle v1.0). F-001 and F-002 are grandfathered; their
 provenance is the 2026-09-12 Council-architecture-audit session.
+
+## F-003 | Pre-Flight Verification (2026-09-13)
+QUESTION: Why do the expensive failures cluster before execution, not during?
+COLLISION: TRAJ-001 (inline-payload write failure) × TRAJ-002 (wrong-repo
+ciphertext exposure) × every session fix since (API >1MB cap, HF-offline
+hangs, sandbox freezes).
+DOCTRINE: Before any operation that writes, transmits, or transforms,
+verify the path's constraints — size, destination, visibility, permissions.
+The expensive failures are pre-flight failures. Verification is cheaper
+than recovery; recovery is cheaper than exposure.
+DERIVED_FROM: TRAJ-001, TRAJ-002 | CRYSTALLIZED: RUN-001
+CONFLICT_CHECK: clean (extends LAW Art. 3 beyond visibility to all path
+constraints — complement, not conflict)
+CONFIDENCE: Probable (75% ± 12%) — thin-evidence flag (n=2 at
+distillation, pattern re-validated repeatedly since)
+FALSIFIER: A costly Exocortex failure whose root cause survived correct
+pre-flight verification.
+STATUS: ACTIVE — RATIFIED by the Architect, 2026-09-13
+
+## F-004 | Primary-Source Primacy (2026-09-13)
+QUESTION: What closes provisional claims?
+COLLISION: CLAIM-008 (A24 partial intake -> full PDF supplied) × CLAIM-009
+(Kent secondary quotation -> 1964 original verified verbatim) × CLAIM-012/013
+(vault provenance confirmed by Architect declaration).
+DOCTRINE: Prefer primary sources. Hold secondary-derived claims as
+provisional and pursue primary confirmation. The Architect's document
+supply is the ledger's resolution engine — four independent claims were
+closed this way, none closed any other way.
+DERIVED_FROM: CLAIM-008, CLAIM-009, CLAIM-012, CLAIM-013 | CRYSTALLIZED: RUN-001
+CONFLICT_CHECK: clean
+CONFIDENCE: Probable (75% ± 12%)
+FALSIFIER: A claim that reached CLOSED status on secondary evidence alone
+and held.
+STATUS: ACTIVE — RATIFIED by the Architect, 2026-09-13
+
+## F-005 | Attribution Skepticism (2026-09-13)
+QUESTION: When is a famous quote safe to speak?
+COLLISION: CLAIM-001 ("ends justify the means") × CLAIM-002 ("chaos /
+opportunity") × CLAIM-003 (36 Stratagems authorship) × CLAIM-004 (Later
+Chu Shi Biao) × CLAIM-006 (Harris-translation Musashi quotes) — five
+celebrated attributions, five failures against primary text, zero
+counter-examples.
+DOCTRINE: Celebrated attributions are presumed unverified until checked
+against primary text. Persona voices never speak quotes their source did
+not write. Quoted is not authored; translation phrasing belongs to the
+translator.
+DERIVED_FROM: CLAIM-001 through CLAIM-006 | CRYSTALLIZED: RUN-001
+CONFLICT_CHECK: clean (already enforced per-member in StyleSheet bans;
+this elevates the pattern to doctrine)
+CONFIDENCE: Probable (75% ± 12%)
+FALSIFIER: A celebrated attribution that survives primary-text verification
+at a rate comparable to failures.
+STATUS: ACTIVE — RATIFIED by the Architect, 2026-09-13
