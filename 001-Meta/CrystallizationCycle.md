@@ -1,6 +1,6 @@
 ---
 doc: CrystallizationCycle
-version: 1.0
+version: 1.1
 status: active
 created: 2026-09-12
 origin: SecondOpinionReview-2026-09-12 adoption B.1 (Architect order: "absorbed, adopted and assimilated, at once")
@@ -31,8 +31,13 @@ voice_health() telemetry shows an anomaly pattern.
 
 **Procedure:**
 1. **SWEEP** — read all new trajectories and resolved/open claims since
-   the last run. List recurring claims, validated predictions, falsified
+   the last run (entries not yet tagged `CRYSTALLIZED-IN: RUN-###`).
+   List recurring claims, validated predictions, falsified
    predictions, and decision patterns with observed outcomes.
+   (v1.1/NFD: experiential records carry the six NFD category tags —
+   [DECISION] [INSIGHT] [ERROR] [PATTERN] [CONTEXT] [OP-RECORD] — to
+   make extraction efficient; TrajectoryBank template extended
+   accordingly.)
 2. **DISTILL** — apply the four formal operations:
    - `GENERALIZE(claims...) -> doctrine-candidate` — specific repeated
      claims become a general principle.
@@ -53,6 +58,11 @@ voice_health() telemetry shows an anomaly pattern.
 5. **RECORD** — ratified entries get F-numbers with full provenance
    (parent trajectories and claims named — see EmergentDoctrineLedger
    v1.1 schema). Rejected candidates are logged with reasons.
+   Every source entry consumed by the run is tagged
+   `CRYSTALLIZED-IN: RUN-###` (marked, never deleted — Art. 5), so the
+   next SWEEP reads only fresh experience. Each run report records the
+   efficiency metric η = ΔStructure / |E consumed| (doctrine assets
+   produced per entries consumed) — the Still's quality dial.
 
 ## Decay Clause
 
@@ -72,6 +82,10 @@ telemetry before decay (F-002) applies to doctrine itself.
   we have not seen. Ordered by the Architect, 2026-09-13.
 
 ### Changelog
+- v1.1 (2026-09-13): NFD conformance audit gaps closed — consumption
+  marking (GAP-1), six-category experiential tags (GAP-2), efficiency
+  metric η (GAP-3). Source: NFDConformanceAudit-2026-09-13
+  (arXiv:2603.10808).
 - v1.0 (2026-09-12): initial rite, adopted from the second-opinion
   review's Knowledge Crystallization Cycle (NFD pattern), hardened with
   CONTRADICT and the constitutional ratification gate.
