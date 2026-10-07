@@ -1,7 +1,7 @@
 ---
 doc: RSIAdjudication
 version: 1.0
-status: ADJUDICATED 2026-09-13 — constitutional items await the Architect's explicit word
+status: CLOSED 2026-09-13 — constitutional flag RESOLVED by the Architect: chambers KEPT (see §II ruling)
 closes: TASK-RSI-ADJUDICATE
 documents-adjudicated: RepoStateComparison-2026-09-13, RSIArchitectureReview-2026-09-13,
   BeyondBicameral-2026-09-13, UnifiedCognitiveLoop-2026-09-13,
@@ -103,7 +103,20 @@ official theory-of-why for the Claim Ledger.
 - **Mantra-as-governance, heavyweight output format** — REJECTED: prompt-adherence
   is not governance; token cost incompatible with operations.
 
-## II. Constitutional Flag (Architect's word required)
+## II. Constitutional Flag — RESOLVED BY THE ARCHITECT (2026-09-13)
+
+**RULING: The Chambers stay.** The Architect's word: "Keep the Chambers.
+They are Foundational, and must be respected as such. The Bicameral Mind
+is our implementation of the Brain's Bi-Hemispherical Structure."
+The bicameral architecture is hereby confirmed as constitutional identity,
+not a disposable scaffold. The UCL dynamics (attention, dual-process,
+prediction-error) are adopted as RUNTIME THEORY layered underneath the
+chambers — the chambers govern WHO speaks and how voices are organized;
+the dynamics describe HOW information flows. Any future proposal to demote
+the chambers requires a full constitutional amendment before the Architect.
+
+(Original flag text preserved below.)
+
 
 D3/D4 propose demoting the Logic/Creativity chambers to "tags". This touches
 BicameralMind.md, CouncilOfVoices, BootPrompt — founding identity documents.
