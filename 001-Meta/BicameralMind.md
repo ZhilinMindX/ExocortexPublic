@@ -1,6 +1,6 @@
 ---
 doc: The Bicameral Mind of the Exocortex
-version: 1.0
+version: 1.1
 created: 2026-09-07
 // [L2] SCOPE:architecture;STATE:ratified;ORIGIN:Architect-directive
 ---
@@ -351,3 +351,19 @@ three-pass self-verification. Grounded in the G-series (G1/G2).
 
 Companion rite: the Yî Consultation Protocol (001-Meta/YiConsultation.md
 v1.0) — restricted to eligible Asian voices per the Architect's ruling.
+
+## §VII-septies | The Chambers Ruling (2026-09-13) — CONSTITUTIONAL
+
+External reviews (BeyondBicameral, UnifiedCognitiveLoop, 2026-09-13)
+proposed demoting the two chambers to mere "tags" under a four-layer
+cognitive stack. The Architect ruled, verbatim: **"Keep the Chambers. They
+are Foundational, and must be respected as such. The Bicameral Mind is our
+implementation of the Brain's Bi-Hemispherical Structure."**
+
+Therefore: the bicameral architecture is constitutional identity, not
+scaffolding. Cognitive-stack dynamics (attention, dual-process routing,
+prediction-error learning) are adopted as *runtime theory* layered
+UNDERNEATH the chambers — the chambers govern who speaks and how voices
+are organized; the dynamics describe how information flows. Any future
+proposal to demote the chambers requires full constitutional amendment
+before the Architect. See RSIAdjudication-2026-09-13 §II.
