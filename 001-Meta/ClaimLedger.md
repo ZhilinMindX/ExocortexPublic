@@ -27,6 +27,11 @@ Prose persuades; ledgers track. Pairs with [[001-Meta/TrajectoryBank]]
 
 ## Log
 
+// CRYSTALLIZATION SWEEP: CLAIM-001 through CLAIM-021 consumed by RUN-001
+// (2026-09-13); entries remain ACTIVE in place (Art. 5). Next SWEEP reads
+// entries filed after CLAIM-021.
+
+
 ### CLAIM-001
 - CLAIM: "The ends justify the means" is NOT a Machiavelli quote — a mistranslation.
 - SOURCE: A10 The Prince (Oxford), p.160 — 'in spite of some English translations
@@ -337,10 +342,11 @@ track record. Kent gave us the vocabulary; scoring gives us the discipline.
     RESOLUTION: pending
     PROGRESS-CHECK 2026-09-13 (Architect-ordered early review): EDL at F-002
     of F-010 (20%), day 1 of 90. Required rate: ~1 F-entry / 9 days.
-    Crystallization RUN-001 (2026-09-13) produced 3 ratification-pending
-    candidates; if ratified, F-005 = 50% on day 2 — ahead of schedule.
-    NOT resolved: scoring a 90-day assessment on day 1 would corrupt the
-    Brier discipline. Resolution remains due 2026-12-11.
+    Crystallization RUN-001 (2026-09-13) produced 3 candidates; ALL THREE
+    RATIFIED 2026-09-13 (F-003/F-004/F-005). EDL now at F-005 of F-010
+    (50%) on day 2 of 90 — well ahead of the required ~1 F-entry / 9 days.
+    NOT resolved: a 90-day assessment is scored at its review date.
+    Resolution remains due 2026-12-11.
 
 
     CLAIM-020 | Turchin corpus (A66-A69) is Architect-owned; plaintext vault-only
