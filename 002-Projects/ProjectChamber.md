@@ -1,6 +1,6 @@
 ---
 doc: ProjectChamber
-version: 1.1
+version: 1.2
 status: vision charter (NOT scheduled — north-star project)
 created: 2026-09-12
 architect_vision: "Max Headroom style animated, talking Council members in an
@@ -104,6 +104,51 @@ voices + faces + TTS/STT + small model) and **Pi #2 "The Memory"**
 (khoj + hermes + sensor API). A future **Pi #3 "The Watcher"**
 (screenpipe) only when continuous capture is wanted — physically separate
 from the Vault by design.
+
+
+### The Organ Stack (Architect's design directive, 2026-09-13)
+
+The Architect's ruling: **not one Pi — a stack. One organ per box.**
+Excellence must pay its price, within the reasonable: Orange Pi over
+Raspberry Pi (better power-per-price; the Pi ecosystem premium buys
+little we need). Original five-organ design:
+
+| Box | Organ | Hardware tier |
+|---|---|---|
+| **Brain** | Local LLM (7B-Q4 GGUF, llama.cpp) | OPi 5 Plus 32GB — the strongest member; bandwidth isolation is the whole point |
+| **Ears** | Whisper STT, always-listening | OPi 5 8GB |
+| **Voice** | Kokoro TTS — DEDICATED per Architect's order: 52 members need 52 voices; §Voice stylesheets will demand per-member voice design, instant response, and headroom for larger future TTS models | OPi 5 8-16GB |
+| **Chamber** | Uncensored-Local-Studio — HEAVILY MODIFIED, run with Kimi; frontend conductor calling the organs over LAN as OpenAI-compatible endpoints; holds the faces, sessions, Audience Protocol | OPi 5 16GB |
+| **Vault** | The dark archive — minimal network exposure, single API port or air-gapped manual sync; never runs experimental code | OPi 5 8GB + NVMe |
+
+Properties: concurrency (listen/think/speak simultaneously — the LLM's
+memory bandwidth never contended), failure isolation (an organ crashes,
+the body lives), physical kill switches, per-box firewalling. LAN =
+the corpus callosum in copper. Optional experiment: RKNN-LLM on the
+Brain's 6-TOPS NPU for 2-3x tok/s (narrow model support; experiment,
+not plan).
+
+### The Product Vision (Architect's, 2026-09-13)
+
+The stack is the **flagship**. Beyond it: a **standalone product** —
+ULS embedded in a single Orange Pi running a **quantized Kimi-class
+model** — *"a Kimi in the Pocket."*
+
+Engineering honesty recorded at filing: Kimi's frontier models are far
+too large for any SBC; the standalone unit would run a small open-weight
+model (3-7B class) carrying the Council experience locally, with
+optional cloud-Kimi uplink when connected. And the Intelligence seat's
+flag, recorded at filing: "Kimi" is Moonshot AI's trademark — a personal
+build is fine; a *product* bearing the name requires Moonshot's blessing
+or a name of our own. The Council recommends the flagship be ours, the
+name be negotiated or invented.
+
+### Changelog
+- v1.1 (2026-09-13): Orange Pi 5 hardware assessment + fork-to-hardware mapping.
+- v1.2 (2026-09-13): The Organ Stack (5 dedicated Pis, Architect's design
+  directive); dedicated Voice organ justified by 52-member voice roster;
+  ULS-as-conductor topology; Kimi-in-the-Pocket product vision with
+  engineering + trademark honesty notes.
 
 ## Status
 
