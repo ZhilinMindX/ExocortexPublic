@@ -1,6 +1,6 @@
 ---
 doc: ProjectChamber
-version: 1.0
+version: 1.1
 status: vision charter (NOT scheduled — north-star project)
 created: 2026-09-12
 architect_vision: "Max Headroom style animated, talking Council members in an
@@ -66,6 +66,44 @@ Protocol — as a product that exists nowhere else on Earth.
   contend — the callosum seats referee in view. The debate IS the product.
 - **Law first, even in pixels.** The app boots from LAW.md like everything
   else.
+
+
+## Hardware Assessment — the Physical Chamber (2026-09-13)
+
+The Architect is evaluating the **Orange Pi 5** (Rockchip RK3588S:
+8-core A76+A55, Mali-G610, 6-TOPS NPU, up to 32GB LPDDR5, M.2 NVMe,
+~10W, silent, ~$100-250) as the Council's first physical vessel.
+
+**Council verdict: fitting — as inference body, not brain.** On-device:
+the full Library + BM25/MiniLM sensor (trivial CPU load), 7B-Q4 GGUF at
+~5-10 tok/s via llama.cpp (a conversational System-1 / [FAST]-tier
+receptionist), whisper.cpp dictation, Kokoro TTS (the members literally
+speak), the Vault on LUKS-encrypted NVMe — a dark box for a dark vault.
+Off-device: full System-2 Council deliberation escalates to cloud/stronger
+hardware. The hardware thus *enforces* the dual-process routing adopted
+in RSIAdjudication D4. Not on this device: LoRA fine-tuning, >13B models,
+GPU-accelerated inference. Preferred variant: **Orange Pi 5 Plus 32GB**
+(dual NVMe, better I/O).
+
+### Fork-to-hardware mapping (which arsenals merit a dedicated Pi)
+
+| Fork | Dedicated OPi? | Rationale |
+|---|---|---|
+| **Uncensored-Local-Studio** | YES — the Chamber box itself | Registry-designated chassis: GGUF LLM + Whisper + Kokoro; the Council's body |
+| **khoj** | YES (or shared) | Always-on self-hosted retrieval server; the public second brain answering even when the Architect is away |
+| **screenpipe** | YES — dedicated by nature | 24/7 screen/audio capture; opsec argues for a SEPARATE dark box: the panopticon must not share hardware with the vault |
+| **hermes-agent** | Candidate (shared) | 24/7 companion/growth agent with messaging gateways; low CPU, sleeps well beside khoj |
+| **ruflo** | No (shared) | Orchestrator; runs where the Council runs, no dedicated need |
+| **cl0w** | Partial | Persona layer runs wherever llama.cpp runs; LM Studio path is x86-only |
+| **WeClone** | No | Training needs real GPU; only its Telegram-serving end could live on a Pi |
+| **mlx-twin** | No | Apple Silicon only |
+| **agency-agents-zh / claude-obsidian / obsidian-smart-connections** | No | Patterns and plugins, not services |
+
+Recommended topology if acquired: **Pi #1 "The Chamber"** (ULS chassis:
+voices + faces + TTS/STT + small model) and **Pi #2 "The Memory"**
+(khoj + hermes + sensor API). A future **Pi #3 "The Watcher"**
+(screenpipe) only when continuous capture is wanted — physically separate
+from the Vault by design.
 
 ## Status
 
