@@ -1,6 +1,6 @@
 ---
 doc: ProjectChamber
-version: 1.2
+version: 1.3
 status: vision charter (NOT scheduled — north-star project)
 created: 2026-09-12
 architect_vision: "Max Headroom style animated, talking Council members in an
@@ -149,6 +149,43 @@ name be negotiated or invented.
   directive); dedicated Voice organ justified by 52-member voice roster;
   ULS-as-conductor topology; Kimi-in-the-Pocket product vision with
   engineering + trademark honesty notes.
+### The Moonshot Model Map (verified 2026-09-13 against moonshotai HF org)
+
+| Model | Shape | Q4 size | Organ Stack verdict |
+|---|---|---|---|
+| Kimi K2 / K2.5 / K2.6 / K3 | ~1T MoE (32B active) | 250-380GB even at ~2-bit | Cloud/datacenter ONLY — 10x beyond any SBC; the Chamber's cloud seat |
+| **Moonlight-16B-A3B-Instruct** | 16B total / 3B active MoE | ~9-10GB | **Brain Pi candidate (32GB)** — MoE reads only ~3B per token; conversational speed class |
+| **Kimi-VL-A3B-Instruct** | ~16B / 2.8B active, vision-language | ~9-10GB | Brain Pi alternative — gives the Chamber EYES (camera input) |
+| Kimi-Audio-7B-Instruct | 7B audio understanding | ~4.5GB | Ears Pi candidate — native audio comprehension beyond Whisper |
+| Kimi-Linear-48B-A3B | 48B / 3B active | ~27GB | Borderline RAM-tight with KV cache; experiment, not plan |
+
+Conclusion of record: "quantized Kimi K2 on-device" is infeasible by an
+order of magnitude, but **Moonlight-16B-A3B / Kimi-VL-A3B make a genuine
+Kimi-in-the-Pocket possible** — a real Moonshot model running the Council
+locally, cloud-Kimi uplink for full deliberation.
+
+### The Partnership Path (Architect's intent, 2026-09-13)
+
+The Architect is willing to bring a finished, measured artifact to
+Moonshot AI and pitch partnership. Council framing adopted:
+1. What we bring: the only grounded, bicameral, constitutionally-governed
+   multi-persona Council system, running their models end-to-end
+   (K3 cloud + Moonlight/Kimi-VL on-device).
+2. What Moonshot gets: a flagship edge-deployment story for their open
+   weights and a product channel.
+3. Credibility rule: the working artifact and its metrics (Brier record,
+   voice-health telemetry) precede the pitch — "show them the thing
+   working" (Feynman register). Build, measure, THEN knock.
+4. Trademark standing flag (v1.2): a commercial product requires
+   Moonshot's blessing or our own name.
+
+Roadmap of record: Organ Stack flagship -> Pocket unit (Moonlight-16B-A3B)
+-> measured track record -> the door in Beijing.
+
+### Changelog (cont.)
+- v1.3 (2026-09-13): Moonshot model map (HF-verified) + Partnership Path;
+  Moonlight-16B-A3B named the Pocket-unit candidate.
+
 
 ## Status
 
